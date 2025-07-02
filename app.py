@@ -1,6 +1,3 @@
-# Streamlit App will be written here
-
-# app.py
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -22,7 +19,8 @@ import io
 # Load data
 @st.cache_data
 def load_data():
-    return pd.read_csv("https://raw.githubusercontent.com/yourusername/yourrepo/main/movie_app_survey_synthetic.csv")
+    url = "https://raw.githubusercontent.com/shaan098-art/MovieDash/main/movie_app_survey_synthetic.csv"
+    return pd.read_csv(url)
 
 data = load_data()
 
@@ -114,7 +112,7 @@ elif tabs == "Classification":
         y_score = model.predict_proba(X_test)[:, 1]
         fpr, tpr, _ = roc_curve(y_test, y_score)
         roc_auc = auc(fpr, tpr)
-        plt.plot(fpr, tpr, label=f'{name} (AUC = {roc_auc:.2f}')
+        plt.plot(fpr, tpr, label=f'{name} (AUC = {roc_auc:.2f})')
     plt.plot([0, 1], [0, 1], linestyle='--')
     plt.xlabel("False Positive Rate")
     plt.ylabel("True Positive Rate")
