@@ -30,7 +30,8 @@ def preprocess_data(df):
     df = df.copy()
     df_encoded = df.copy()
     le = LabelEncoder()
-    binary_cols = df_encoded.select_dtypes(include='object').columns[df_encoded.nunique() == 2]
+    obj_cols = df_encoded.select_dtypes(include='object').columns
+    binary_cols = obj_cols[df_encoded[obj_cols].nunique() == 2]
     for col in binary_cols:
         df_encoded[col] = le.fit_transform(df_encoded[col])
     return df_encoded
