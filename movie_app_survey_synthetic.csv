@@ -1,0 +1,1001 @@
+Age,Gender,Monthly_Income,Occupation,Location_Type,Cinema_Visit_Frequency,Spend_Per_Visit,Movie_Importance,Preferred_Genres,Preferred_Time,Movie_Companion,Group_Movie_Conflict,Use_Poll_Booking,Seat_Importance,Pay_Extra_Seat,Buy_Snacks,Use_Snack_Preorder,Enjoy_PostCredit,Want_Spoiler_Free_Alerts,Inclusive_Screenings,Eco_Labels_Influence,Follow_Fan_Communities,Want_Exclusive_Content,AI_Recommendation_Interest,Loyalty_SplitPay_Interest,Use_App_Regularly
+53,Non-binary,1599,Retired,Tier-1 City,Monthly,77,1,"Sci-Fi, Documentary, Animation, Comedy, Horror, Other",Evening,Family,No,No,5,Yes,Yes,No,No,Yes,No,Yes,No,No,3,3,Yes
+43,Female,1079,Retired,Rural Area,Monthly,63,1,"Romance, Animation, Horror, Drama, Comedy, Sci-Fi",Night,Alone,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,5,3,Yes
+29,Female,3636,Working Professional,Tier-2 City,Weekly,70,3,"Animation, Horror, Other, Documentary, Action, Drama, Romance, Comedy",Morning,Partner,Yes,Yes,1,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,2,1,Yes
+57,Female,2149,Student,Tier-1 City,Monthly,91,2,"Animation, Other, Romance, Documentary, Comedy, Horror, Action, Drama, Sci-Fi",Night,Friends/Group,Yes,Yes,1,No,No,Yes,Yes,Yes,Yes,No,No,Yes,5,1,Yes
+22,Prefer not to say,5994,Other,Town,Never,69,2,"Documentary, Comedy, Sci-Fi, Horror",Morning,Alone,Yes,Yes,4,Yes,Yes,No,Yes,No,No,No,No,No,4,3,Yes
+35,Male,2602,Student,Tier-1 City,Never,46,2,"Drama, Animation, Documentary, Romance",Evening,Partner,No,Yes,4,Yes,Yes,No,Yes,No,Yes,No,No,Yes,3,2,Yes
+53,Male,9620,Other,Town,Rarely,81,1,"Comedy, Documentary, Animation, Drama, Romance",Night,Friends/Group,Yes,Yes,1,No,Yes,No,Yes,No,No,No,Yes,Yes,2,4,Yes
+33,Female,1513,Student,Rural Area,Weekly,99,5,"Animation, Comedy, Other, Drama, Sci-Fi, Horror, Documentary, Romance",Evening,Friends/Group,No,Yes,1,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,1,3,Yes
+37,Male,6074,Retired,Tier-1 City,Occasionally,97,1,"Action, Comedy, Documentary, Romance, Drama, Animation, Sci-Fi, Other",Evening,Friends/Group,No,Yes,5,No,Yes,No,Yes,Yes,No,No,No,Yes,2,1,Yes
+25,Female,4746,Homemaker,Tier-2 City,Occasionally,63,5,"Comedy, Other, Horror, Documentary, Drama, Action, Animation",Morning,Partner,Yes,No,5,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4,1,Yes
+25,Prefer not to say,4684,Homemaker,Tier-1 City,Rarely,100,4,"Action, Sci-Fi, Drama, Animation, Horror, Comedy",Night,Friends/Group,Yes,Yes,1,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,1,4,Yes
+38,Prefer not to say,33942,Working Professional,Tier-1 City,Rarely,79,1,"Other, Animation, Sci-Fi, Romance, Comedy",Night,Friends/Group,Yes,Yes,5,Yes,No,Yes,Yes,No,No,No,No,Yes,4,4,Yes
+50,Non-binary,4578,Other,Tier-1 City,Monthly,99,1,"Drama, Comedy, Sci-Fi, Horror, Animation",Evening,Alone,No,Yes,1,No,No,Yes,Yes,Yes,No,No,Yes,Yes,5,2,Yes
+54,Prefer not to say,3460,Other,Rural Area,Rarely,86,1,"Horror, Documentary, Sci-Fi, Comedy, Romance, Other, Drama, Animation, Action",Evening,Family,Yes,Yes,5,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,1,Yes
+38,Female,1351,Other,Tier-2 City,Rarely,44,2,"Action, Documentary, Drama, Romance, Sci-Fi, Comedy",Morning,Partner,Yes,No,1,Yes,No,No,Yes,Yes,No,Yes,No,Yes,5,5,Yes
+17,Prefer not to say,1082,Retired,Tier-1 City,Occasionally,109,2,"Documentary, Romance, Sci-Fi, Drama",Afternoon,Family,Yes,No,2,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,3,5,No
+36,Non-binary,7340,Other,Tier-2 City,Monthly,76,5,"Animation, Sci-Fi, Horror, Drama, Comedy, Other, Documentary, Action, Romance",Afternoon,Alone,No,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,5,2,Yes
+16,Male,3397,Homemaker,Rural Area,Rarely,86,5,"Romance, Sci-Fi, Other, Drama, Action, Horror, Comedy",Evening,Family,Yes,No,2,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,4,Yes
+38,Female,4980,Retired,Town,Rarely,48,1,"Action, Documentary, Animation, Drama",Afternoon,Friends/Group,Yes,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,4,1,Yes
+58,Male,2642,Student,Tier-1 City,Monthly,85,5,"Romance, Horror, Other, Comedy, Sci-Fi",Afternoon,Friends/Group,Yes,Yes,2,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,4,4,No
+44,Non-binary,1311,Other,Tier-2 City,Weekly,97,2,"Drama, Comedy, Romance, Animation, Action, Other",Afternoon,Partner,Yes,Yes,3,No,Yes,No,Yes,Yes,No,No,No,No,5,1,No
+52,Non-binary,1334,Other,Tier-2 City,Monthly,113,5,"Action, Romance, Documentary, Comedy, Other, Drama, Animation",Afternoon,Partner,No,Yes,4,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1,2,Yes
+16,Non-binary,3892,Student,Rural Area,Occasionally,103,4,"Animation, Drama, Comedy, Other, Sci-Fi, Documentary, Horror, Romance, Action",Evening,Partner,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1,3,Yes
+35,Male,2406,Other,Tier-1 City,Weekly,86,2,"Documentary, Sci-Fi, Romance, Drama, Action, Horror",Afternoon,Alone,No,No,4,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,3,2,Yes
+47,Male,1559,Student,Town,Never,44,4,"Drama, Horror, Animation, Romance",Afternoon,Partner,No,Yes,1,No,No,Yes,Yes,No,Yes,Yes,No,No,4,4,Yes
+26,Male,16146,Retired,Tier-2 City,Monthly,77,5,"Animation, Romance, Action, Horror, Other, Drama, Documentary, Sci-Fi, Comedy",Morning,Alone,Yes,No,2,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,3,4,Yes
+36,Male,1165,Homemaker,Tier-1 City,Occasionally,63,3,"Sci-Fi, Animation, Documentary, Romance, Drama, Action",Evening,Friends/Group,No,No,3,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,3,3,No
+58,Non-binary,3180,Student,Town,Weekly,79,1,"Horror, Documentary, Action, Sci-Fi, Romance, Drama, Other, Animation, Comedy",Night,Family,Yes,Yes,3,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,4,3,Yes
+39,Non-binary,1783,Working Professional,Tier-2 City,Monthly,50,2,"Documentary, Sci-Fi, Romance, Horror, Action, Comedy, Other, Drama, Animation",Night,Friends/Group,Yes,Yes,2,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,5,3,Yes
+41,Female,4993,Student,Tier-2 City,Rarely,70,4,"Comedy, Other, Documentary, Sci-Fi, Animation, Horror, Romance",Morning,Friends/Group,No,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,2,4,Yes
+56,Female,1928,Other,Town,Monthly,64,3,"Other, Animation, Sci-Fi, Romance, Comedy, Horror",Morning,Friends/Group,Yes,No,2,Yes,Yes,Yes,No,Yes,No,No,No,Yes,4,2,Yes
+42,Male,2518,Retired,Town,Never,64,3,"Comedy, Documentary, Sci-Fi, Horror, Drama, Action, Animation, Other, Romance",Evening,Partner,No,Yes,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,2,5,Yes
+30,Prefer not to say,1029,Retired,Rural Area,Monthly,64,2,"Documentary, Horror, Animation, Drama, Action, Romance, Other",Night,Partner,Yes,Yes,4,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,2,3,Yes
+29,Prefer not to say,1188,Student,Tier-1 City,Weekly,72,2,"Romance, Action, Horror, Drama, Comedy, Documentary, Sci-Fi, Animation, Other",Afternoon,Partner,No,Yes,1,No,No,Yes,Yes,Yes,No,Yes,Yes,No,5,1,Yes
+58,Non-binary,2245,Homemaker,Tier-1 City,Weekly,80,3,"Action, Other, Animation, Drama, Comedy, Sci-Fi, Romance, Documentary, Horror",Morning,Family,Yes,Yes,2,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,4,4,Yes
+17,Non-binary,2634,Working Professional,Rural Area,Monthly,25,1,"Horror, Other, Animation, Comedy, Drama, Romance, Sci-Fi, Action",Night,Partner,Yes,Yes,4,Yes,Yes,No,Yes,Yes,No,No,No,Yes,4,4,Yes
+51,Non-binary,3290,Retired,Tier-2 City,Weekly,27,1,"Drama, Other, Sci-Fi, Documentary, Comedy, Action",Evening,Alone,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,No,No,No,No,4,2,No
+21,Female,1862,Other,Town,Rarely,68,4,"Action, Drama, Other, Documentary, Comedy, Romance, Animation, Horror, Sci-Fi",Afternoon,Friends/Group,No,Yes,3,No,Yes,Yes,No,Yes,No,No,Yes,Yes,2,2,Yes
+35,Female,3968,Other,Town,Monthly,71,1,"Drama, Animation, Sci-Fi, Action",Evening,Family,No,Yes,5,Yes,Yes,No,No,Yes,No,No,Yes,Yes,5,3,Yes
+23,Non-binary,5917,Homemaker,Town,Rarely,78,3,"Comedy, Documentary, Horror, Drama, Sci-Fi, Action, Other, Animation, Romance",Morning,Family,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,No,No,No,1,4,Yes
+53,Non-binary,4783,Retired,Tier-2 City,Rarely,60,3,"Other, Sci-Fi, Horror, Romance, Action, Documentary, Comedy, Drama, Animation",Night,Family,No,Yes,1,Yes,Yes,No,Yes,No,No,No,Yes,Yes,4,1,Yes
+32,Non-binary,1101,Student,Town,Occasionally,75,5,"Comedy, Documentary, Romance, Horror, Action, Sci-Fi, Other, Animation, Drama",Night,Family,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1,3,No
+18,Prefer not to say,2637,Other,Town,Monthly,77,3,"Sci-Fi, Romance, Horror, Other, Documentary",Night,Family,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,2,2,No
+39,Female,1277,Homemaker,Rural Area,Weekly,60,1,"Documentary, Animation, Action, Romance, Other, Comedy",Night,Alone,No,Yes,4,Yes,No,No,Yes,Yes,No,No,No,No,2,1,Yes
+28,Prefer not to say,1692,Retired,Tier-2 City,Rarely,95,4,"Documentary, Horror, Other, Drama, Animation, Sci-Fi, Comedy",Afternoon,Friends/Group,No,Yes,3,Yes,Yes,No,Yes,Yes,No,No,No,Yes,3,2,Yes
+23,Prefer not to say,11792,Retired,Tier-1 City,Occasionally,78,5,"Comedy, Romance, Horror, Drama, Documentary, Sci-Fi, Action, Other, Animation",Afternoon,Family,No,Yes,2,No,Yes,No,Yes,Yes,No,No,Yes,Yes,5,3,Yes
+40,Non-binary,1384,Retired,Rural Area,Monthly,85,1,"Comedy, Other, Horror, Action",Evening,Friends/Group,No,Yes,2,Yes,Yes,Yes,No,No,No,No,Yes,Yes,3,1,No
+16,Non-binary,2727,Retired,Rural Area,Monthly,76,4,"Romance, Drama, Sci-Fi, Action, Animation, Documentary, Horror, Other, Comedy",Afternoon,Partner,Yes,Yes,5,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1,2,Yes
+34,Male,3406,Retired,Tier-1 City,Never,117,1,"Animation, Action, Drama, Sci-Fi, Other, Romance",Morning,Family,No,Yes,4,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,2,4,Yes
+42,Male,4030,Other,Rural Area,Never,86,5,"Other, Horror, Comedy, Romance",Morning,Family,Yes,Yes,2,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,4,4,Yes
+21,Prefer not to say,3050,Homemaker,Tier-2 City,Rarely,65,3,"Horror, Comedy, Drama, Sci-Fi, Animation, Action, Documentary",Night,Friends/Group,Yes,No,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,4,3,No
+58,Female,1024,Retired,Town,Never,91,5,"Horror, Animation, Documentary, Sci-Fi, Romance, Action, Drama, Comedy",Morning,Family,Yes,No,4,Yes,Yes,Yes,No,Yes,No,Yes,No,No,5,1,Yes
+22,Non-binary,1988,Working Professional,Tier-2 City,Rarely,42,3,"Drama, Sci-Fi, Romance, Other",Evening,Family,Yes,No,4,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,1,2,Yes
+49,Non-binary,2823,Working Professional,Tier-1 City,Weekly,77,5,"Romance, Action, Comedy, Animation, Sci-Fi, Horror",Afternoon,Family,Yes,No,4,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,3,2,Yes
+28,Prefer not to say,1229,Homemaker,Tier-1 City,Rarely,81,2,"Drama, Action, Documentary, Romance",Afternoon,Alone,Yes,Yes,4,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,1,4,No
+31,Male,2079,Student,Rural Area,Never,77,1,"Horror, Animation, Other, Documentary, Drama, Comedy, Romance, Sci-Fi",Afternoon,Alone,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,3,Yes
+50,Female,1084,Student,Tier-2 City,Weekly,68,1,"Romance, Comedy, Action, Documentary, Other, Animation, Drama, Horror, Sci-Fi",Morning,Family,Yes,Yes,3,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,5,1,No
+54,Male,1204,Student,Tier-2 City,Never,54,2,"Animation, Documentary, Sci-Fi, Horror, Romance, Drama, Action",Afternoon,Alone,Yes,Yes,1,Yes,Yes,Yes,No,Yes,No,No,Yes,No,3,4,Yes
+18,Male,2264,Working Professional,Tier-1 City,Rarely,59,3,"Comedy, Romance, Horror, Action, Drama, Animation, Sci-Fi, Other",Night,Partner,Yes,Yes,4,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,4,4,Yes
+16,Male,1355,Student,Tier-2 City,Occasionally,77,1,"Horror, Animation, Sci-Fi, Action",Night,Family,Yes,No,2,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,4,5,No
+20,Male,3095,Other,Tier-1 City,Monthly,52,2,"Horror, Sci-Fi, Comedy, Animation",Night,Partner,No,Yes,1,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,2,4,No
+56,Non-binary,3923,Retired,Tier-2 City,Never,110,1,"Sci-Fi, Romance, Action, Animation, Horror, Other",Morning,Friends/Group,No,Yes,5,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,3,2,Yes
+18,Non-binary,5030,Working Professional,Tier-2 City,Rarely,22,4,"Drama, Animation, Sci-Fi, Romance, Comedy",Afternoon,Partner,No,Yes,1,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,2,3,Yes
+43,Male,9348,Homemaker,Tier-2 City,Weekly,68,3,"Other, Romance, Action, Horror, Animation, Documentary, Sci-Fi, Comedy",Morning,Friends/Group,Yes,Yes,1,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,4,Yes
+32,Female,1458,Homemaker,Tier-1 City,Never,77,4,"Romance, Animation, Sci-Fi, Horror",Afternoon,Family,No,Yes,3,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,1,5,Yes
+40,Prefer not to say,1276,Retired,Rural Area,Never,85,3,"Animation, Sci-Fi, Action, Horror, Other, Drama, Documentary, Comedy, Romance",Evening,Friends/Group,Yes,No,3,Yes,Yes,Yes,Yes,Yes,No,No,No,No,4,4,Yes
+58,Female,3529,Working Professional,Tier-2 City,Monthly,56,2,"Animation, Comedy, Documentary, Horror",Evening,Friends/Group,Yes,Yes,4,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,1,2,Yes
+48,Female,4064,Student,Tier-1 City,Rarely,97,3,"Animation, Comedy, Horror, Drama, Romance, Documentary, Other, Action",Morning,Partner,Yes,No,2,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,1,1,Yes
+24,Female,1080,Student,Tier-1 City,Occasionally,47,3,"Other, Comedy, Sci-Fi, Animation",Night,Partner,No,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,4,1,Yes
+50,Male,7880,Other,Tier-2 City,Weekly,63,2,"Romance, Other, Documentary, Animation, Comedy",Morning,Partner,Yes,No,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,4,1,Yes
+28,Non-binary,1133,Other,Tier-2 City,Rarely,87,3,"Comedy, Drama, Documentary, Other, Romance",Night,Family,Yes,Yes,4,Yes,Yes,Yes,No,Yes,Yes,No,No,No,3,2,Yes
+45,Female,2948,Student,Rural Area,Weekly,95,1,"Drama, Comedy, Documentary, Romance, Horror, Sci-Fi, Other, Animation",Afternoon,Family,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,4,2,Yes
+29,Male,4086,Homemaker,Tier-1 City,Never,46,5,"Romance, Other, Comedy, Horror, Action, Documentary, Animation, Drama, Sci-Fi",Night,Partner,No,Yes,2,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,2,3,Yes
+22,Female,6119,Homemaker,Tier-1 City,Monthly,127,2,"Action, Romance, Sci-Fi, Other, Drama, Horror, Comedy, Documentary",Night,Family,No,No,5,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,4,5,Yes
+28,Female,4130,Other,Town,Monthly,57,5,"Romance, Sci-Fi, Action, Other",Afternoon,Family,Yes,No,1,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1,1,Yes
+37,Male,5045,Retired,Tier-1 City,Occasionally,48,2,"Other, Animation, Horror, Sci-Fi",Evening,Friends/Group,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,1,2,Yes
+54,Non-binary,2036,Student,Rural Area,Monthly,85,2,"Action, Documentary, Animation, Sci-Fi, Comedy, Drama, Horror, Romance",Afternoon,Friends/Group,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,3,1,Yes
+35,Non-binary,5216,Other,Town,Never,68,4,"Drama, Action, Horror, Documentary, Other, Romance, Sci-Fi, Animation",Morning,Partner,No,No,4,Yes,Yes,Yes,Yes,Yes,No,No,No,No,1,3,Yes
+30,Prefer not to say,1208,Other,Town,Occasionally,65,4,"Horror, Documentary, Other, Sci-Fi",Morning,Family,Yes,Yes,4,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,2,4,Yes
+59,Male,6630,Student,Town,Rarely,86,3,"Drama, Romance, Other, Animation, Horror, Sci-Fi, Comedy, Action",Morning,Friends/Group,No,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,3,5,Yes
+32,Prefer not to say,2982,Student,Tier-2 City,Monthly,44,5,"Romance, Comedy, Drama, Action, Sci-Fi, Horror, Documentary, Animation, Other",Morning,Alone,Yes,Yes,3,Yes,No,No,Yes,Yes,No,Yes,No,No,4,1,Yes
+38,Prefer not to say,5249,Homemaker,Tier-2 City,Occasionally,40,2,"Comedy, Drama, Documentary, Animation, Horror, Other",Morning,Family,No,Yes,3,Yes,Yes,Yes,No,Yes,No,No,No,Yes,4,4,Yes
+40,Prefer not to say,2505,Retired,Tier-1 City,Never,63,3,"Comedy, Sci-Fi, Documentary, Horror, Drama, Other, Animation, Action",Evening,Alone,Yes,No,3,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,4,4,No
+39,Non-binary,3579,Retired,Town,Weekly,96,1,"Animation, Romance, Action, Drama, Documentary, Comedy, Other, Horror, Sci-Fi",Evening,Partner,Yes,No,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,1,3,Yes
+59,Male,2868,Student,Rural Area,Weekly,63,2,"Horror, Drama, Comedy, Action, Documentary",Night,Family,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1,3,No
+55,Prefer not to say,4288,Working Professional,Tier-2 City,Never,106,1,"Other, Action, Romance, Drama",Morning,Partner,Yes,Yes,5,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,5,4,Yes
+43,Male,1212,Other,Rural Area,Never,99,3,"Drama, Animation, Comedy, Documentary, Romance, Sci-Fi, Other, Horror",Afternoon,Partner,Yes,No,5,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,2,1,Yes
+29,Male,1155,Other,Rural Area,Weekly,320,4,"Animation, Romance, Documentary, Other",Morning,Partner,No,Yes,2,Yes,No,No,Yes,Yes,No,No,Yes,No,4,4,Yes
+59,Non-binary,1709,Student,Tier-2 City,Occasionally,81,3,"Documentary, Sci-Fi, Animation, Romance, Horror",Evening,Partner,Yes,No,4,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,2,2,Yes
+15,Prefer not to say,1434,Working Professional,Tier-2 City,Weekly,80,1,"Other, Horror, Drama, Documentary, Comedy",Morning,Partner,No,Yes,4,Yes,Yes,No,Yes,Yes,No,No,Yes,No,4,5,No
+39,Prefer not to say,6135,Homemaker,Tier-2 City,Never,78,2,"Documentary, Other, Animation, Drama, Horror, Sci-Fi",Evening,Family,No,Yes,2,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,3,2,Yes
+21,Male,1618,Student,Tier-2 City,Monthly,67,5,"Horror, Drama, Animation, Documentary, Action",Night,Alone,Yes,No,5,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,2,5,Yes
+23,Female,10310,Student,Town,Rarely,69,3,"Documentary, Romance, Sci-Fi, Action, Animation, Other, Comedy, Horror, Drama",Night,Family,No,Yes,5,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,2,Yes
+38,Non-binary,2027,Other,Town,Monthly,53,2,"Documentary, Drama, Animation, Horror, Action, Comedy",Night,Family,No,Yes,5,No,Yes,No,Yes,Yes,No,Yes,No,Yes,1,2,Yes
+15,Non-binary,1502,Student,Town,Monthly,30,4,"Romance, Action, Horror, Documentary, Animation, Drama, Other",Evening,Family,Yes,Yes,4,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,5,3,No
+58,Non-binary,4898,Student,Town,Never,97,4,"Comedy, Romance, Other, Action, Drama, Documentary, Sci-Fi",Morning,Friends/Group,No,Yes,3,Yes,Yes,No,No,No,Yes,Yes,No,Yes,1,1,Yes
+22,Non-binary,3687,Student,Tier-1 City,Weekly,78,4,"Romance, Drama, Comedy, Action, Documentary, Horror, Sci-Fi, Other, Animation",Morning,Friends/Group,Yes,Yes,4,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,2,3,No
+38,Prefer not to say,2723,Other,Town,Occasionally,75,2,"Action, Comedy, Other, Drama, Documentary, Sci-Fi, Romance",Afternoon,Family,Yes,No,2,No,No,Yes,Yes,Yes,No,No,Yes,No,3,2,No
+25,Prefer not to say,3026,Homemaker,Tier-2 City,Monthly,82,3,"Other, Animation, Action, Drama, Comedy, Romance, Documentary, Horror, Sci-Fi",Evening,Alone,No,No,3,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,4,Yes
+31,Female,4175,Homemaker,Rural Area,Weekly,58,2,"Documentary, Comedy, Action, Horror, Sci-Fi, Animation, Drama",Afternoon,Family,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,5,2,Yes
+22,Non-binary,1648,Student,Town,Occasionally,54,2,"Horror, Drama, Documentary, Other, Action, Animation, Sci-Fi, Comedy",Night,Partner,Yes,Yes,1,Yes,No,No,Yes,Yes,No,No,Yes,Yes,4,4,Yes
+49,Non-binary,15021,Other,Tier-1 City,Monthly,69,5,"Comedy, Romance, Action, Sci-Fi, Documentary",Morning,Friends/Group,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,2,1,Yes
+49,Male,10201,Homemaker,Tier-2 City,Occasionally,102,5,"Other, Action, Horror, Animation, Documentary, Romance, Comedy, Drama",Evening,Friends/Group,No,Yes,3,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,1,5,No
+47,Prefer not to say,3626,Homemaker,Rural Area,Weekly,51,3,"Action, Romance, Animation, Other, Drama, Comedy, Sci-Fi, Documentary, Horror",Afternoon,Family,No,Yes,4,No,Yes,Yes,No,Yes,No,No,Yes,No,1,5,Yes
+19,Non-binary,1556,Homemaker,Rural Area,Rarely,22,5,"Action, Romance, Sci-Fi, Drama, Comedy",Afternoon,Family,Yes,No,2,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,3,2,Yes
+56,Female,3850,Other,Town,Weekly,64,4,"Documentary, Other, Romance, Comedy, Animation, Action, Drama, Sci-Fi, Horror",Afternoon,Alone,No,Yes,5,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,2,No
+53,Female,1187,Other,Rural Area,Never,97,5,"Horror, Action, Animation, Comedy, Documentary, Drama",Morning,Alone,No,No,5,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,4,5,Yes
+55,Prefer not to say,1077,Student,Town,Occasionally,40,4,"Other, Animation, Documentary, Sci-Fi, Horror, Drama",Morning,Partner,Yes,Yes,3,No,Yes,Yes,No,Yes,No,Yes,Yes,No,3,2,Yes
+42,Female,1744,Retired,Town,Rarely,51,3,"Horror, Sci-Fi, Drama, Action",Morning,Family,Yes,Yes,2,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,2,2,Yes
+21,Female,2552,Homemaker,Tier-2 City,Occasionally,80,2,"Romance, Sci-Fi, Action, Drama, Horror, Documentary, Other, Comedy, Animation",Evening,Family,No,Yes,1,No,Yes,No,Yes,Yes,No,No,Yes,Yes,2,1,No
+23,Prefer not to say,6067,Retired,Tier-2 City,Occasionally,126,2,"Drama, Documentary, Romance, Horror, Other, Sci-Fi",Morning,Family,No,Yes,5,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,1,2,Yes
+22,Non-binary,4247,Other,Tier-1 City,Monthly,47,5,"Animation, Comedy, Horror, Sci-Fi",Evening,Friends/Group,No,Yes,5,No,Yes,No,Yes,Yes,Yes,No,Yes,No,5,4,Yes
+26,Non-binary,4393,Other,Tier-2 City,Never,47,4,"Other, Sci-Fi, Drama, Action, Romance",Afternoon,Partner,Yes,No,3,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,2,1,Yes
+48,Female,2385,Other,Tier-2 City,Occasionally,81,1,"Sci-Fi, Other, Horror, Documentary, Animation, Comedy",Afternoon,Alone,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,3,Yes
+47,Female,2061,Retired,Town,Weekly,99,1,"Documentary, Romance, Horror, Action, Drama, Animation, Comedy, Other, Sci-Fi",Night,Friends/Group,Yes,No,3,No,Yes,Yes,Yes,Yes,No,No,No,Yes,1,2,Yes
+37,Non-binary,2159,Other,Tier-2 City,Weekly,62,1,"Animation, Romance, Sci-Fi, Documentary, Comedy, Action, Horror, Other, Drama",Morning,Friends/Group,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,2,Yes
+38,Prefer not to say,11985,Student,Town,Monthly,42,2,"Comedy, Horror, Animation, Romance, Drama",Afternoon,Friends/Group,Yes,No,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1,4,Yes
+51,Female,1102,Other,Town,Never,83,2,"Animation, Action, Sci-Fi, Comedy, Horror, Drama",Morning,Friends/Group,No,Yes,1,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,4,1,No
+49,Male,6044,Working Professional,Tier-2 City,Never,87,4,"Documentary, Comedy, Sci-Fi, Other, Animation, Drama",Evening,Partner,Yes,No,5,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,3,5,Yes
+58,Prefer not to say,3160,Retired,Tier-1 City,Weekly,110,5,"Romance, Sci-Fi, Comedy, Action, Other, Animation, Horror",Afternoon,Family,No,Yes,5,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,4,2,Yes
+54,Female,2443,Working Professional,Tier-1 City,Rarely,88,1,"Animation, Comedy, Drama, Other, Horror, Documentary, Romance, Sci-Fi",Morning,Alone,Yes,No,3,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,1,1,No
+36,Female,4229,Other,Rural Area,Monthly,91,4,"Documentary, Horror, Action, Comedy, Animation, Other, Sci-Fi, Romance, Drama",Afternoon,Alone,Yes,No,2,No,Yes,Yes,Yes,Yes,No,No,No,No,5,1,Yes
+41,Male,2667,Student,Rural Area,Monthly,69,4,"Romance, Other, Documentary, Action, Sci-Fi, Drama, Comedy, Animation, Horror",Afternoon,Friends/Group,Yes,Yes,3,No,No,Yes,Yes,No,No,No,Yes,No,1,4,No
+49,Male,6167,Homemaker,Tier-2 City,Weekly,123,5,"Other, Horror, Action, Comedy, Romance, Sci-Fi",Morning,Friends/Group,Yes,Yes,4,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,1,4,Yes
+15,Non-binary,6774,Other,Tier-1 City,Weekly,67,4,"Action, Romance, Sci-Fi, Animation, Drama, Horror, Documentary",Afternoon,Partner,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,4,5,Yes
+49,Prefer not to say,2369,Student,Town,Rarely,62,5,"Comedy, Other, Drama, Horror, Romance",Afternoon,Friends/Group,No,No,1,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,2,3,Yes
+51,Prefer not to say,1810,Retired,Rural Area,Rarely,111,3,"Animation, Other, Documentary, Sci-Fi, Action, Comedy, Horror, Romance",Afternoon,Alone,No,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,2,Yes
+28,Non-binary,3243,Working Professional,Town,Never,45,5,"Documentary, Romance, Comedy, Sci-Fi, Other, Animation, Action",Afternoon,Alone,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,3,2,Yes
+17,Prefer not to say,7086,Working Professional,Rural Area,Monthly,38,1,"Other, Action, Animation, Documentary, Sci-Fi, Comedy, Horror",Evening,Family,Yes,Yes,3,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,2,3,Yes
+15,Prefer not to say,1591,Working Professional,Tier-2 City,Monthly,77,1,"Drama, Romance, Documentary, Comedy, Other",Afternoon,Family,No,Yes,5,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,2,4,Yes
+19,Prefer not to say,3438,Retired,Tier-1 City,Weekly,74,5,"Sci-Fi, Comedy, Drama, Documentary, Other, Animation, Action, Romance",Night,Alone,Yes,No,3,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,1,4,Yes
+40,Prefer not to say,3496,Student,Rural Area,Never,70,3,"Other, Comedy, Sci-Fi, Romance, Documentary, Animation, Action, Horror",Afternoon,Alone,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,1,1,Yes
+28,Prefer not to say,4302,Retired,Tier-1 City,Monthly,94,3,"Action, Other, Documentary, Animation, Sci-Fi, Drama, Horror, Romance",Morning,Partner,Yes,Yes,1,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,4,5,Yes
+53,Male,1352,Working Professional,Town,Never,56,1,"Animation, Action, Horror, Romance, Sci-Fi, Drama, Other, Comedy",Night,Partner,No,No,1,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1,4,Yes
+41,Prefer not to say,4145,Other,Tier-2 City,Never,76,3,"Horror, Animation, Drama, Other, Action, Sci-Fi, Romance",Evening,Alone,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,1,1,Yes
+23,Male,6993,Homemaker,Tier-1 City,Weekly,67,4,"Animation, Documentary, Horror, Comedy, Drama, Romance, Other",Night,Friends/Group,Yes,Yes,3,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,3,3,Yes
+29,Prefer not to say,1495,Retired,Tier-2 City,Never,57,2,"Romance, Other, Horror, Comedy, Drama, Action, Documentary, Animation, Sci-Fi",Night,Family,No,Yes,5,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,1,Yes
+29,Non-binary,1678,Retired,Tier-1 City,Rarely,73,4,"Sci-Fi, Documentary, Comedy, Animation",Night,Alone,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,1,3,Yes
+40,Female,9885,Student,Town,Rarely,92,1,"Action, Sci-Fi, Horror, Documentary",Morning,Friends/Group,Yes,Yes,4,Yes,Yes,No,Yes,Yes,Yes,No,No,No,2,3,Yes
+56,Male,1499,Student,Town,Occasionally,117,3,"Horror, Drama, Animation, Documentary, Sci-Fi, Romance, Action",Morning,Alone,Yes,No,3,Yes,No,Yes,Yes,Yes,No,No,No,No,1,3,Yes
+27,Prefer not to say,5816,Retired,Tier-2 City,Weekly,86,5,"Documentary, Other, Horror, Drama, Animation",Morning,Family,No,Yes,2,Yes,Yes,Yes,No,Yes,No,Yes,No,No,2,3,No
+46,Non-binary,2694,Working Professional,Town,Occasionally,24,2,"Comedy, Animation, Sci-Fi, Horror",Evening,Family,Yes,Yes,5,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,2,4,Yes
+53,Female,1709,Homemaker,Rural Area,Rarely,74,5,"Horror, Romance, Action, Animation, Drama",Morning,Partner,No,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1,2,Yes
+46,Male,6115,Student,Tier-1 City,Occasionally,75,1,"Documentary, Sci-Fi, Other, Action, Romance, Horror, Animation",Morning,Partner,No,Yes,5,Yes,No,No,Yes,Yes,No,Yes,No,No,4,3,No
+18,Female,2473,Working Professional,Town,Weekly,93,3,"Romance, Animation, Drama, Action, Horror, Other",Night,Partner,Yes,No,5,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,5,1,Yes
+44,Non-binary,2808,Other,Rural Area,Weekly,78,5,"Other, Horror, Drama, Sci-Fi, Animation, Action, Comedy, Romance",Morning,Partner,No,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,1,2,Yes
+51,Male,2112,Student,Tier-2 City,Never,100,5,"Sci-Fi, Comedy, Documentary, Action, Horror, Drama, Animation, Other",Afternoon,Family,Yes,Yes,3,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,3,1,Yes
+37,Female,3247,Working Professional,Rural Area,Monthly,82,2,"Horror, Animation, Sci-Fi, Action, Romance",Morning,Friends/Group,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,3,1,Yes
+53,Prefer not to say,1446,Working Professional,Tier-2 City,Never,106,2,"Drama, Romance, Animation, Horror",Evening,Friends/Group,Yes,Yes,3,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,5,1,Yes
+59,Male,2240,Homemaker,Tier-2 City,Weekly,66,3,"Documentary, Drama, Sci-Fi, Animation, Comedy, Other, Horror, Romance",Evening,Friends/Group,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,3,Yes
+29,Female,9717,Homemaker,Tier-1 City,Rarely,77,2,"Animation, Sci-Fi, Documentary, Drama, Other",Afternoon,Alone,Yes,Yes,2,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,5,2,Yes
+57,Non-binary,1746,Other,Tier-1 City,Rarely,91,5,"Other, Documentary, Romance, Sci-Fi, Drama, Horror, Action, Comedy",Evening,Partner,Yes,Yes,4,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,2,3,Yes
+43,Non-binary,3673,Working Professional,Rural Area,Never,63,5,"Comedy, Animation, Sci-Fi, Drama, Action, Horror",Evening,Partner,Yes,No,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes,5,4,Yes
+50,Male,11898,Working Professional,Tier-1 City,Weekly,59,1,"Horror, Action, Sci-Fi, Other, Comedy, Romance",Night,Family,No,Yes,2,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,4,3,Yes
+27,Female,4712,Homemaker,Tier-1 City,Rarely,62,5,"Horror, Action, Sci-Fi, Romance, Documentary",Afternoon,Family,Yes,No,1,Yes,No,No,No,No,No,No,Yes,No,4,5,Yes
+46,Male,1350,Student,Tier-1 City,Weekly,60,3,"Action, Documentary, Drama, Horror, Comedy",Night,Alone,No,No,3,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,1,1,Yes
+21,Male,9751,Student,Rural Area,Rarely,85,4,"Horror, Animation, Sci-Fi, Documentary, Other, Action, Drama",Night,Alone,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,4,Yes
+36,Female,2511,Retired,Town,Weekly,38,1,"Other, Horror, Sci-Fi, Drama, Documentary",Morning,Friends/Group,Yes,Yes,5,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,2,2,Yes
+42,Female,1673,Homemaker,Tier-1 City,Occasionally,43,1,"Animation, Romance, Comedy, Horror, Sci-Fi, Drama, Documentary, Other",Afternoon,Family,Yes,Yes,2,No,Yes,Yes,Yes,Yes,No,No,Yes,No,1,3,No
+16,Prefer not to say,1190,Retired,Tier-1 City,Weekly,112,3,"Sci-Fi, Documentary, Comedy, Animation, Drama, Other, Action, Romance, Horror",Morning,Partner,Yes,Yes,3,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,4,Yes
+56,Female,1465,Homemaker,Rural Area,Weekly,60,3,"Horror, Documentary, Drama, Other, Animation, Sci-Fi, Comedy, Action, Romance",Morning,Friends/Group,Yes,No,4,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,3,3,Yes
+59,Non-binary,2833,Other,Town,Never,79,2,"Romance, Drama, Documentary, Action, Animation, Other, Comedy",Night,Partner,No,Yes,1,Yes,No,No,Yes,Yes,No,No,Yes,No,2,3,Yes
+20,Male,2027,Working Professional,Tier-1 City,Occasionally,45,1,"Sci-Fi, Documentary, Comedy, Animation, Other, Drama, Horror",Evening,Friends/Group,No,Yes,2,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,Yes
+42,Male,5413,Other,Tier-2 City,Monthly,76,2,"Sci-Fi, Drama, Action, Other, Romance, Comedy, Animation, Documentary, Horror",Afternoon,Partner,No,Yes,4,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,4,1,Yes
+42,Non-binary,2409,Homemaker,Rural Area,Never,60,5,"Horror, Action, Documentary, Other, Drama, Romance, Animation, Sci-Fi, Comedy",Evening,Alone,Yes,Yes,4,Yes,No,Yes,Yes,No,No,No,No,Yes,3,1,Yes
+58,Female,1714,Working Professional,Tier-1 City,Monthly,43,1,"Drama, Animation, Romance, Horror, Documentary, Comedy, Sci-Fi, Other",Night,Friends/Group,No,Yes,1,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,1,1,Yes
+58,Non-binary,3400,Student,Tier-1 City,Rarely,101,1,"Action, Comedy, Romance, Sci-Fi, Documentary, Other",Night,Partner,Yes,No,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,5,No
+34,Non-binary,4067,Student,Tier-2 City,Monthly,98,4,"Animation, Drama, Action, Horror, Romance",Night,Partner,Yes,Yes,1,Yes,No,Yes,Yes,Yes,No,No,Yes,No,2,2,Yes
+44,Prefer not to say,1456,Retired,Tier-2 City,Weekly,72,1,"Sci-Fi, Action, Documentary, Drama, Other",Night,Family,No,No,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,4,3,No
+25,Non-binary,1458,Homemaker,Rural Area,Monthly,94,5,"Comedy, Romance, Drama, Horror, Sci-Fi, Documentary, Action, Other",Night,Friends/Group,No,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,3,Yes
+42,Male,1093,Homemaker,Rural Area,Never,113,2,"Horror, Comedy, Drama, Documentary, Other, Animation",Night,Partner,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,No,No,No,No,1,3,Yes
+39,Non-binary,4333,Student,Tier-2 City,Never,90,2,"Drama, Action, Romance, Other, Animation, Comedy, Documentary, Horror, Sci-Fi",Evening,Family,Yes,Yes,2,No,No,Yes,No,Yes,No,No,No,Yes,3,5,No
+53,Male,3725,Other,Rural Area,Monthly,84,4,"Romance, Comedy, Horror, Other, Action, Documentary, Sci-Fi, Animation",Morning,Partner,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,5,5,Yes
+47,Male,2609,Working Professional,Tier-2 City,Never,78,5,"Horror, Action, Drama, Other, Comedy, Romance",Evening,Friends/Group,No,Yes,1,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,3,5,No
+15,Male,5647,Other,Tier-1 City,Never,87,2,"Romance, Sci-Fi, Documentary, Other, Animation, Action",Afternoon,Alone,Yes,No,3,Yes,No,No,Yes,No,No,Yes,No,No,1,3,Yes
+41,Female,5095,Other,Tier-2 City,Monthly,67,3,"Romance, Horror, Action, Other, Animation, Documentary",Evening,Friends/Group,No,No,5,No,Yes,No,No,Yes,No,Yes,Yes,Yes,1,2,Yes
+27,Prefer not to say,19200,Student,Tier-2 City,Occasionally,69,5,"Drama, Animation, Romance, Sci-Fi, Other, Action",Night,Friends/Group,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,2,3,Yes
+55,Male,6067,Student,Town,Occasionally,84,5,"Sci-Fi, Romance, Other, Comedy, Documentary, Animation, Horror, Action, Drama",Evening,Partner,Yes,Yes,5,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,4,2,Yes
+17,Male,1576,Student,Tier-2 City,Rarely,65,4,"Romance, Animation, Other, Sci-Fi, Horror, Comedy, Action, Drama, Documentary",Morning,Partner,Yes,Yes,5,No,Yes,Yes,Yes,No,Yes,No,No,Yes,3,5,Yes
+53,Female,1296,Retired,Tier-2 City,Never,67,2,"Romance, Comedy, Sci-Fi, Action, Other, Documentary, Drama, Animation",Afternoon,Friends/Group,Yes,No,5,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,5,4,Yes
+20,Male,1785,Other,Town,Monthly,75,5,"Romance, Documentary, Action, Other, Comedy",Evening,Family,Yes,Yes,4,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4,1,Yes
+22,Non-binary,1146,Homemaker,Rural Area,Never,98,2,"Documentary, Comedy, Sci-Fi, Horror, Action, Romance, Animation, Other, Drama",Morning,Family,No,No,3,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,1,1,Yes
+41,Non-binary,2893,Working Professional,Town,Weekly,52,3,"Action, Documentary, Romance, Drama, Other, Horror, Comedy, Sci-Fi",Evening,Family,No,Yes,5,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,5,2,Yes
+23,Prefer not to say,7895,Retired,Tier-1 City,Never,90,4,"Horror, Comedy, Action, Other, Drama, Animation, Sci-Fi, Romance, Documentary",Afternoon,Partner,No,Yes,4,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,5,5,Yes
+51,Male,1100,Homemaker,Town,Never,90,3,"Action, Sci-Fi, Horror, Comedy, Romance, Animation, Documentary",Evening,Partner,No,No,4,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,2,1,Yes
+47,Female,1325,Other,Tier-1 City,Occasionally,90,4,"Documentary, Animation, Horror, Action, Sci-Fi, Comedy, Drama",Night,Friends/Group,No,Yes,4,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,3,1,Yes
+56,Non-binary,2504,Student,Rural Area,Monthly,58,5,"Comedy, Drama, Sci-Fi, Horror, Animation, Other",Evening,Alone,Yes,Yes,4,No,Yes,Yes,Yes,Yes,No,No,No,No,1,5,Yes
+58,Female,7790,Other,Town,Never,164,4,"Horror, Action, Animation, Documentary, Drama, Other, Sci-Fi, Comedy, Romance",Morning,Partner,No,Yes,4,No,Yes,No,No,Yes,Yes,Yes,No,Yes,5,2,No
+38,Female,1950,Working Professional,Town,Occasionally,86,1,"Horror, Documentary, Drama, Comedy, Animation",Evening,Friends/Group,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,2,Yes
+29,Non-binary,2769,Retired,Rural Area,Rarely,78,2,"Comedy, Action, Animation, Romance, Horror",Morning,Friends/Group,Yes,Yes,2,Yes,Yes,No,No,Yes,No,No,Yes,No,4,4,Yes
+46,Female,1106,Retired,Tier-1 City,Occasionally,95,2,"Action, Horror, Comedy, Other, Romance, Sci-Fi, Animation, Documentary",Afternoon,Alone,Yes,Yes,5,No,Yes,Yes,Yes,No,No,No,No,No,2,1,Yes
+46,Non-binary,1401,Working Professional,Town,Occasionally,60,1,"Action, Animation, Horror, Comedy, Sci-Fi",Evening,Family,Yes,No,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,3,1,No
+38,Female,11786,Homemaker,Tier-1 City,Occasionally,90,3,"Action, Drama, Sci-Fi, Documentary, Comedy",Afternoon,Friends/Group,Yes,Yes,4,Yes,Yes,Yes,No,No,No,No,Yes,Yes,2,5,Yes
+55,Non-binary,9389,Homemaker,Town,Never,96,1,"Romance, Other, Comedy, Drama, Animation, Sci-Fi, Horror, Documentary, Action",Afternoon,Friends/Group,No,No,4,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,3,5,Yes
+26,Male,1012,Retired,Tier-2 City,Never,73,5,"Other, Drama, Romance, Animation",Evening,Friends/Group,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,4,3,Yes
+53,Prefer not to say,8581,Retired,Town,Rarely,83,5,"Other, Documentary, Action, Drama, Horror, Romance, Sci-Fi",Morning,Family,Yes,Yes,5,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1,3,Yes
+16,Non-binary,21288,Student,Rural Area,Weekly,82,2,"Animation, Drama, Documentary, Horror, Comedy, Romance, Action",Afternoon,Family,Yes,Yes,5,Yes,No,Yes,Yes,Yes,No,No,Yes,No,3,4,Yes
+17,Non-binary,6060,Homemaker,Rural Area,Weekly,58,5,"Sci-Fi, Drama, Animation, Horror, Action",Afternoon,Alone,Yes,Yes,1,No,No,Yes,Yes,Yes,No,No,Yes,Yes,1,2,No
+51,Prefer not to say,2516,Working Professional,Tier-1 City,Weekly,85,2,"Animation, Other, Sci-Fi, Documentary, Comedy, Horror, Action, Romance",Evening,Partner,Yes,Yes,2,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,5,5,No
+31,Non-binary,2812,Homemaker,Town,Rarely,107,1,"Romance, Comedy, Horror, Drama, Action",Evening,Family,Yes,No,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,5,2,Yes
+16,Non-binary,2677,Student,Tier-1 City,Weekly,75,1,"Horror, Action, Drama, Other, Sci-Fi, Documentary, Romance, Animation",Evening,Partner,Yes,Yes,4,No,Yes,No,No,Yes,No,Yes,Yes,No,4,1,Yes
+16,Female,3748,Retired,Tier-1 City,Weekly,45,1,"Other, Horror, Documentary, Comedy, Drama, Sci-Fi, Action, Animation",Evening,Partner,Yes,Yes,1,No,Yes,No,No,Yes,No,Yes,Yes,No,4,2,No
+42,Prefer not to say,1376,Retired,Tier-2 City,Occasionally,61,2,"Comedy, Documentary, Other, Romance, Sci-Fi",Evening,Family,No,Yes,2,No,No,Yes,Yes,Yes,Yes,No,Yes,No,5,2,Yes
+37,Male,1076,Student,Tier-2 City,Never,39,1,"Horror, Animation, Comedy, Sci-Fi, Drama, Romance, Documentary, Other, Action",Night,Friends/Group,No,No,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,Yes
+51,Non-binary,1920,Working Professional,Rural Area,Never,100,1,"Sci-Fi, Romance, Other, Horror, Documentary, Action",Evening,Alone,Yes,No,3,No,Yes,Yes,Yes,Yes,Yes,No,No,No,5,5,Yes
+46,Prefer not to say,4049,Retired,Tier-1 City,Occasionally,90,3,"Documentary, Romance, Comedy, Drama, Other, Horror, Action, Sci-Fi, Animation",Morning,Partner,Yes,Yes,1,Yes,No,No,Yes,Yes,Yes,No,No,No,5,3,Yes
+47,Female,1563,Other,Rural Area,Occasionally,64,1,"Sci-Fi, Animation, Drama, Comedy",Afternoon,Friends/Group,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,1,5,Yes
+15,Male,3797,Retired,Town,Occasionally,46,5,"Romance, Horror, Documentary, Sci-Fi, Comedy",Morning,Family,No,Yes,4,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,2,3,No
+33,Prefer not to say,9759,Other,Tier-1 City,Never,58,2,"Other, Romance, Drama, Horror, Documentary, Sci-Fi, Action",Morning,Partner,Yes,Yes,1,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,1,3,Yes
+16,Male,1246,Student,Tier-1 City,Weekly,62,3,"Romance, Drama, Comedy, Other, Sci-Fi, Horror, Action, Documentary, Animation",Night,Partner,Yes,Yes,1,No,Yes,Yes,Yes,Yes,Yes,No,No,No,5,4,Yes
+58,Male,3791,Student,Town,Occasionally,77,4,"Action, Other, Horror, Comedy",Evening,Partner,No,Yes,3,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,1,1,Yes
+40,Male,2466,Retired,Town,Rarely,76,2,"Horror, Comedy, Romance, Documentary, Action, Animation, Drama, Other, Sci-Fi",Afternoon,Friends/Group,Yes,Yes,5,No,No,Yes,Yes,Yes,No,No,Yes,Yes,3,4,Yes
+46,Non-binary,6065,Homemaker,Rural Area,Occasionally,101,5,"Documentary, Other, Action, Animation",Morning,Friends/Group,Yes,Yes,3,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,2,1,Yes
+20,Non-binary,1487,Other,Rural Area,Monthly,61,2,"Other, Animation, Action, Documentary, Sci-Fi, Drama, Horror, Comedy",Evening,Friends/Group,Yes,Yes,1,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,4,4,Yes
+46,Female,3949,Working Professional,Town,Occasionally,44,5,"Other, Animation, Documentary, Comedy",Evening,Partner,No,No,5,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,2,4,Yes
+18,Female,5552,Retired,Rural Area,Never,51,5,"Comedy, Drama, Other, Animation",Night,Partner,No,No,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,5,No
+25,Prefer not to say,8233,Working Professional,Town,Occasionally,74,4,"Other, Sci-Fi, Animation, Drama, Romance, Horror, Action, Comedy",Night,Alone,No,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,1,5,Yes
+31,Female,3874,Retired,Tier-1 City,Monthly,60,2,"Documentary, Horror, Romance, Comedy, Drama, Action, Sci-Fi",Night,Alone,Yes,Yes,3,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,1,1,No
+52,Male,2718,Homemaker,Tier-1 City,Rarely,69,4,"Action, Comedy, Horror, Animation, Romance, Sci-Fi, Other, Drama, Documentary",Afternoon,Friends/Group,Yes,Yes,3,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,2,2,Yes
+38,Male,3404,Homemaker,Tier-2 City,Weekly,65,4,"Documentary, Animation, Romance, Drama",Morning,Friends/Group,No,Yes,3,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,3,5,Yes
+19,Non-binary,6079,Homemaker,Tier-1 City,Occasionally,94,2,"Comedy, Action, Other, Animation, Sci-Fi, Horror, Romance, Documentary",Night,Family,No,No,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,3,Yes
+48,Male,18678,Homemaker,Town,Monthly,63,1,"Sci-Fi, Action, Comedy, Drama",Night,Friends/Group,Yes,Yes,3,No,Yes,Yes,No,No,No,Yes,Yes,Yes,3,2,Yes
+20,Prefer not to say,1077,Student,Rural Area,Monthly,67,1,"Horror, Drama, Animation, Romance",Night,Alone,No,No,4,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,3,Yes
+36,Male,7682,Student,Tier-2 City,Rarely,89,4,"Comedy, Sci-Fi, Other, Documentary, Animation, Horror, Drama",Morning,Alone,Yes,No,1,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,2,1,Yes
+25,Male,3924,Other,Rural Area,Never,63,3,"Romance, Animation, Documentary, Other, Comedy, Action, Drama, Sci-Fi",Morning,Alone,Yes,Yes,2,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,4,5,Yes
+30,Prefer not to say,3821,Working Professional,Town,Occasionally,83,4,"Comedy, Animation, Other, Action",Night,Partner,No,Yes,2,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,2,1,Yes
+47,Female,1607,Retired,Tier-1 City,Monthly,81,4,"Animation, Romance, Action, Documentary, Drama, Horror",Night,Partner,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1,2,Yes
+23,Female,3688,Retired,Tier-2 City,Rarely,77,4,"Horror, Romance, Sci-Fi, Other, Documentary, Comedy, Drama",Evening,Friends/Group,No,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,2,4,Yes
+20,Prefer not to say,2251,Student,Town,Weekly,52,1,"Animation, Comedy, Other, Sci-Fi, Drama, Documentary, Romance, Action",Night,Family,Yes,Yes,1,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,5,4,Yes
+30,Non-binary,3633,Retired,Tier-2 City,Monthly,99,1,"Sci-Fi, Drama, Horror, Romance",Afternoon,Family,Yes,Yes,3,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,5,Yes
+43,Male,1281,Student,Tier-2 City,Rarely,119,1,"Drama, Animation, Other, Documentary, Action, Sci-Fi, Horror, Comedy, Romance",Afternoon,Family,No,No,3,Yes,No,Yes,No,Yes,No,Yes,Yes,No,3,5,Yes
+17,Prefer not to say,3681,Other,Tier-1 City,Never,75,4,"Sci-Fi, Comedy, Documentary, Action, Animation, Horror",Night,Partner,No,Yes,2,No,Yes,Yes,Yes,Yes,Yes,No,No,No,2,1,Yes
+34,Male,19604,Working Professional,Town,Never,54,3,"Other, Animation, Action, Documentary, Romance, Drama, Horror",Morning,Alone,Yes,Yes,2,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,3,2,Yes
+50,Non-binary,1123,Other,Rural Area,Monthly,75,1,"Romance, Animation, Action, Drama",Evening,Alone,Yes,Yes,4,Yes,No,Yes,Yes,No,No,Yes,No,Yes,3,4,Yes
+33,Male,10449,Homemaker,Tier-2 City,Monthly,94,2,"Animation, Comedy, Romance, Sci-Fi, Documentary, Other, Drama",Morning,Partner,No,Yes,1,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,1,5,Yes
+40,Prefer not to say,2306,Homemaker,Tier-2 City,Occasionally,62,2,"Drama, Other, Documentary, Animation, Romance, Horror, Action",Night,Family,Yes,Yes,1,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,5,4,No
+17,Male,6115,Homemaker,Rural Area,Rarely,72,2,"Drama, Animation, Other, Horror",Afternoon,Family,No,No,5,Yes,No,Yes,Yes,Yes,No,Yes,No,No,4,5,Yes
+33,Female,4812,Other,Town,Monthly,81,5,"Documentary, Comedy, Drama, Animation, Other, Horror",Evening,Friends/Group,No,Yes,3,Yes,No,No,Yes,No,Yes,Yes,Yes,No,3,4,No
+34,Non-binary,3092,Retired,Tier-2 City,Occasionally,99,4,"Horror, Documentary, Action, Comedy, Drama, Animation, Romance, Sci-Fi",Morning,Friends/Group,Yes,Yes,1,No,No,Yes,Yes,Yes,No,Yes,No,No,1,4,Yes
+46,Non-binary,4352,Working Professional,Tier-2 City,Occasionally,90,2,"Animation, Romance, Horror, Drama, Other, Comedy, Sci-Fi, Documentary",Morning,Family,Yes,Yes,1,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,2,5,No
+21,Non-binary,6269,Homemaker,Tier-2 City,Monthly,91,4,"Horror, Documentary, Drama, Comedy, Other, Animation, Romance, Sci-Fi",Night,Partner,Yes,Yes,4,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,3,3,Yes
+55,Prefer not to say,2294,Homemaker,Town,Never,66,2,"Horror, Romance, Other, Drama, Animation, Documentary, Action, Sci-Fi",Evening,Family,No,No,4,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,3,2,No
+47,Non-binary,1990,Homemaker,Town,Rarely,83,3,"Other, Drama, Romance, Sci-Fi, Action, Horror, Documentary, Animation",Afternoon,Friends/Group,Yes,Yes,5,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,2,2,Yes
+54,Female,3753,Working Professional,Rural Area,Rarely,60,4,"Sci-Fi, Comedy, Animation, Horror, Romance, Documentary, Drama",Night,Family,Yes,No,3,No,No,Yes,No,No,No,Yes,No,No,2,1,Yes
+53,Prefer not to say,5123,Homemaker,Town,Never,91,2,"Horror, Sci-Fi, Romance, Comedy, Other, Documentary",Evening,Partner,Yes,Yes,5,No,Yes,No,No,No,No,No,No,Yes,5,2,Yes
+32,Female,4591,Working Professional,Town,Monthly,98,1,"Documentary, Other, Sci-Fi, Horror",Morning,Alone,Yes,Yes,4,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,1,5,Yes
+54,Male,4996,Homemaker,Tier-1 City,Rarely,86,4,"Other, Animation, Sci-Fi, Action, Drama, Romance, Horror, Documentary",Night,Partner,Yes,Yes,3,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,2,2,No
+15,Male,2429,Other,Rural Area,Monthly,67,5,"Romance, Drama, Other, Sci-Fi, Action, Horror, Comedy, Documentary, Animation",Morning,Partner,Yes,Yes,4,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,2,5,Yes
+25,Male,5257,Other,Tier-2 City,Monthly,70,1,"Comedy, Sci-Fi, Other, Documentary",Morning,Friends/Group,No,Yes,4,Yes,No,Yes,No,Yes,No,No,No,Yes,5,1,No
+42,Male,1320,Working Professional,Town,Occasionally,111,1,"Other, Horror, Documentary, Drama, Animation, Sci-Fi, Romance, Action, Comedy",Night,Partner,No,No,5,Yes,Yes,Yes,No,No,No,No,Yes,Yes,4,5,Yes
+39,Female,2965,Other,Tier-2 City,Never,67,5,"Documentary, Comedy, Drama, Horror",Night,Partner,No,Yes,2,No,Yes,No,Yes,Yes,Yes,Yes,No,No,5,4,Yes
+37,Prefer not to say,1014,Working Professional,Tier-2 City,Monthly,95,1,"Comedy, Drama, Documentary, Animation",Night,Friends/Group,Yes,Yes,2,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,3,5,Yes
+45,Prefer not to say,1981,Other,Tier-1 City,Weekly,81,1,"Documentary, Horror, Sci-Fi, Other, Drama, Romance",Night,Friends/Group,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,2,5,No
+44,Non-binary,2141,Other,Town,Never,68,2,"Documentary, Other, Drama, Action",Night,Alone,No,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,4,3,Yes
+56,Female,2261,Working Professional,Rural Area,Rarely,48,2,"Action, Comedy, Other, Drama, Animation, Documentary",Morning,Family,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1,3,Yes
+49,Male,3972,Retired,Town,Occasionally,79,4,"Horror, Drama, Sci-Fi, Comedy, Documentary, Other, Romance, Action, Animation",Afternoon,Partner,No,Yes,4,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1,2,Yes
+21,Female,2229,Other,Tier-2 City,Rarely,76,4,"Drama, Other, Romance, Animation, Horror, Sci-Fi, Action, Documentary, Comedy",Afternoon,Friends/Group,No,Yes,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,3,Yes
+30,Non-binary,2488,Homemaker,Rural Area,Rarely,111,4,"Animation, Other, Action, Romance, Comedy, Sci-Fi, Horror, Documentary",Night,Alone,Yes,Yes,3,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,1,3,No
+40,Non-binary,1678,Retired,Town,Never,57,2,"Comedy, Drama, Documentary, Animation, Other, Horror, Action, Sci-Fi",Morning,Family,No,Yes,1,No,Yes,Yes,Yes,No,Yes,No,No,Yes,2,5,Yes
+16,Female,2168,Working Professional,Tier-2 City,Rarely,120,4,"Documentary, Romance, Sci-Fi, Horror, Animation, Other, Drama, Action, Comedy",Afternoon,Friends/Group,No,Yes,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,1,1,Yes
+15,Female,1644,Retired,Tier-2 City,Monthly,82,1,"Documentary, Drama, Animation, Romance, Other, Action",Afternoon,Family,Yes,Yes,5,Yes,No,Yes,No,Yes,No,No,Yes,Yes,2,2,Yes
+26,Female,1190,Student,Tier-1 City,Rarely,82,2,"Drama, Romance, Action, Comedy, Other, Animation, Horror, Documentary, Sci-Fi",Afternoon,Family,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,2,2,No
+19,Prefer not to say,3312,Student,Tier-1 City,Occasionally,63,4,"Animation, Other, Sci-Fi, Comedy, Documentary, Horror, Romance, Action",Morning,Partner,Yes,No,4,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,2,1,Yes
+51,Male,3758,Other,Tier-1 City,Occasionally,81,1,"Other, Drama, Sci-Fi, Comedy, Horror, Documentary, Action",Night,Partner,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,No,No,No,1,5,Yes
+46,Female,3415,Other,Tier-2 City,Weekly,84,4,"Romance, Documentary, Sci-Fi, Action, Drama",Night,Friends/Group,Yes,Yes,4,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,2,2,Yes
+23,Female,2556,Homemaker,Town,Occasionally,93,3,"Documentary, Drama, Comedy, Horror",Night,Family,Yes,Yes,3,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,5,3,Yes
+55,Female,2194,Retired,Tier-1 City,Rarely,55,4,"Other, Documentary, Horror, Romance, Animation, Sci-Fi, Drama, Comedy",Evening,Friends/Group,No,Yes,5,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,1,Yes
+49,Non-binary,5975,Student,Town,Occasionally,103,3,"Drama, Comedy, Sci-Fi, Action, Documentary, Other, Romance",Evening,Friends/Group,Yes,No,1,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,2,2,Yes
+33,Non-binary,2830,Other,Tier-1 City,Never,82,4,"Horror, Sci-Fi, Comedy, Other, Documentary, Romance",Evening,Family,Yes,Yes,4,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,2,3,No
+30,Prefer not to say,2630,Retired,Rural Area,Occasionally,348,5,"Other, Comedy, Sci-Fi, Action, Drama, Animation, Horror, Romance",Morning,Friends/Group,No,No,3,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,5,2,No
+17,Male,1064,Other,Rural Area,Monthly,70,4,"Documentary, Horror, Other, Action, Comedy, Drama, Romance, Sci-Fi, Animation",Afternoon,Family,Yes,No,1,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,1,3,Yes
+34,Prefer not to say,2043,Other,Tier-1 City,Never,56,2,"Comedy, Documentary, Animation, Action, Other, Sci-Fi",Afternoon,Family,No,Yes,2,No,Yes,No,No,No,No,No,Yes,Yes,4,1,Yes
+38,Male,2195,Student,Tier-2 City,Weekly,76,2,"Romance, Animation, Comedy, Sci-Fi, Documentary, Other, Action, Drama, Horror",Morning,Family,Yes,Yes,1,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,4,2,Yes
+47,Non-binary,2272,Student,Tier-1 City,Monthly,312,3,"Sci-Fi, Drama, Documentary, Romance, Animation, Other, Horror, Comedy",Morning,Family,Yes,Yes,5,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,3,2,Yes
+38,Non-binary,3169,Other,Tier-1 City,Rarely,47,2,"Comedy, Drama, Animation, Horror, Action, Documentary, Romance, Sci-Fi",Night,Alone,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,5,Yes
+25,Non-binary,2906,Working Professional,Tier-2 City,Rarely,90,1,"Drama, Horror, Comedy, Romance, Other, Animation, Sci-Fi, Documentary, Action",Night,Family,No,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,2,1,Yes
+22,Prefer not to say,3340,Other,Rural Area,Rarely,94,5,"Sci-Fi, Animation, Horror, Documentary, Action",Evening,Partner,Yes,Yes,1,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,2,1,Yes
+50,Female,4619,Other,Town,Monthly,60,5,"Comedy, Animation, Sci-Fi, Romance, Drama, Documentary, Other, Horror, Action",Evening,Partner,No,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,3,Yes
+52,Female,5191,Homemaker,Tier-1 City,Monthly,54,1,"Action, Comedy, Romance, Horror, Drama, Other, Sci-Fi, Documentary",Morning,Partner,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,2,5,No
+54,Non-binary,4165,Homemaker,Tier-2 City,Monthly,68,3,"Animation, Horror, Documentary, Drama, Romance",Evening,Family,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,5,3,Yes
+34,Female,8781,Homemaker,Tier-1 City,Never,75,1,"Romance, Drama, Sci-Fi, Horror, Documentary, Action",Afternoon,Partner,Yes,No,5,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,3,Yes
+49,Female,1046,Working Professional,Tier-2 City,Never,69,1,"Comedy, Documentary, Action, Animation",Morning,Alone,No,Yes,5,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,3,1,Yes
+39,Prefer not to say,1544,Working Professional,Town,Rarely,73,5,"Documentary, Other, Action, Horror, Comedy",Morning,Friends/Group,No,No,5,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,3,5,Yes
+49,Male,1018,Other,Town,Occasionally,79,4,"Drama, Sci-Fi, Comedy, Other, Action, Romance, Animation, Documentary, Horror",Afternoon,Family,Yes,Yes,1,No,No,Yes,Yes,Yes,No,Yes,No,No,5,3,Yes
+39,Non-binary,3606,Homemaker,Rural Area,Rarely,47,5,"Drama, Action, Horror, Romance, Other, Comedy, Animation, Documentary, Sci-Fi",Night,Partner,Yes,Yes,5,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,2,Yes
+43,Non-binary,6707,Working Professional,Tier-2 City,Weekly,49,5,"Horror, Documentary, Action, Comedy",Night,Alone,Yes,Yes,5,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,2,4,No
+32,Prefer not to say,1697,Student,Tier-2 City,Never,20,2,"Horror, Documentary, Action, Animation, Drama, Romance, Comedy, Other",Afternoon,Friends/Group,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,3,5,Yes
+32,Prefer not to say,7544,Other,Rural Area,Monthly,93,1,"Comedy, Horror, Documentary, Action, Romance, Sci-Fi, Other",Afternoon,Alone,Yes,Yes,4,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,4,3,Yes
+16,Female,1155,Retired,Rural Area,Never,75,5,"Sci-Fi, Drama, Horror, Comedy, Romance, Action",Evening,Partner,No,Yes,5,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,Yes
+49,Non-binary,7811,Other,Tier-2 City,Monthly,95,1,"Action, Drama, Horror, Documentary, Comedy, Sci-Fi, Animation, Romance",Morning,Alone,No,No,1,No,No,No,Yes,Yes,Yes,Yes,No,Yes,3,1,No
+30,Male,2083,Retired,Rural Area,Weekly,52,2,"Comedy, Other, Documentary, Action, Sci-Fi",Evening,Friends/Group,Yes,Yes,1,Yes,Yes,Yes,Yes,No,No,No,Yes,No,4,1,Yes
+55,Prefer not to say,1267,Homemaker,Town,Weekly,75,1,"Animation, Romance, Horror, Drama, Comedy, Sci-Fi, Other, Action, Documentary",Afternoon,Partner,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,4,3,Yes
+50,Male,2663,Retired,Tier-1 City,Never,79,5,"Sci-Fi, Action, Animation, Romance, Drama, Comedy, Other, Documentary",Evening,Friends/Group,No,No,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,2,Yes
+47,Male,1741,Homemaker,Town,Monthly,63,1,"Animation, Sci-Fi, Romance, Action, Comedy, Horror, Documentary, Other, Drama",Afternoon,Alone,No,No,1,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,4,3,Yes
+18,Non-binary,1838,Student,Rural Area,Weekly,43,2,"Comedy, Action, Drama, Animation, Other, Horror, Romance",Evening,Family,Yes,Yes,3,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,4,2,No
+47,Non-binary,1917,Retired,Tier-2 City,Rarely,109,4,"Romance, Drama, Animation, Horror, Action, Sci-Fi, Documentary",Evening,Family,Yes,Yes,2,Yes,No,Yes,Yes,No,No,Yes,Yes,No,4,3,Yes
+28,Prefer not to say,5061,Other,Tier-2 City,Rarely,102,1,"Action, Sci-Fi, Comedy, Other",Night,Family,Yes,No,2,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,5,1,Yes
+35,Non-binary,2936,Homemaker,Town,Monthly,67,5,"Animation, Sci-Fi, Romance, Other",Afternoon,Family,Yes,Yes,5,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,5,5,Yes
+34,Non-binary,1932,Other,Tier-2 City,Never,85,2,"Animation, Other, Romance, Horror, Action, Comedy, Documentary, Sci-Fi",Evening,Friends/Group,Yes,Yes,4,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,4,5,Yes
+22,Non-binary,3356,Working Professional,Rural Area,Weekly,65,5,"Comedy, Horror, Animation, Other, Sci-Fi, Drama",Morning,Family,Yes,Yes,1,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,2,1,No
+21,Male,4148,Homemaker,Town,Never,55,5,"Comedy, Sci-Fi, Romance, Horror, Other, Action, Animation",Evening,Friends/Group,No,No,5,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,4,4,Yes
+17,Prefer not to say,1795,Retired,Tier-2 City,Rarely,111,1,"Animation, Comedy, Horror, Sci-Fi",Evening,Partner,Yes,Yes,5,Yes,No,Yes,Yes,No,No,No,Yes,Yes,1,3,Yes
+31,Female,2334,Homemaker,Tier-1 City,Weekly,41,5,"Action, Sci-Fi, Romance, Animation, Comedy, Other, Horror, Drama",Morning,Family,Yes,No,3,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,4,5,No
+47,Male,1324,Other,Tier-1 City,Never,69,1,"Action, Drama, Horror, Documentary, Sci-Fi, Romance, Other, Comedy, Animation",Afternoon,Friends/Group,Yes,Yes,4,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,4,5,Yes
+26,Non-binary,1499,Student,Rural Area,Occasionally,76,4,"Sci-Fi, Comedy, Animation, Action, Drama, Horror, Documentary, Romance, Other",Night,Family,No,No,5,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,1,2,Yes
+36,Male,3857,Homemaker,Tier-2 City,Monthly,108,5,"Comedy, Documentary, Horror, Sci-Fi, Drama, Action, Other, Animation, Romance",Night,Family,No,Yes,1,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,3,4,Yes
+36,Non-binary,1500,Retired,Rural Area,Monthly,92,5,"Sci-Fi, Comedy, Other, Romance, Action",Night,Family,Yes,Yes,4,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,5,2,Yes
+44,Non-binary,17166,Working Professional,Town,Occasionally,41,5,"Other, Action, Documentary, Animation, Comedy",Morning,Friends/Group,Yes,No,1,No,Yes,Yes,No,Yes,No,Yes,No,No,5,3,Yes
+52,Male,4086,Student,Tier-1 City,Rarely,74,3,"Documentary, Romance, Horror, Comedy",Evening,Alone,No,Yes,3,No,No,Yes,Yes,No,Yes,No,No,Yes,2,3,Yes
+52,Prefer not to say,1282,Working Professional,Town,Weekly,75,3,"Action, Animation, Comedy, Drama, Documentary",Afternoon,Family,Yes,Yes,4,No,Yes,Yes,Yes,No,No,No,No,No,5,2,Yes
+59,Non-binary,3094,Homemaker,Tier-2 City,Monthly,70,2,"Romance, Sci-Fi, Animation, Action, Documentary, Drama, Other",Evening,Family,Yes,Yes,2,Yes,Yes,No,No,Yes,No,No,Yes,Yes,2,5,No
+22,Prefer not to say,1741,Other,Rural Area,Occasionally,87,3,"Action, Drama, Comedy, Sci-Fi, Other, Horror, Romance, Animation",Night,Partner,Yes,Yes,4,Yes,Yes,No,No,Yes,No,Yes,No,Yes,3,4,Yes
+41,Female,9237,Other,Rural Area,Occasionally,46,2,"Sci-Fi, Romance, Action, Other, Horror, Animation",Evening,Alone,Yes,Yes,1,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,4,2,Yes
+41,Non-binary,2651,Retired,Rural Area,Rarely,66,3,"Horror, Sci-Fi, Documentary, Drama, Animation, Comedy",Morning,Friends/Group,Yes,Yes,5,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,4,4,Yes
+48,Prefer not to say,5099,Other,Town,Rarely,84,4,"Romance, Documentary, Animation, Comedy, Sci-Fi, Other, Action",Morning,Partner,No,Yes,3,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,3,2,No
+35,Prefer not to say,2997,Student,Tier-1 City,Never,88,2,"Animation, Action, Comedy, Sci-Fi",Afternoon,Family,No,Yes,4,Yes,Yes,Yes,Yes,Yes,No,No,No,No,4,4,Yes
+44,Female,1110,Other,Town,Monthly,77,3,"Action, Romance, Other, Documentary, Horror, Drama",Afternoon,Partner,Yes,Yes,3,Yes,Yes,Yes,No,Yes,No,No,No,No,3,3,No
+47,Prefer not to say,3507,Retired,Town,Never,69,4,"Horror, Other, Documentary, Animation",Night,Partner,No,Yes,1,Yes,Yes,Yes,No,No,Yes,No,No,Yes,4,2,Yes
+42,Prefer not to say,8560,Homemaker,Tier-2 City,Occasionally,72,3,"Drama, Sci-Fi, Action, Animation",Afternoon,Family,Yes,No,1,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,5,4,No
+47,Female,3300,Homemaker,Tier-2 City,Weekly,89,1,"Other, Animation, Romance, Drama, Horror",Evening,Alone,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,5,1,Yes
+19,Non-binary,5275,Other,Tier-2 City,Weekly,75,1,"Comedy, Other, Sci-Fi, Documentary, Horror, Action, Drama, Animation, Romance",Morning,Alone,Yes,Yes,5,No,Yes,Yes,No,No,Yes,No,Yes,No,4,4,Yes
+33,Prefer not to say,6389,Working Professional,Tier-1 City,Rarely,54,4,"Drama, Horror, Other, Animation, Romance, Documentary, Sci-Fi, Comedy, Action",Morning,Partner,No,No,2,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,1,2,Yes
+18,Prefer not to say,1647,Homemaker,Tier-1 City,Weekly,50,5,"Sci-Fi, Horror, Action, Comedy, Romance, Animation, Documentary",Morning,Family,Yes,Yes,3,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,3,4,No
+49,Prefer not to say,1595,Other,Tier-2 City,Weekly,45,5,"Drama, Documentary, Horror, Other",Afternoon,Friends/Group,Yes,No,2,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,2,2,Yes
+31,Male,3360,Retired,Tier-2 City,Weekly,104,1,"Comedy, Romance, Animation, Other, Horror, Drama, Documentary",Morning,Partner,No,No,2,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,4,2,Yes
+58,Female,2323,Other,Tier-1 City,Occasionally,91,1,"Comedy, Other, Documentary, Romance, Drama, Action",Morning,Friends/Group,No,No,3,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,2,2,Yes
+42,Male,5579,Homemaker,Rural Area,Weekly,72,5,"Romance, Drama, Action, Other, Comedy",Morning,Partner,No,Yes,1,No,No,No,Yes,Yes,No,Yes,Yes,No,2,5,No
+44,Female,6757,Retired,Tier-1 City,Weekly,65,2,"Animation, Action, Romance, Drama, Other, Comedy",Night,Partner,Yes,No,2,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,Yes
+43,Non-binary,2090,Other,Tier-1 City,Weekly,63,5,"Animation, Documentary, Sci-Fi, Romance",Night,Family,Yes,No,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1,2,Yes
+20,Non-binary,10050,Student,Tier-1 City,Never,96,3,"Horror, Comedy, Other, Action, Documentary, Romance, Animation, Drama",Afternoon,Family,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,1,3,Yes
+49,Prefer not to say,4791,Retired,Tier-2 City,Occasionally,113,2,"Drama, Horror, Animation, Documentary, Other",Morning,Friends/Group,Yes,Yes,2,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,5,1,Yes
+55,Female,1803,Student,Rural Area,Rarely,62,3,"Comedy, Sci-Fi, Animation, Action, Romance, Documentary, Horror, Other, Drama",Afternoon,Friends/Group,No,Yes,1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,3,3,No
+51,Non-binary,5323,Working Professional,Tier-1 City,Never,97,1,"Romance, Comedy, Action, Horror",Morning,Alone,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,4,2,No
+38,Female,2377,Retired,Tier-2 City,Monthly,75,2,"Drama, Animation, Documentary, Romance",Morning,Family,Yes,Yes,3,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,4,2,Yes
+43,Non-binary,3753,Student,Town,Occasionally,70,3,"Documentary, Action, Horror, Romance, Animation, Comedy, Sci-Fi",Morning,Partner,No,Yes,2,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,4,Yes
+45,Male,1251,Homemaker,Town,Occasionally,105,3,"Drama, Sci-Fi, Other, Horror, Comedy",Afternoon,Partner,Yes,Yes,1,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,4,5,No
+49,Non-binary,3444,Homemaker,Tier-1 City,Monthly,74,2,"Horror, Sci-Fi, Other, Animation",Afternoon,Alone,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,3,2,No
+47,Male,2502,Working Professional,Town,Monthly,80,4,"Documentary, Action, Other, Drama, Horror, Comedy, Sci-Fi, Animation",Morning,Family,No,Yes,3,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4,1,Yes
+35,Non-binary,3208,Retired,Rural Area,Monthly,79,5,"Other, Horror, Romance, Sci-Fi, Action, Documentary, Drama, Comedy, Animation",Evening,Partner,No,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,2,Yes
+46,Prefer not to say,1459,Retired,Town,Rarely,42,3,"Documentary, Romance, Sci-Fi, Animation, Drama, Horror, Comedy, Action",Afternoon,Alone,No,No,1,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,1,Yes
+37,Male,4337,Retired,Town,Weekly,80,5,"Romance, Horror, Action, Drama",Night,Alone,Yes,Yes,3,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,5,4,Yes
+47,Non-binary,5965,Working Professional,Rural Area,Occasionally,63,5,"Documentary, Romance, Animation, Sci-Fi",Afternoon,Partner,Yes,Yes,2,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,1,2,Yes
+17,Prefer not to say,1610,Retired,Tier-1 City,Weekly,46,1,"Drama, Comedy, Documentary, Romance, Animation",Morning,Partner,No,Yes,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes,4,4,Yes
+32,Male,1251,Homemaker,Tier-1 City,Weekly,64,5,"Other, Action, Animation, Comedy, Sci-Fi, Horror",Evening,Friends/Group,Yes,Yes,3,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,1,4,Yes
+39,Prefer not to say,1059,Student,Rural Area,Monthly,64,3,"Drama, Other, Comedy, Sci-Fi, Documentary, Romance",Morning,Family,Yes,No,3,No,Yes,No,Yes,Yes,No,Yes,No,No,1,1,Yes
+56,Female,3567,Homemaker,Rural Area,Rarely,95,1,"Action, Romance, Sci-Fi, Animation, Comedy, Documentary, Horror, Drama",Night,Friends/Group,No,No,4,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,4,5,Yes
+45,Female,3335,Homemaker,Rural Area,Never,53,2,"Documentary, Action, Other, Animation, Comedy",Afternoon,Alone,Yes,Yes,1,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,5,2,Yes
+17,Male,2977,Student,Town,Rarely,59,3,"Horror, Action, Sci-Fi, Other, Documentary, Drama, Romance, Animation",Afternoon,Partner,No,No,1,Yes,Yes,Yes,No,Yes,No,No,No,No,2,1,Yes
+54,Non-binary,1659,Homemaker,Rural Area,Weekly,79,1,"Romance, Drama, Animation, Documentary, Action",Morning,Friends/Group,Yes,Yes,2,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,2,5,Yes
+38,Male,2239,Working Professional,Tier-2 City,Rarely,48,1,"Drama, Other, Animation, Action",Morning,Alone,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,1,Yes
+46,Prefer not to say,19536,Student,Town,Monthly,61,5,"Romance, Comedy, Drama, Other, Horror, Action, Documentary, Animation",Night,Family,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,3,4,Yes
+36,Non-binary,2716,Homemaker,Tier-1 City,Never,41,2,"Drama, Other, Romance, Horror, Animation, Documentary",Evening,Partner,No,No,5,Yes,Yes,No,No,Yes,No,No,Yes,No,3,4,No
+37,Female,12012,Other,Tier-1 City,Monthly,93,3,"Other, Romance, Comedy, Documentary, Sci-Fi",Night,Friends/Group,Yes,Yes,2,Yes,Yes,No,No,Yes,No,No,No,Yes,5,1,Yes
+16,Non-binary,1366,Homemaker,Tier-1 City,Never,68,3,"Animation, Sci-Fi, Romance, Other, Drama",Evening,Family,Yes,Yes,4,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,4,1,Yes
+41,Female,3969,Working Professional,Town,Weekly,74,5,"Drama, Action, Romance, Sci-Fi, Horror",Afternoon,Friends/Group,No,No,5,No,No,Yes,No,No,No,No,Yes,Yes,3,1,No
+56,Non-binary,2295,Retired,Tier-2 City,Never,93,2,"Action, Drama, Sci-Fi, Documentary, Animation, Comedy, Romance, Other",Evening,Alone,No,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,1,1,Yes
+16,Non-binary,14382,Homemaker,Rural Area,Never,60,3,"Drama, Romance, Documentary, Action, Comedy, Other, Sci-Fi",Evening,Family,No,Yes,4,No,Yes,No,No,No,Yes,Yes,Yes,No,4,2,No
+40,Non-binary,4161,Retired,Rural Area,Never,68,2,"Comedy, Romance, Horror, Action, Drama",Afternoon,Friends/Group,Yes,No,1,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,4,2,Yes
+31,Prefer not to say,3947,Other,Tier-1 City,Rarely,53,3,"Horror, Comedy, Drama, Animation, Action",Afternoon,Family,Yes,Yes,3,Yes,Yes,Yes,No,Yes,No,No,No,No,2,1,Yes
+54,Prefer not to say,12848,Homemaker,Tier-1 City,Rarely,53,5,"Action, Other, Horror, Animation, Romance, Comedy, Sci-Fi, Drama, Documentary",Afternoon,Alone,No,Yes,1,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,2,3,Yes
+47,Male,1343,Student,Town,Weekly,56,4,"Other, Animation, Action, Horror, Sci-Fi, Comedy",Night,Family,No,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,2,Yes
+23,Male,1274,Retired,Tier-2 City,Never,65,3,"Documentary, Comedy, Animation, Action, Drama",Afternoon,Friends/Group,Yes,Yes,4,Yes,Yes,No,Yes,Yes,No,Yes,No,No,1,5,Yes
+57,Female,4221,Other,Rural Area,Occasionally,67,1,"Romance, Sci-Fi, Action, Animation",Morning,Alone,Yes,Yes,5,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,3,1,No
+53,Prefer not to say,3159,Student,Town,Weekly,80,1,"Drama, Animation, Comedy, Romance, Action, Sci-Fi",Afternoon,Partner,No,Yes,4,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,1,1,No
+43,Female,1801,Student,Rural Area,Never,57,4,"Documentary, Action, Horror, Romance, Comedy, Animation",Afternoon,Friends/Group,Yes,Yes,1,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,1,Yes
+56,Male,1206,Student,Tier-1 City,Never,81,3,"Action, Comedy, Drama, Documentary, Romance",Afternoon,Friends/Group,No,Yes,4,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,3,5,Yes
+40,Female,1223,Student,Rural Area,Rarely,84,1,"Other, Sci-Fi, Romance, Drama, Animation, Comedy, Action",Evening,Alone,Yes,No,1,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,5,3,Yes
+49,Male,6615,Homemaker,Tier-2 City,Weekly,65,1,"Animation, Documentary, Comedy, Action",Night,Alone,Yes,No,4,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,4,1,Yes
+39,Prefer not to say,1532,Homemaker,Tier-2 City,Never,58,3,"Action, Animation, Other, Drama, Sci-Fi, Horror",Afternoon,Partner,No,Yes,2,Yes,No,No,Yes,No,No,Yes,Yes,No,2,2,Yes
+38,Non-binary,1976,Homemaker,Tier-1 City,Never,76,2,"Comedy, Action, Other, Animation, Drama",Night,Friends/Group,Yes,Yes,1,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,3,2,Yes
+27,Prefer not to say,1642,Other,Tier-2 City,Weekly,70,3,"Documentary, Comedy, Drama, Horror",Morning,Alone,Yes,No,3,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,2,4,Yes
+21,Female,2096,Other,Tier-2 City,Occasionally,79,2,"Documentary, Sci-Fi, Action, Romance, Other, Horror, Animation",Morning,Partner,Yes,Yes,5,Yes,Yes,No,Yes,No,No,Yes,No,Yes,5,5,Yes
+50,Female,1179,Other,Town,Weekly,106,4,"Animation, Romance, Comedy, Horror, Action, Drama",Afternoon,Partner,Yes,Yes,5,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,5,4,Yes
+59,Prefer not to say,2830,Working Professional,Rural Area,Weekly,76,5,"Documentary, Sci-Fi, Comedy, Drama, Other, Action, Horror",Morning,Alone,No,No,1,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,2,2,Yes
+34,Prefer not to say,1175,Other,Tier-1 City,Occasionally,62,4,"Comedy, Other, Romance, Drama, Sci-Fi, Horror, Animation, Action, Documentary",Night,Friends/Group,No,No,2,No,No,No,No,Yes,Yes,Yes,No,No,1,3,Yes
+15,Male,5028,Homemaker,Tier-1 City,Weekly,57,5,"Other, Animation, Sci-Fi, Romance, Horror, Comedy, Documentary",Evening,Family,No,No,5,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,1,3,Yes
+22,Female,1665,Homemaker,Tier-1 City,Never,57,1,"Comedy, Animation, Documentary, Romance, Action, Other",Afternoon,Family,Yes,No,2,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,1,4,No
+30,Female,2941,Working Professional,Tier-1 City,Weekly,45,1,"Documentary, Drama, Comedy, Animation",Morning,Partner,Yes,Yes,3,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,4,2,Yes
+28,Prefer not to say,6302,Working Professional,Tier-1 City,Occasionally,93,1,"Drama, Action, Horror, Documentary, Animation",Night,Family,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,4,2,Yes
+26,Non-binary,3630,Other,Tier-2 City,Monthly,30,2,"Drama, Sci-Fi, Other, Romance, Action",Night,Family,No,Yes,4,Yes,Yes,No,Yes,Yes,Yes,No,No,No,5,1,Yes
+37,Female,2903,Retired,Town,Weekly,84,5,"Animation, Other, Sci-Fi, Drama",Morning,Alone,No,Yes,4,Yes,No,Yes,Yes,No,Yes,Yes,No,No,1,5,Yes
+29,Non-binary,1980,Working Professional,Tier-1 City,Rarely,57,1,"Other, Documentary, Animation, Action, Sci-Fi, Horror",Night,Partner,No,Yes,1,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,5,3,Yes
+42,Prefer not to say,2012,Student,Town,Never,64,3,"Animation, Drama, Comedy, Sci-Fi",Night,Friends/Group,Yes,No,5,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2,5,Yes
+48,Prefer not to say,3767,Homemaker,Town,Never,57,5,"Comedy, Other, Sci-Fi, Action, Drama, Animation, Documentary, Horror",Afternoon,Partner,Yes,No,2,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,4,1,Yes
+16,Male,13848,Student,Tier-2 City,Rarely,103,5,"Documentary, Other, Action, Comedy, Drama, Horror, Animation",Night,Alone,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,1,No
+46,Female,3710,Homemaker,Tier-1 City,Rarely,75,2,"Animation, Action, Horror, Drama, Comedy, Documentary, Romance, Sci-Fi",Morning,Family,Yes,No,3,No,Yes,No,Yes,Yes,Yes,No,No,No,4,1,Yes
+37,Non-binary,3039,Homemaker,Tier-2 City,Weekly,90,4,"Romance, Action, Drama, Animation, Other, Sci-Fi",Afternoon,Friends/Group,Yes,No,5,Yes,No,Yes,No,Yes,Yes,No,Yes,No,3,1,Yes
+36,Male,4279,Working Professional,Tier-1 City,Rarely,101,2,"Comedy, Horror, Other, Drama, Documentary, Romance, Animation",Morning,Partner,No,Yes,2,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,3,5,Yes
+39,Female,2564,Working Professional,Tier-2 City,Monthly,78,1,"Animation, Comedy, Documentary, Horror, Other, Romance, Drama, Sci-Fi, Action",Evening,Family,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,5,3,No
+36,Male,1155,Student,Town,Occasionally,51,3,"Other, Drama, Action, Documentary",Morning,Partner,Yes,Yes,5,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,5,1,Yes
+36,Prefer not to say,3065,Homemaker,Tier-1 City,Rarely,70,3,"Other, Animation, Comedy, Sci-Fi, Romance, Action, Horror, Drama, Documentary",Morning,Friends/Group,Yes,Yes,4,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,5,Yes
+56,Female,8903,Student,Rural Area,Rarely,60,1,"Horror, Action, Other, Documentary",Afternoon,Partner,No,Yes,5,Yes,Yes,No,No,Yes,No,No,No,Yes,5,4,Yes
+20,Male,1481,Retired,Town,Monthly,64,3,"Horror, Sci-Fi, Drama, Other, Documentary, Romance",Night,Partner,Yes,Yes,4,Yes,No,Yes,Yes,No,No,No,Yes,Yes,3,2,Yes
+29,Male,3927,Student,Rural Area,Never,73,2,"Comedy, Action, Other, Drama, Horror, Sci-Fi, Documentary, Animation, Romance",Morning,Partner,No,Yes,1,Yes,No,No,No,Yes,No,Yes,Yes,Yes,4,1,Yes
+57,Non-binary,1560,Other,Town,Never,72,2,"Drama, Sci-Fi, Romance, Animation, Action, Other",Afternoon,Family,No,Yes,1,No,No,Yes,Yes,No,No,Yes,No,Yes,1,2,Yes
+51,Male,2918,Student,Tier-2 City,Weekly,83,1,"Animation, Action, Comedy, Sci-Fi",Evening,Friends/Group,Yes,No,4,Yes,Yes,Yes,No,Yes,Yes,No,No,No,1,1,Yes
+47,Female,1254,Other,Tier-1 City,Monthly,86,3,"Horror, Other, Romance, Comedy, Drama",Afternoon,Friends/Group,No,Yes,5,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,5,2,No
+22,Female,2496,Other,Town,Occasionally,72,5,"Animation, Action, Other, Romance, Documentary, Horror, Sci-Fi, Drama, Comedy",Afternoon,Family,Yes,No,3,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,3,4,Yes
+58,Non-binary,4528,Other,Tier-2 City,Occasionally,83,4,"Sci-Fi, Other, Romance, Animation, Drama",Night,Family,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,4,Yes
+58,Female,2067,Retired,Tier-1 City,Monthly,64,5,"Animation, Romance, Horror, Drama, Comedy, Other, Sci-Fi",Morning,Family,No,Yes,1,No,Yes,Yes,Yes,No,No,No,Yes,No,3,2,Yes
+19,Prefer not to say,3733,Student,Tier-1 City,Occasionally,101,2,"Other, Animation, Sci-Fi, Action, Romance, Drama, Horror, Comedy, Documentary",Evening,Alone,No,No,1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,3,Yes
+53,Female,4967,Student,Town,Never,63,2,"Comedy, Documentary, Action, Drama, Romance, Sci-Fi, Other, Horror, Animation",Afternoon,Partner,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,4,3,No
+18,Female,7549,Retired,Tier-1 City,Occasionally,98,2,"Drama, Horror, Action, Sci-Fi, Documentary",Morning,Partner,Yes,Yes,3,Yes,No,No,No,Yes,No,Yes,Yes,No,3,2,Yes
+20,Male,1668,Homemaker,Town,Occasionally,45,2,"Romance, Drama, Other, Action, Horror, Documentary, Comedy, Sci-Fi, Animation",Morning,Friends/Group,Yes,No,5,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,1,4,Yes
+59,Male,2274,Working Professional,Tier-1 City,Monthly,67,4,"Action, Horror, Drama, Romance, Comedy, Documentary, Animation",Afternoon,Partner,Yes,Yes,3,Yes,Yes,No,No,No,No,No,Yes,Yes,2,1,No
+46,Female,1413,Student,Rural Area,Monthly,68,1,"Other, Sci-Fi, Animation, Comedy, Documentary, Romance",Morning,Alone,Yes,Yes,4,Yes,No,Yes,Yes,Yes,No,No,Yes,No,4,4,Yes
+44,Non-binary,13226,Working Professional,Tier-2 City,Occasionally,80,2,"Comedy, Documentary, Other, Romance, Drama, Animation",Afternoon,Family,Yes,Yes,3,Yes,No,Yes,No,Yes,No,Yes,Yes,No,1,2,Yes
+49,Male,7543,Retired,Rural Area,Rarely,92,3,"Romance, Comedy, Documentary, Drama, Animation, Other, Sci-Fi, Horror, Action",Afternoon,Friends/Group,Yes,No,2,Yes,No,Yes,No,Yes,No,Yes,Yes,No,1,1,Yes
+54,Non-binary,2941,Homemaker,Town,Monthly,50,4,"Sci-Fi, Documentary, Animation, Action, Horror, Romance",Afternoon,Friends/Group,No,Yes,5,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,1,2,No
+30,Female,5613,Homemaker,Rural Area,Weekly,208,2,"Comedy, Documentary, Other, Sci-Fi, Action, Horror, Drama, Animation, Romance",Evening,Partner,Yes,Yes,5,Yes,No,No,No,Yes,Yes,No,Yes,Yes,4,1,No
+27,Female,2839,Homemaker,Town,Weekly,46,3,"Drama, Other, Comedy, Documentary",Afternoon,Friends/Group,Yes,Yes,3,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,5,3,Yes
+56,Prefer not to say,3442,Retired,Tier-1 City,Never,101,2,"Documentary, Drama, Other, Romance, Comedy, Action, Sci-Fi",Night,Family,Yes,Yes,1,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,4,3,Yes
+44,Male,1233,Other,Tier-1 City,Occasionally,80,1,"Drama, Romance, Documentary, Action, Animation, Horror",Morning,Friends/Group,No,No,2,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,3,1,No
+33,Female,4519,Other,Town,Rarely,53,4,"Horror, Drama, Sci-Fi, Comedy, Other, Action",Evening,Family,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,4,5,Yes
+31,Prefer not to say,1341,Working Professional,Rural Area,Never,66,1,"Animation, Other, Horror, Documentary, Romance",Morning,Alone,Yes,Yes,5,No,Yes,No,No,Yes,Yes,No,No,Yes,2,3,No
+33,Male,5372,Other,Tier-1 City,Occasionally,98,4,"Action, Other, Sci-Fi, Comedy, Drama, Documentary, Romance",Evening,Alone,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,2,1,Yes
+42,Female,4808,Other,Tier-2 City,Monthly,69,2,"Horror, Action, Romance, Documentary, Comedy, Sci-Fi, Drama, Other",Night,Family,No,No,3,No,Yes,No,Yes,No,Yes,No,No,No,3,3,Yes
+40,Female,24498,Homemaker,Tier-1 City,Weekly,68,2,"Drama, Comedy, Horror, Sci-Fi, Romance, Other",Evening,Partner,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,1,Yes
+51,Male,1092,Homemaker,Tier-2 City,Rarely,59,4,"Comedy, Action, Drama, Animation, Horror",Evening,Friends/Group,No,No,4,No,Yes,Yes,Yes,No,Yes,No,No,Yes,2,1,Yes
+40,Male,1902,Working Professional,Rural Area,Weekly,54,3,"Other, Romance, Horror, Documentary, Comedy, Drama, Sci-Fi, Animation, Action",Evening,Partner,No,No,1,Yes,No,No,No,No,Yes,Yes,Yes,Yes,2,5,Yes
+37,Male,1763,Student,Tier-2 City,Monthly,98,3,"Animation, Action, Comedy, Other, Romance",Morning,Friends/Group,No,Yes,2,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,4,2,No
+23,Female,2116,Working Professional,Tier-2 City,Occasionally,108,2,"Action, Drama, Other, Documentary, Animation",Afternoon,Alone,No,Yes,5,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,2,2,Yes
+26,Female,1229,Working Professional,Tier-2 City,Monthly,55,2,"Sci-Fi, Action, Other, Documentary, Romance, Animation, Horror",Morning,Alone,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,5,4,No
+15,Prefer not to say,7909,Retired,Tier-2 City,Monthly,103,1,"Comedy, Animation, Horror, Documentary, Action, Drama, Other, Sci-Fi, Romance",Afternoon,Alone,Yes,No,4,Yes,No,Yes,Yes,Yes,No,Yes,No,No,1,5,Yes
+15,Non-binary,3017,Retired,Tier-1 City,Weekly,65,2,"Action, Sci-Fi, Horror, Romance, Other, Drama, Animation, Documentary, Comedy",Morning,Friends/Group,No,Yes,2,Yes,No,Yes,Yes,Yes,Yes,No,No,No,4,3,Yes
+48,Male,1911,Working Professional,Tier-2 City,Rarely,85,4,"Other, Comedy, Drama, Action",Night,Alone,Yes,Yes,5,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,5,5,No
+46,Female,2264,Working Professional,Tier-1 City,Monthly,103,3,"Documentary, Horror, Sci-Fi, Comedy",Night,Alone,Yes,No,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,2,2,Yes
+39,Female,2481,Working Professional,Tier-2 City,Weekly,72,3,"Other, Horror, Drama, Romance, Documentary, Animation",Evening,Alone,No,Yes,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,2,4,Yes
+54,Male,3294,Other,Town,Rarely,68,1,"Action, Documentary, Comedy, Romance, Horror",Night,Alone,Yes,Yes,3,No,No,Yes,Yes,Yes,No,No,Yes,Yes,2,2,Yes
+59,Non-binary,2812,Retired,Rural Area,Occasionally,91,3,"Horror, Action, Documentary, Romance, Animation, Sci-Fi",Evening,Partner,Yes,Yes,3,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,1,3,Yes
+15,Male,7295,Working Professional,Tier-2 City,Occasionally,52,3,"Documentary, Drama, Action, Sci-Fi, Animation, Romance, Comedy, Horror",Afternoon,Alone,Yes,Yes,4,No,No,No,Yes,Yes,Yes,No,Yes,No,2,5,Yes
+30,Non-binary,2717,Homemaker,Town,Never,97,5,"Sci-Fi, Other, Horror, Action, Romance, Comedy, Documentary",Night,Alone,Yes,No,3,Yes,Yes,No,No,Yes,No,No,No,Yes,2,3,No
+53,Female,13120,Homemaker,Tier-2 City,Weekly,77,4,"Romance, Other, Horror, Documentary, Action, Sci-Fi",Afternoon,Partner,No,Yes,2,No,Yes,No,Yes,Yes,No,No,Yes,No,3,3,No
+19,Non-binary,5766,Other,Tier-2 City,Rarely,63,5,"Action, Drama, Romance, Animation",Morning,Partner,Yes,Yes,3,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,1,Yes
+36,Prefer not to say,1584,Other,Tier-2 City,Monthly,62,3,"Romance, Other, Horror, Sci-Fi, Drama",Afternoon,Friends/Group,Yes,No,3,No,Yes,Yes,No,Yes,No,Yes,No,Yes,4,3,Yes
+43,Female,7669,Student,Town,Occasionally,47,1,"Comedy, Romance, Animation, Drama, Other, Action, Sci-Fi, Documentary, Horror",Morning,Family,Yes,Yes,2,No,Yes,No,Yes,Yes,No,No,Yes,No,5,4,Yes
+17,Prefer not to say,1309,Student,Rural Area,Rarely,64,1,"Animation, Documentary, Other, Horror, Comedy, Action",Afternoon,Alone,No,No,4,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,3,Yes
+26,Male,5251,Student,Town,Weekly,69,3,"Action, Drama, Other, Horror, Sci-Fi",Afternoon,Alone,No,No,5,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,2,3,Yes
+40,Male,2197,Other,Rural Area,Never,53,2,"Documentary, Drama, Sci-Fi, Horror, Other, Action, Animation",Night,Alone,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1,1,No
+30,Male,6258,Other,Tier-2 City,Occasionally,74,5,"Drama, Documentary, Horror, Action, Animation, Sci-Fi, Romance, Other, Comedy",Afternoon,Friends/Group,No,Yes,1,No,Yes,No,No,No,No,Yes,Yes,Yes,3,1,Yes
+51,Non-binary,6063,Other,Tier-1 City,Rarely,84,3,"Romance, Action, Other, Animation, Sci-Fi, Comedy, Drama, Horror, Documentary",Night,Alone,Yes,No,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,1,2,Yes
+36,Female,5098,Homemaker,Tier-2 City,Rarely,70,1,"Horror, Documentary, Drama, Romance, Other, Comedy, Animation",Night,Family,No,Yes,1,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4,2,No
+43,Male,4901,Other,Rural Area,Rarely,88,1,"Action, Other, Romance, Comedy, Sci-Fi, Horror, Animation, Documentary",Evening,Partner,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,1,3,Yes
+28,Male,1908,Homemaker,Town,Weekly,58,5,"Documentary, Romance, Comedy, Drama",Evening,Friends/Group,No,No,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,3,2,No
+42,Female,1210,Student,Tier-2 City,Weekly,95,4,"Action, Horror, Sci-Fi, Romance, Documentary, Animation",Morning,Partner,Yes,Yes,1,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,1,4,Yes
+19,Male,2289,Student,Town,Weekly,77,3,"Comedy, Documentary, Horror, Sci-Fi, Animation",Afternoon,Alone,Yes,No,1,No,No,Yes,No,No,No,Yes,Yes,Yes,3,4,Yes
+44,Prefer not to say,1476,Student,Town,Monthly,105,3,"Documentary, Other, Drama, Action",Morning,Alone,Yes,Yes,2,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,1,4,No
+19,Female,3968,Working Professional,Town,Rarely,123,4,"Action, Comedy, Horror, Animation, Other, Sci-Fi, Romance",Afternoon,Alone,No,Yes,4,No,No,Yes,Yes,No,No,No,No,Yes,5,1,Yes
+26,Female,2062,Working Professional,Tier-2 City,Occasionally,65,5,"Sci-Fi, Horror, Romance, Animation, Documentary, Drama, Comedy, Action",Evening,Family,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,1,No
+30,Female,10283,Retired,Town,Weekly,66,5,"Documentary, Romance, Sci-Fi, Animation, Other",Evening,Family,No,No,4,Yes,No,Yes,Yes,No,No,Yes,No,Yes,4,5,No
+40,Prefer not to say,3560,Retired,Town,Weekly,70,1,"Romance, Documentary, Action, Animation, Comedy, Other, Sci-Fi",Afternoon,Friends/Group,Yes,Yes,4,Yes,Yes,No,Yes,Yes,No,No,No,Yes,4,4,Yes
+40,Female,5321,Retired,Tier-2 City,Rarely,86,4,"Sci-Fi, Romance, Documentary, Action, Animation, Comedy",Afternoon,Partner,Yes,No,5,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,1,3,Yes
+35,Prefer not to say,1355,Working Professional,Town,Weekly,101,5,"Drama, Animation, Action, Other, Sci-Fi, Comedy, Documentary",Evening,Alone,Yes,Yes,1,No,Yes,Yes,Yes,Yes,No,No,No,Yes,1,2,Yes
+53,Female,5951,Working Professional,Tier-2 City,Monthly,61,2,"Animation, Horror, Documentary, Comedy",Evening,Alone,No,Yes,1,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,1,1,No
+50,Non-binary,7402,Retired,Rural Area,Monthly,82,3,"Romance, Comedy, Animation, Horror, Action, Sci-Fi, Documentary, Drama, Other",Morning,Alone,Yes,Yes,5,Yes,No,No,Yes,Yes,No,No,No,No,3,3,Yes
+47,Male,2669,Retired,Rural Area,Weekly,72,1,"Action, Other, Sci-Fi, Horror, Animation, Romance, Drama",Evening,Alone,No,Yes,1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,1,2,Yes
+44,Non-binary,3330,Other,Rural Area,Rarely,87,4,"Drama, Other, Action, Horror, Sci-Fi",Afternoon,Family,No,Yes,4,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,2,Yes
+51,Male,4618,Retired,Town,Rarely,105,1,"Romance, Animation, Horror, Sci-Fi, Comedy, Drama, Other, Documentary",Morning,Partner,No,Yes,1,No,Yes,No,No,Yes,No,Yes,Yes,Yes,1,4,Yes
+37,Prefer not to say,1480,Other,Tier-1 City,Rarely,70,5,"Documentary, Drama, Comedy, Horror, Sci-Fi, Other",Afternoon,Partner,Yes,Yes,3,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,No
+24,Non-binary,2745,Homemaker,Tier-1 City,Never,41,5,"Other, Romance, Documentary, Animation, Sci-Fi, Comedy, Action, Drama, Horror",Night,Friends/Group,No,No,4,No,Yes,No,Yes,Yes,No,Yes,Yes,No,2,3,No
+19,Female,2271,Working Professional,Town,Weekly,89,2,"Romance, Drama, Other, Animation, Comedy, Documentary, Horror, Action, Sci-Fi",Morning,Family,No,Yes,5,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,5,4,No
+50,Male,1395,Retired,Tier-1 City,Rarely,58,3,"Documentary, Animation, Romance, Other, Sci-Fi, Drama, Comedy, Action",Afternoon,Alone,Yes,No,3,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,1,4,Yes
+48,Male,2145,Working Professional,Tier-2 City,Monthly,72,4,"Comedy, Action, Horror, Other, Documentary, Sci-Fi, Animation, Romance",Evening,Partner,No,Yes,4,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,4,4,Yes
+45,Non-binary,1176,Working Professional,Tier-1 City,Occasionally,90,1,"Sci-Fi, Other, Comedy, Action, Drama",Night,Partner,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,4,Yes
+24,Prefer not to say,1065,Working Professional,Town,Occasionally,80,3,"Other, Action, Drama, Horror, Documentary",Afternoon,Family,Yes,Yes,1,Yes,No,Yes,No,Yes,Yes,No,Yes,No,5,5,Yes
+33,Non-binary,1363,Homemaker,Town,Rarely,72,5,"Other, Horror, Romance, Animation, Sci-Fi, Documentary, Action, Comedy",Morning,Friends/Group,Yes,Yes,1,Yes,Yes,Yes,No,No,No,Yes,Yes,No,3,3,Yes
+46,Prefer not to say,9249,Student,Tier-2 City,Occasionally,63,3,"Action, Animation, Horror, Documentary, Drama, Other, Romance, Comedy, Sci-Fi",Afternoon,Friends/Group,Yes,Yes,4,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,4,2,No
+15,Prefer not to say,2993,Retired,Rural Area,Occasionally,17,1,"Documentary, Horror, Romance, Animation, Drama, Comedy, Sci-Fi, Action",Night,Alone,Yes,Yes,3,No,No,Yes,Yes,Yes,No,No,Yes,Yes,4,2,No
+19,Male,9440,Student,Town,Never,88,3,"Documentary, Drama, Romance, Action, Comedy, Sci-Fi",Morning,Friends/Group,Yes,Yes,2,No,No,No,Yes,No,Yes,Yes,Yes,Yes,3,4,No
+59,Non-binary,2416,Student,Tier-2 City,Monthly,69,5,"Other, Comedy, Horror, Action, Animation, Drama, Sci-Fi, Documentary, Romance",Night,Partner,No,No,4,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,5,4,No
+18,Non-binary,1934,Student,Tier-1 City,Monthly,105,3,"Sci-Fi, Action, Drama, Horror, Comedy",Afternoon,Friends/Group,Yes,Yes,1,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,4,5,No
+30,Prefer not to say,2763,Working Professional,Tier-1 City,Never,328,4,"Drama, Romance, Sci-Fi, Action",Evening,Alone,Yes,No,2,Yes,No,Yes,Yes,No,Yes,No,No,Yes,3,4,Yes
+38,Non-binary,2447,Other,Tier-2 City,Never,64,3,"Sci-Fi, Documentary, Animation, Other, Romance, Drama, Action, Comedy, Horror",Evening,Partner,Yes,Yes,1,No,Yes,Yes,No,Yes,No,No,Yes,Yes,3,5,No
+30,Female,1279,Working Professional,Tier-2 City,Occasionally,96,4,"Other, Comedy, Animation, Sci-Fi, Documentary",Afternoon,Friends/Group,Yes,Yes,3,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,3,5,Yes
+16,Female,3559,Working Professional,Town,Weekly,98,3,"Other, Animation, Action, Drama, Comedy, Sci-Fi, Romance",Afternoon,Friends/Group,No,Yes,3,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,4,Yes
+42,Non-binary,1608,Student,Tier-1 City,Occasionally,70,5,"Romance, Other, Drama, Comedy, Sci-Fi, Horror",Afternoon,Family,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,2,5,Yes
+46,Non-binary,3416,Working Professional,Tier-2 City,Never,98,2,"Action, Comedy, Romance, Drama, Horror, Documentary, Animation, Other",Morning,Alone,No,Yes,1,Yes,No,No,Yes,No,No,Yes,Yes,No,3,5,Yes
+41,Prefer not to say,3625,Student,Tier-1 City,Monthly,252,2,"Romance, Animation, Documentary, Action",Night,Friends/Group,Yes,Yes,5,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,4,2,Yes
+34,Female,1412,Other,Tier-2 City,Occasionally,78,4,"Sci-Fi, Other, Action, Documentary, Drama, Horror, Comedy",Night,Family,No,Yes,3,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,4,4,Yes
+38,Female,1158,Retired,Tier-1 City,Weekly,86,4,"Sci-Fi, Horror, Drama, Other",Night,Partner,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,1,Yes
+26,Male,4793,Student,Rural Area,Occasionally,90,2,"Comedy, Drama, Animation, Sci-Fi",Afternoon,Family,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,1,5,No
+49,Prefer not to say,2539,Other,Town,Rarely,87,5,"Action, Comedy, Documentary, Romance, Animation, Horror, Other, Drama",Night,Family,No,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,3,4,No
+47,Male,1149,Retired,Tier-1 City,Occasionally,68,5,"Animation, Comedy, Romance, Other, Documentary, Action, Sci-Fi, Drama",Afternoon,Friends/Group,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,3,5,Yes
+47,Female,14179,Homemaker,Rural Area,Never,96,3,"Comedy, Other, Action, Documentary",Morning,Friends/Group,No,No,1,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1,5,Yes
+57,Prefer not to say,1148,Student,Tier-1 City,Monthly,72,4,"Other, Comedy, Sci-Fi, Documentary, Drama, Horror",Evening,Friends/Group,No,No,3,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,1,2,Yes
+51,Non-binary,3968,Student,Tier-1 City,Monthly,63,5,"Documentary, Animation, Horror, Drama, Action, Other, Romance",Afternoon,Family,Yes,Yes,4,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,4,1,Yes
+26,Prefer not to say,11288,Homemaker,Rural Area,Never,63,1,"Other, Action, Romance, Animation",Afternoon,Partner,Yes,No,5,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,4,2,Yes
+17,Non-binary,1683,Homemaker,Tier-1 City,Rarely,113,3,"Comedy, Action, Romance, Documentary, Drama, Animation, Other, Sci-Fi",Evening,Alone,Yes,No,2,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,2,3,No
+15,Non-binary,1383,Student,Tier-1 City,Never,60,3,"Comedy, Sci-Fi, Animation, Horror, Romance, Documentary, Drama, Action",Evening,Family,No,Yes,1,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,1,1,Yes
+47,Prefer not to say,1323,Homemaker,Town,Occasionally,100,2,"Drama, Horror, Comedy, Romance, Documentary, Other, Sci-Fi",Morning,Friends/Group,No,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,5,2,Yes
+54,Non-binary,1903,Working Professional,Rural Area,Never,52,4,"Sci-Fi, Romance, Action, Other, Documentary",Night,Alone,Yes,No,4,No,No,Yes,No,Yes,No,Yes,Yes,Yes,1,1,Yes
+24,Male,1266,Retired,Rural Area,Never,84,5,"Comedy, Action, Documentary, Sci-Fi, Romance",Afternoon,Partner,Yes,Yes,1,Yes,No,Yes,Yes,No,No,No,No,No,5,3,Yes
+57,Female,3945,Retired,Tier-2 City,Rarely,80,5,"Other, Comedy, Drama, Documentary, Animation, Romance, Horror",Night,Alone,Yes,No,3,No,Yes,Yes,Yes,No,No,Yes,No,No,3,5,Yes
+58,Non-binary,1160,Retired,Tier-1 City,Occasionally,107,3,"Other, Drama, Comedy, Animation, Romance, Documentary, Action, Horror, Sci-Fi",Afternoon,Friends/Group,No,Yes,5,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,2,4,Yes
+43,Male,2780,Working Professional,Town,Weekly,61,4,"Action, Documentary, Romance, Sci-Fi, Other, Drama, Horror, Animation, Comedy",Morning,Family,Yes,Yes,5,Yes,Yes,No,No,Yes,No,No,Yes,Yes,3,2,No
+27,Non-binary,15282,Homemaker,Tier-1 City,Weekly,56,4,"Horror, Documentary, Drama, Animation",Evening,Family,Yes,Yes,4,No,Yes,No,Yes,Yes,No,No,Yes,Yes,4,1,Yes
+26,Female,5204,Other,Tier-1 City,Monthly,72,4,"Horror, Comedy, Drama, Sci-Fi, Action",Morning,Friends/Group,No,Yes,2,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,5,1,Yes
+45,Male,3387,Homemaker,Tier-2 City,Never,108,2,"Romance, Documentary, Horror, Drama, Sci-Fi",Evening,Family,Yes,No,5,Yes,No,Yes,Yes,Yes,No,Yes,No,No,4,3,Yes
+16,Female,1914,Student,Tier-1 City,Monthly,57,5,"Sci-Fi, Drama, Other, Animation, Documentary, Romance, Comedy, Action, Horror",Night,Friends/Group,Yes,No,2,No,Yes,No,Yes,Yes,No,Yes,Yes,No,5,3,Yes
+49,Female,3444,Retired,Town,Rarely,23,4,"Horror, Other, Romance, Animation, Documentary, Drama",Night,Family,No,Yes,5,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,4,2,Yes
+37,Male,2871,Homemaker,Town,Weekly,76,2,"Drama, Romance, Horror, Animation, Documentary, Other",Morning,Family,No,Yes,5,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,3,Yes
+31,Male,2388,Other,Tier-2 City,Never,93,1,"Documentary, Comedy, Other, Romance, Sci-Fi, Action",Evening,Family,Yes,No,5,Yes,Yes,No,Yes,Yes,No,No,No,Yes,1,4,Yes
+40,Male,1350,Student,Tier-1 City,Rarely,54,3,"Drama, Horror, Other, Romance, Action, Sci-Fi",Morning,Partner,Yes,Yes,2,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,3,2,Yes
+22,Prefer not to say,6442,Working Professional,Town,Rarely,91,5,"Other, Action, Animation, Sci-Fi",Evening,Partner,Yes,Yes,1,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,1,5,Yes
+43,Male,2493,Working Professional,Tier-1 City,Never,54,5,"Animation, Horror, Action, Sci-Fi, Drama, Documentary, Romance, Other",Evening,Friends/Group,Yes,Yes,5,No,Yes,Yes,Yes,No,Yes,Yes,No,No,3,4,Yes
+40,Male,1541,Other,Tier-1 City,Rarely,72,3,"Animation, Horror, Other, Sci-Fi, Drama, Comedy",Night,Partner,No,No,2,Yes,Yes,Yes,Yes,No,No,No,Yes,No,1,2,Yes
+24,Male,2146,Student,Tier-1 City,Never,90,1,"Other, Comedy, Horror, Drama, Sci-Fi, Action, Romance",Night,Friends/Group,Yes,No,1,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,3,2,Yes
+40,Male,2336,Retired,Tier-2 City,Never,51,2,"Drama, Other, Horror, Comedy, Romance",Evening,Alone,No,Yes,2,No,Yes,Yes,Yes,Yes,No,No,Yes,No,4,2,Yes
+48,Non-binary,5393,Homemaker,Tier-1 City,Occasionally,78,3,"Drama, Documentary, Other, Action, Comedy, Horror, Romance, Animation",Evening,Alone,No,Yes,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,2,1,Yes
+55,Prefer not to say,4307,Student,Town,Monthly,99,2,"Romance, Horror, Action, Other, Comedy, Drama",Evening,Partner,Yes,No,5,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,5,2,Yes
+21,Female,4666,Working Professional,Tier-1 City,Rarely,84,2,"Documentary, Other, Action, Animation, Drama, Romance, Sci-Fi",Night,Alone,Yes,Yes,2,Yes,Yes,Yes,No,Yes,No,Yes,No,No,4,1,Yes
+18,Male,1027,Other,Town,Rarely,60,2,"Sci-Fi, Other, Documentary, Animation, Romance, Comedy, Horror, Drama",Night,Alone,Yes,Yes,5,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,4,2,Yes
+59,Non-binary,2345,Other,Tier-1 City,Occasionally,105,1,"Comedy, Sci-Fi, Horror, Other, Documentary, Animation",Afternoon,Family,No,Yes,3,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,5,4,Yes
+25,Non-binary,2641,Homemaker,Town,Occasionally,88,1,"Romance, Documentary, Animation, Horror, Sci-Fi, Action",Evening,Family,No,No,2,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,1,1,Yes
+43,Non-binary,1048,Other,Town,Occasionally,148,2,"Drama, Documentary, Comedy, Animation, Action, Other, Sci-Fi, Horror",Afternoon,Friends/Group,Yes,Yes,1,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,3,4,No
+50,Female,1752,Other,Tier-1 City,Weekly,92,4,"Drama, Romance, Sci-Fi, Documentary, Action",Evening,Alone,No,Yes,5,No,Yes,No,Yes,No,No,Yes,Yes,Yes,4,3,Yes
+39,Male,4570,Student,Tier-1 City,Weekly,63,5,"Horror, Animation, Documentary, Drama, Action, Other, Romance, Comedy, Sci-Fi",Night,Friends/Group,Yes,Yes,5,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4,1,No
+35,Prefer not to say,1368,Retired,Town,Weekly,78,1,"Drama, Animation, Action, Comedy, Documentary",Afternoon,Friends/Group,No,Yes,3,No,Yes,No,Yes,Yes,No,No,No,Yes,1,1,No
+50,Prefer not to say,2915,Homemaker,Rural Area,Never,95,4,"Drama, Other, Romance, Sci-Fi, Action",Afternoon,Alone,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,4,5,No
+24,Non-binary,1605,Student,Tier-2 City,Rarely,64,4,"Drama, Action, Comedy, Other, Animation, Horror, Romance, Documentary",Morning,Partner,Yes,Yes,4,No,No,Yes,Yes,Yes,No,No,Yes,Yes,3,1,Yes
+51,Female,1030,Retired,Rural Area,Monthly,42,5,"Sci-Fi, Comedy, Documentary, Horror, Other, Romance, Animation, Action, Drama",Evening,Alone,No,Yes,1,No,Yes,Yes,No,Yes,Yes,No,Yes,No,5,4,Yes
+23,Female,1690,Student,Rural Area,Never,105,2,"Drama, Other, Sci-Fi, Romance, Animation, Documentary, Action",Night,Family,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,5,Yes
+38,Female,10311,Student,Tier-1 City,Rarely,98,4,"Romance, Documentary, Sci-Fi, Animation, Action, Comedy, Horror, Drama, Other",Morning,Alone,Yes,Yes,1,No,No,No,No,Yes,No,Yes,Yes,Yes,2,2,Yes
+49,Prefer not to say,5042,Other,Tier-2 City,Rarely,73,4,"Action, Horror, Sci-Fi, Animation",Morning,Partner,Yes,Yes,3,Yes,Yes,No,Yes,Yes,No,No,No,Yes,5,1,Yes
+49,Non-binary,9020,Retired,Rural Area,Occasionally,92,4,"Animation, Drama, Sci-Fi, Action, Comedy, Horror, Documentary, Romance, Other",Evening,Friends/Group,Yes,No,4,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,5,2,No
+50,Male,2672,Homemaker,Tier-1 City,Occasionally,67,2,"Documentary, Drama, Sci-Fi, Animation",Morning,Friends/Group,Yes,No,4,No,Yes,Yes,Yes,Yes,No,No,No,Yes,5,3,Yes
+32,Prefer not to say,1290,Homemaker,Rural Area,Never,76,2,"Animation, Other, Drama, Action",Evening,Family,No,Yes,3,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,1,2,Yes
+53,Non-binary,2984,Retired,Rural Area,Occasionally,72,1,"Other, Animation, Comedy, Horror, Romance, Drama, Sci-Fi, Action, Documentary",Morning,Family,Yes,No,1,Yes,No,No,Yes,Yes,Yes,Yes,No,No,2,1,Yes
+46,Non-binary,2514,Other,Tier-1 City,Rarely,68,1,"Sci-Fi, Documentary, Animation, Comedy, Action",Evening,Family,Yes,Yes,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes,4,2,Yes
+38,Male,5650,Working Professional,Tier-1 City,Occasionally,82,4,"Other, Animation, Drama, Comedy, Action, Sci-Fi",Night,Friends/Group,No,No,4,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,1,1,Yes
+37,Male,1258,Student,Tier-1 City,Weekly,50,2,"Other, Comedy, Sci-Fi, Action, Horror, Documentary, Drama, Animation",Evening,Family,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,3,1,Yes
+46,Male,2674,Other,Tier-2 City,Occasionally,69,2,"Romance, Comedy, Documentary, Horror, Sci-Fi, Drama, Animation",Evening,Alone,Yes,Yes,3,No,Yes,Yes,Yes,Yes,No,No,Yes,No,5,5,Yes
+51,Female,1406,Retired,Rural Area,Rarely,81,5,"Animation, Romance, Sci-Fi, Drama, Horror, Comedy, Other, Documentary",Afternoon,Friends/Group,No,Yes,5,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,4,4,Yes
+26,Male,1981,Student,Tier-1 City,Never,111,4,"Romance, Documentary, Drama, Animation, Sci-Fi",Night,Partner,No,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2,2,No
+27,Non-binary,4342,Homemaker,Town,Monthly,51,1,"Animation, Drama, Other, Romance, Action, Comedy",Night,Friends/Group,No,No,2,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,4,2,No
+37,Male,2615,Working Professional,Rural Area,Occasionally,85,5,"Drama, Comedy, Documentary, Sci-Fi, Horror, Other, Romance",Night,Alone,No,Yes,1,Yes,Yes,Yes,Yes,No,No,Yes,No,No,1,4,Yes
+39,Non-binary,2178,Homemaker,Town,Rarely,87,2,"Action, Drama, Horror, Romance, Other, Sci-Fi, Animation, Comedy",Morning,Alone,Yes,Yes,3,Yes,Yes,No,No,Yes,No,No,Yes,No,4,2,No
+49,Prefer not to say,2254,Retired,Tier-2 City,Monthly,37,1,"Animation, Comedy, Action, Drama, Documentary, Romance, Other, Horror",Afternoon,Family,No,Yes,4,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,5,5,Yes
+55,Female,2537,Student,Tier-1 City,Monthly,83,4,"Animation, Other, Sci-Fi, Romance, Documentary, Drama, Horror, Action, Comedy",Night,Friends/Group,Yes,No,5,Yes,Yes,No,No,Yes,No,No,Yes,No,2,3,Yes
+44,Prefer not to say,4842,Retired,Town,Weekly,92,2,"Documentary, Other, Action, Comedy, Sci-Fi, Drama, Animation, Horror, Romance",Morning,Friends/Group,No,Yes,4,No,No,Yes,Yes,Yes,No,No,No,Yes,2,4,Yes
+31,Prefer not to say,6566,Student,Tier-2 City,Monthly,86,4,"Drama, Action, Other, Comedy, Documentary, Romance, Sci-Fi, Horror",Morning,Friends/Group,Yes,Yes,3,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,2,4,Yes
+34,Non-binary,8771,Other,Tier-1 City,Rarely,73,5,"Romance, Animation, Horror, Sci-Fi, Comedy, Action, Drama",Morning,Partner,No,No,1,No,Yes,Yes,Yes,Yes,No,No,Yes,No,2,3,Yes
+39,Prefer not to say,4865,Working Professional,Town,Rarely,81,5,"Comedy, Other, Sci-Fi, Drama, Animation, Romance, Documentary, Horror, Action",Afternoon,Family,No,Yes,4,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,1,4,Yes
+36,Non-binary,1947,Other,Town,Occasionally,78,5,"Horror, Documentary, Other, Sci-Fi, Action, Drama, Romance, Comedy",Morning,Alone,No,Yes,2,Yes,No,Yes,Yes,No,No,No,No,No,1,1,Yes
+27,Male,3912,Other,Tier-2 City,Occasionally,41,3,"Comedy, Other, Sci-Fi, Drama, Romance, Action, Animation, Documentary",Afternoon,Alone,Yes,No,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,4,3,Yes
+33,Male,2438,Retired,Tier-1 City,Occasionally,78,4,"Sci-Fi, Documentary, Horror, Other, Animation, Comedy, Romance, Drama",Evening,Family,Yes,Yes,1,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,1,1,Yes
+50,Non-binary,1734,Working Professional,Tier-1 City,Monthly,67,5,"Documentary, Action, Horror, Other, Drama, Romance, Comedy, Animation, Sci-Fi",Morning,Alone,No,Yes,5,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,2,2,Yes
+26,Male,5595,Student,Town,Monthly,60,5,"Animation, Romance, Sci-Fi, Other, Action, Drama",Night,Alone,No,Yes,1,Yes,No,Yes,Yes,Yes,No,No,No,Yes,3,1,Yes
+55,Female,1097,Student,Town,Weekly,124,4,"Sci-Fi, Comedy, Horror, Romance, Drama",Morning,Family,Yes,No,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,1,No
+33,Prefer not to say,6800,Homemaker,Town,Occasionally,100,5,"Other, Drama, Horror, Documentary",Evening,Alone,No,Yes,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,3,5,Yes
+26,Female,2547,Student,Tier-1 City,Never,51,4,"Horror, Sci-Fi, Comedy, Romance, Animation, Other",Evening,Friends/Group,No,No,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,2,Yes
+23,Prefer not to say,3534,Retired,Tier-2 City,Weekly,81,2,"Horror, Other, Romance, Comedy, Drama, Animation, Action, Sci-Fi, Documentary",Morning,Partner,Yes,No,2,Yes,No,No,Yes,Yes,No,No,Yes,No,3,5,Yes
+21,Male,3692,Other,Tier-2 City,Never,104,4,"Romance, Drama, Animation, Action, Other, Sci-Fi, Documentary, Comedy",Evening,Family,No,Yes,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,2,Yes
+42,Female,6637,Other,Tier-1 City,Monthly,45,4,"Action, Other, Animation, Horror, Drama, Sci-Fi, Comedy, Romance",Afternoon,Partner,Yes,No,2,No,Yes,No,Yes,Yes,No,Yes,Yes,No,1,1,Yes
+28,Male,3531,Other,Rural Area,Weekly,76,3,"Drama, Sci-Fi, Horror, Comedy, Documentary, Romance, Action",Afternoon,Alone,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,2,4,Yes
+45,Prefer not to say,3379,Working Professional,Tier-2 City,Weekly,77,2,"Animation, Documentary, Sci-Fi, Action, Other, Drama, Comedy, Romance",Morning,Alone,Yes,Yes,3,No,No,Yes,Yes,No,No,Yes,Yes,Yes,5,4,Yes
+33,Non-binary,1172,Student,Town,Rarely,49,3,"Comedy, Documentary, Drama, Romance, Action, Sci-Fi, Animation",Afternoon,Friends/Group,Yes,No,1,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,4,Yes
+30,Non-binary,2826,Retired,Rural Area,Monthly,82,5,"Animation, Comedy, Drama, Other, Sci-Fi",Afternoon,Family,No,No,1,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,5,Yes
+19,Female,1406,Working Professional,Rural Area,Monthly,97,4,"Drama, Sci-Fi, Comedy, Other, Horror, Romance",Night,Alone,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,3,3,Yes
+49,Male,4343,Homemaker,Tier-2 City,Weekly,105,2,"Drama, Documentary, Horror, Comedy, Animation, Other",Morning,Family,No,Yes,4,No,Yes,No,Yes,Yes,No,Yes,No,Yes,2,5,No
+26,Male,2794,Retired,Rural Area,Monthly,70,3,"Animation, Sci-Fi, Horror, Comedy, Documentary, Romance",Evening,Family,No,Yes,4,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,5,5,No
+39,Female,3850,Retired,Rural Area,Weekly,125,4,"Horror, Comedy, Romance, Drama, Documentary, Other, Sci-Fi, Action",Morning,Family,No,Yes,1,No,No,Yes,Yes,Yes,No,Yes,Yes,No,5,3,Yes
+35,Non-binary,1106,Retired,Tier-2 City,Rarely,33,1,"Drama, Documentary, Animation, Action, Comedy",Afternoon,Family,Yes,Yes,5,No,Yes,Yes,Yes,Yes,No,Yes,No,No,1,2,Yes
+50,Prefer not to say,1221,Other,Tier-2 City,Weekly,82,3,"Documentary, Drama, Animation, Romance, Sci-Fi, Other, Comedy",Night,Family,No,Yes,3,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3,4,No
+37,Female,4149,Retired,Rural Area,Monthly,46,2,"Sci-Fi, Action, Horror, Documentary, Comedy, Romance",Morning,Partner,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,4,2,Yes
+30,Prefer not to say,1187,Student,Town,Monthly,76,3,"Sci-Fi, Documentary, Animation, Romance, Action",Morning,Friends/Group,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,4,3,Yes
+53,Non-binary,1184,Retired,Tier-1 City,Weekly,64,3,"Romance, Sci-Fi, Drama, Animation, Documentary, Other, Comedy",Afternoon,Family,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,5,1,Yes
+59,Male,1030,Other,Rural Area,Weekly,85,3,"Animation, Comedy, Drama, Romance",Afternoon,Partner,Yes,No,4,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,4,5,Yes
+56,Non-binary,8837,Retired,Rural Area,Weekly,72,5,"Horror, Drama, Animation, Documentary, Romance, Sci-Fi, Other, Comedy",Morning,Alone,No,No,2,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,2,4,No
+53,Female,4343,Homemaker,Town,Occasionally,58,1,"Documentary, Comedy, Horror, Sci-Fi, Drama, Animation, Romance, Action, Other",Afternoon,Family,Yes,Yes,3,Yes,Yes,No,Yes,Yes,No,No,No,Yes,2,2,Yes
+28,Male,2089,Homemaker,Rural Area,Monthly,59,2,"Romance, Animation, Other, Sci-Fi, Documentary, Horror, Action, Drama, Comedy",Afternoon,Alone,No,Yes,1,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,3,2,Yes
+45,Female,1879,Other,Rural Area,Monthly,113,2,"Horror, Romance, Drama, Documentary, Animation, Sci-Fi",Afternoon,Family,Yes,Yes,3,Yes,Yes,No,Yes,Yes,No,No,No,Yes,1,4,No
+19,Female,2075,Student,Tier-1 City,Occasionally,83,2,"Animation, Sci-Fi, Horror, Drama, Documentary, Other, Comedy, Action",Afternoon,Partner,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,3,5,No
+49,Non-binary,4725,Student,Tier-1 City,Weekly,40,4,"Action, Drama, Romance, Comedy, Documentary",Afternoon,Partner,No,Yes,2,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,1,Yes
+37,Female,3707,Working Professional,Tier-1 City,Rarely,86,2,"Comedy, Horror, Other, Documentary, Action, Sci-Fi, Romance, Animation, Drama",Night,Partner,No,No,1,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1,2,Yes
+43,Non-binary,1512,Other,Tier-2 City,Weekly,71,2,"Animation, Comedy, Action, Drama",Afternoon,Friends/Group,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,1,4,Yes
+57,Male,1478,Retired,Tier-2 City,Weekly,75,1,"Drama, Comedy, Romance, Horror, Other, Documentary, Action, Animation",Evening,Alone,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,3,2,Yes
+25,Non-binary,1258,Other,Tier-1 City,Occasionally,91,4,"Drama, Other, Sci-Fi, Comedy, Action, Animation, Documentary",Morning,Friends/Group,Yes,Yes,4,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,5,5,No
+32,Male,3699,Working Professional,Tier-1 City,Monthly,98,4,"Romance, Documentary, Horror, Sci-Fi, Drama, Animation",Night,Family,Yes,Yes,1,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,2,5,Yes
+26,Non-binary,4613,Other,Tier-2 City,Weekly,57,3,"Other, Drama, Sci-Fi, Animation, Horror",Night,Alone,No,Yes,4,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,1,1,Yes
+23,Prefer not to say,1769,Other,Town,Monthly,74,5,"Animation, Sci-Fi, Drama, Horror, Documentary, Comedy, Action, Romance, Other",Afternoon,Partner,No,No,5,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,5,4,Yes
+24,Prefer not to say,1052,Working Professional,Rural Area,Never,64,4,"Animation, Sci-Fi, Comedy, Drama, Action, Documentary",Morning,Alone,Yes,Yes,1,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,3,4,Yes
+58,Female,1214,Student,Rural Area,Monthly,86,4,"Drama, Romance, Other, Horror, Sci-Fi, Action, Animation, Comedy",Evening,Partner,No,Yes,1,No,Yes,No,Yes,Yes,No,No,No,Yes,2,3,Yes
+31,Non-binary,9594,Retired,Tier-1 City,Rarely,70,1,"Sci-Fi, Action, Animation, Horror, Drama, Comedy, Documentary",Afternoon,Friends/Group,Yes,Yes,1,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,3,4,Yes
+52,Non-binary,1875,Working Professional,Town,Rarely,75,2,"Romance, Horror, Documentary, Sci-Fi, Animation, Other, Action, Drama",Morning,Friends/Group,Yes,No,1,Yes,No,Yes,Yes,No,No,No,No,No,4,4,Yes
+21,Male,4665,Homemaker,Tier-2 City,Weekly,69,4,"Animation, Other, Comedy, Drama, Action, Horror, Romance, Sci-Fi, Documentary",Afternoon,Partner,Yes,Yes,4,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,5,2,Yes
+27,Female,3449,Student,Tier-1 City,Monthly,72,4,"Other, Sci-Fi, Horror, Comedy, Action, Romance",Afternoon,Partner,No,Yes,3,No,Yes,Yes,Yes,No,No,No,No,Yes,1,1,No
+54,Non-binary,2202,Homemaker,Town,Weekly,109,5,"Sci-Fi, Comedy, Romance, Horror, Other",Afternoon,Family,Yes,No,1,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,3,3,Yes
+56,Female,1575,Student,Town,Occasionally,122,1,"Sci-Fi, Documentary, Comedy, Drama, Action, Animation, Other",Afternoon,Friends/Group,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,1,4,Yes
+23,Prefer not to say,1323,Retired,Town,Rarely,82,5,"Action, Drama, Other, Documentary, Romance, Comedy, Sci-Fi, Horror",Afternoon,Friends/Group,Yes,Yes,1,No,Yes,Yes,No,Yes,No,Yes,No,Yes,5,2,Yes
+41,Non-binary,3386,Retired,Tier-2 City,Weekly,73,4,"Action, Horror, Other, Comedy, Animation, Documentary, Sci-Fi, Romance, Drama",Afternoon,Family,Yes,Yes,4,No,No,Yes,Yes,Yes,No,Yes,No,Yes,5,3,Yes
+16,Non-binary,4725,Other,Tier-2 City,Occasionally,43,4,"Documentary, Romance, Horror, Other, Action, Drama",Afternoon,Friends/Group,No,Yes,1,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,2,1,Yes
+19,Female,3581,Homemaker,Rural Area,Weekly,59,1,"Drama, Action, Other, Horror",Evening,Partner,Yes,Yes,3,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,1,Yes
+43,Non-binary,2889,Student,Rural Area,Monthly,72,3,"Other, Documentary, Comedy, Animation",Night,Alone,Yes,Yes,5,No,Yes,No,No,No,Yes,No,No,Yes,4,1,Yes
+51,Female,1107,Retired,Town,Monthly,60,3,"Animation, Action, Documentary, Romance, Comedy, Horror",Evening,Alone,No,Yes,4,No,No,Yes,Yes,Yes,No,No,Yes,Yes,3,3,Yes
+52,Non-binary,9643,Working Professional,Town,Monthly,62,4,"Horror, Action, Comedy, Other, Documentary, Animation, Romance",Afternoon,Friends/Group,No,Yes,1,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,3,5,Yes
+33,Male,5007,Retired,Tier-2 City,Monthly,106,4,"Sci-Fi, Romance, Comedy, Documentary, Action, Other, Animation",Afternoon,Family,No,Yes,1,Yes,Yes,No,Yes,Yes,No,No,No,No,2,3,Yes
+22,Female,1866,Working Professional,Rural Area,Never,75,5,"Sci-Fi, Horror, Drama, Action, Comedy, Romance, Documentary",Evening,Partner,Yes,Yes,1,No,Yes,Yes,Yes,Yes,No,No,No,Yes,5,1,No
+59,Non-binary,10776,Student,Town,Occasionally,77,5,"Animation, Romance, Action, Comedy, Drama, Other, Documentary, Horror, Sci-Fi",Evening,Alone,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,No,No,5,2,Yes
+15,Prefer not to say,3302,Retired,Rural Area,Occasionally,61,5,"Documentary, Drama, Other, Action",Night,Partner,Yes,No,1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,3,No
+36,Non-binary,3183,Retired,Rural Area,Monthly,98,2,"Drama, Documentary, Action, Romance, Sci-Fi",Evening,Friends/Group,Yes,Yes,3,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,2,2,No
+31,Prefer not to say,4446,Student,Town,Never,70,4,"Action, Other, Drama, Romance, Comedy, Documentary",Night,Friends/Group,No,Yes,4,No,Yes,No,Yes,Yes,No,Yes,No,Yes,1,5,Yes
+21,Prefer not to say,5175,Retired,Tier-2 City,Monthly,64,2,"Documentary, Horror, Drama, Sci-Fi, Animation",Afternoon,Alone,Yes,Yes,4,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,4,1,Yes
+39,Male,3671,Working Professional,Town,Never,43,3,"Horror, Action, Romance, Other, Drama, Comedy, Animation",Morning,Friends/Group,Yes,Yes,1,Yes,No,No,No,Yes,No,No,No,Yes,1,1,Yes
+59,Female,1342,Retired,Town,Monthly,73,4,"Documentary, Other, Sci-Fi, Drama",Morning,Family,Yes,Yes,5,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,5,2,Yes
+18,Non-binary,2032,Homemaker,Rural Area,Rarely,63,4,"Documentary, Horror, Sci-Fi, Comedy, Animation, Drama, Romance, Other",Morning,Friends/Group,Yes,Yes,4,No,Yes,Yes,Yes,Yes,No,Yes,No,No,4,5,Yes
+50,Male,7580,Other,Town,Rarely,108,1,"Other, Drama, Action, Sci-Fi, Comedy, Horror",Morning,Friends/Group,No,Yes,2,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,3,1,No
+20,Non-binary,1635,Working Professional,Tier-2 City,Weekly,111,4,"Sci-Fi, Romance, Horror, Action, Other, Animation",Afternoon,Friends/Group,Yes,Yes,5,No,No,Yes,Yes,Yes,Yes,No,No,No,2,3,Yes
+45,Prefer not to say,2163,Homemaker,Town,Monthly,50,3,"Drama, Action, Sci-Fi, Other, Animation, Comedy, Horror, Documentary, Romance",Morning,Partner,Yes,No,5,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,3,2,Yes
+33,Female,2414,Student,Tier-2 City,Occasionally,52,4,"Other, Documentary, Animation, Sci-Fi, Comedy",Evening,Partner,Yes,Yes,1,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,2,5,Yes
+58,Non-binary,2446,Working Professional,Tier-2 City,Weekly,69,2,"Sci-Fi, Romance, Horror, Documentary, Drama, Action, Animation, Other",Evening,Alone,Yes,Yes,4,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,4,2,Yes
+53,Non-binary,3372,Other,Rural Area,Rarely,58,4,"Drama, Other, Animation, Action",Morning,Alone,Yes,Yes,4,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,4,1,Yes
+41,Prefer not to say,8165,Other,Tier-1 City,Monthly,79,2,"Comedy, Documentary, Other, Action, Romance",Evening,Alone,No,Yes,4,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,2,2,Yes
+24,Non-binary,1688,Student,Tier-1 City,Weekly,68,5,"Animation, Documentary, Sci-Fi, Other, Romance, Drama, Action, Comedy",Night,Friends/Group,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,5,3,Yes
+40,Non-binary,1323,Student,Rural Area,Monthly,80,5,"Comedy, Action, Other, Romance, Horror",Afternoon,Partner,No,Yes,5,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,3,1,Yes
+33,Prefer not to say,1549,Working Professional,Town,Rarely,95,1,"Documentary, Action, Drama, Sci-Fi",Morning,Family,No,Yes,5,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,2,5,Yes
+53,Male,6449,Retired,Rural Area,Weekly,53,4,"Animation, Romance, Other, Documentary, Action, Drama, Horror, Sci-Fi, Comedy",Morning,Friends/Group,No,No,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,1,5,Yes
+17,Prefer not to say,3594,Student,Tier-2 City,Rarely,94,5,"Comedy, Horror, Sci-Fi, Action, Romance, Other",Afternoon,Friends/Group,No,No,3,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,5,1,Yes
+59,Male,1841,Retired,Tier-1 City,Never,60,5,"Animation, Horror, Comedy, Sci-Fi, Other, Romance, Drama, Documentary",Evening,Friends/Group,Yes,Yes,1,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,3,5,Yes
+27,Female,5231,Homemaker,Rural Area,Rarely,117,1,"Comedy, Romance, Documentary, Horror, Animation, Action, Sci-Fi, Drama, Other",Afternoon,Family,Yes,Yes,4,Yes,No,No,Yes,Yes,No,No,Yes,No,3,4,No
+42,Male,5939,Other,Town,Monthly,107,1,"Romance, Drama, Sci-Fi, Animation, Horror, Documentary, Comedy, Other",Afternoon,Alone,Yes,No,5,Yes,Yes,No,Yes,No,No,No,Yes,Yes,5,1,No
+34,Male,5685,Retired,Rural Area,Occasionally,72,4,"Animation, Other, Documentary, Romance, Drama, Comedy",Evening,Family,No,Yes,3,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,1,1,Yes
+42,Female,7280,Other,Tier-1 City,Rarely,55,2,"Other, Horror, Documentary, Sci-Fi, Drama, Romance, Comedy, Animation",Afternoon,Alone,No,Yes,5,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,3,3,Yes
+22,Male,1726,Retired,Rural Area,Occasionally,51,4,"Action, Other, Drama, Sci-Fi, Documentary, Comedy, Horror",Evening,Family,No,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,1,Yes
+55,Prefer not to say,4516,Homemaker,Rural Area,Never,92,2,"Sci-Fi, Horror, Comedy, Drama",Evening,Partner,Yes,Yes,1,No,No,No,Yes,Yes,Yes,Yes,No,No,4,3,Yes
+53,Male,2542,Student,Tier-1 City,Weekly,74,1,"Sci-Fi, Drama, Action, Animation",Afternoon,Friends/Group,No,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,1,No
+15,Female,5612,Homemaker,Tier-2 City,Weekly,93,3,"Romance, Drama, Comedy, Documentary, Other, Animation, Action",Night,Friends/Group,Yes,Yes,1,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,4,3,Yes
+17,Prefer not to say,4259,Student,Tier-2 City,Occasionally,119,4,"Sci-Fi, Comedy, Other, Horror, Animation, Documentary",Evening,Friends/Group,Yes,Yes,5,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,3,3,Yes
+27,Female,4745,Student,Tier-1 City,Weekly,59,3,"Comedy, Romance, Animation, Horror, Other, Documentary, Drama, Action, Sci-Fi",Afternoon,Alone,Yes,Yes,1,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,4,4,Yes
+42,Female,3668,Other,Rural Area,Rarely,50,2,"Animation, Comedy, Other, Action",Evening,Family,Yes,No,5,No,No,Yes,Yes,Yes,Yes,No,No,No,1,5,Yes
+39,Non-binary,1488,Homemaker,Tier-1 City,Occasionally,78,4,"Romance, Animation, Horror, Action, Comedy, Other",Night,Partner,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,3,2,Yes
+47,Non-binary,2968,Retired,Tier-2 City,Monthly,97,3,"Animation, Action, Drama, Sci-Fi, Documentary, Other, Horror, Romance, Comedy",Night,Family,Yes,Yes,5,No,No,Yes,Yes,Yes,No,Yes,No,No,2,3,Yes
+52,Female,11444,Homemaker,Town,Rarely,56,3,"Horror, Drama, Action, Romance, Other, Sci-Fi, Documentary, Animation",Morning,Friends/Group,Yes,Yes,2,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,2,4,Yes
+20,Female,7926,Other,Rural Area,Rarely,75,4,"Animation, Sci-Fi, Other, Horror, Comedy",Evening,Partner,No,No,5,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,2,3,Yes
+58,Female,1110,Student,Tier-2 City,Rarely,102,3,"Romance, Comedy, Horror, Sci-Fi, Action",Evening,Partner,No,No,3,Yes,Yes,No,No,Yes,Yes,No,No,Yes,1,2,Yes
+59,Non-binary,1450,Other,Rural Area,Monthly,42,4,"Animation, Sci-Fi, Action, Horror, Documentary, Romance, Drama, Other",Afternoon,Friends/Group,No,Yes,3,Yes,No,Yes,Yes,No,No,Yes,Yes,No,2,1,Yes
+46,Non-binary,1353,Working Professional,Tier-1 City,Never,79,3,"Documentary, Horror, Other, Animation, Sci-Fi",Evening,Family,Yes,Yes,4,No,Yes,Yes,No,No,Yes,Yes,No,No,4,3,Yes
+59,Male,4236,Working Professional,Town,Weekly,64,1,"Other, Horror, Comedy, Action, Drama",Morning,Friends/Group,No,No,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,4,Yes
+35,Male,5256,Retired,Tier-1 City,Occasionally,77,4,"Romance, Comedy, Action, Other, Horror, Sci-Fi, Documentary",Night,Family,No,Yes,5,No,Yes,No,Yes,Yes,No,No,No,Yes,3,5,Yes
+30,Female,1600,Other,Town,Never,89,1,"Horror, Romance, Drama, Sci-Fi, Action, Animation",Night,Partner,Yes,Yes,4,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,2,1,Yes
+35,Prefer not to say,2762,Retired,Rural Area,Occasionally,79,5,"Romance, Documentary, Sci-Fi, Comedy, Horror",Morning,Partner,Yes,Yes,2,No,Yes,Yes,No,Yes,No,No,Yes,Yes,1,5,Yes
+25,Prefer not to say,5592,Retired,Rural Area,Weekly,54,1,"Horror, Other, Romance, Drama",Evening,Friends/Group,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,2,Yes
+51,Non-binary,4299,Working Professional,Tier-1 City,Monthly,64,3,"Comedy, Other, Romance, Action, Documentary",Evening,Partner,Yes,Yes,2,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,4,1,Yes
+50,Non-binary,2953,Retired,Town,Rarely,103,2,"Drama, Sci-Fi, Action, Other, Animation, Romance, Comedy, Horror",Morning,Alone,No,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,3,5,Yes
+49,Non-binary,3231,Working Professional,Town,Rarely,81,1,"Romance, Horror, Other, Sci-Fi",Afternoon,Partner,No,Yes,1,Yes,No,Yes,Yes,Yes,No,Yes,No,No,4,4,Yes
+33,Female,2775,Student,Rural Area,Monthly,91,1,"Horror, Sci-Fi, Documentary, Other, Animation",Night,Alone,Yes,No,2,Yes,No,Yes,Yes,Yes,No,No,No,No,4,4,Yes
+34,Prefer not to say,1882,Other,Tier-1 City,Never,80,1,"Drama, Action, Horror, Sci-Fi, Romance, Documentary, Comedy, Animation, Other",Morning,Partner,No,No,3,Yes,Yes,No,No,Yes,No,Yes,Yes,No,3,5,Yes
+32,Male,3081,Retired,Town,Never,91,2,"Horror, Sci-Fi, Action, Other, Animation, Documentary",Morning,Friends/Group,No,No,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,1,Yes
+55,Female,3918,Working Professional,Rural Area,Occasionally,67,2,"Sci-Fi, Romance, Animation, Action, Documentary, Drama, Horror",Evening,Friends/Group,No,No,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,3,Yes
+28,Male,6165,Homemaker,Tier-2 City,Monthly,59,1,"Horror, Animation, Sci-Fi, Romance, Action, Drama, Comedy",Night,Alone,Yes,Yes,5,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1,2,Yes
+29,Male,3528,Retired,Tier-1 City,Never,90,5,"Other, Comedy, Documentary, Animation, Sci-Fi, Horror, Drama, Action",Evening,Friends/Group,No,Yes,3,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,5,2,Yes
+45,Female,4579,Student,Tier-2 City,Monthly,97,2,"Horror, Sci-Fi, Drama, Other",Morning,Partner,Yes,Yes,3,No,No,Yes,Yes,Yes,No,No,Yes,Yes,3,4,No
+15,Male,1436,Student,Tier-1 City,Weekly,56,2,"Drama, Action, Other, Romance, Animation, Sci-Fi, Horror",Afternoon,Partner,Yes,No,5,Yes,Yes,No,Yes,Yes,No,No,No,No,3,1,Yes
+17,Prefer not to say,2547,Homemaker,Rural Area,Rarely,63,2,"Horror, Sci-Fi, Animation, Action, Drama, Other",Night,Friends/Group,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,2,1,Yes
+30,Male,1023,Working Professional,Town,Rarely,71,4,"Other, Sci-Fi, Comedy, Animation",Morning,Partner,Yes,No,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,5,2,Yes
+37,Prefer not to say,1708,Retired,Town,Rarely,107,1,"Animation, Drama, Action, Romance, Horror, Comedy",Morning,Family,No,Yes,2,No,No,No,Yes,Yes,Yes,No,Yes,No,4,2,Yes
+25,Prefer not to say,4240,Working Professional,Town,Monthly,86,5,"Horror, Drama, Other, Documentary, Sci-Fi, Romance, Comedy",Afternoon,Family,Yes,No,4,Yes,Yes,Yes,No,Yes,Yes,No,No,No,1,2,Yes
+26,Prefer not to say,13012,Student,Tier-1 City,Monthly,48,2,"Drama, Horror, Romance, Comedy, Sci-Fi, Animation, Action, Documentary",Morning,Partner,Yes,Yes,3,Yes,Yes,Yes,No,Yes,No,No,Yes,No,2,2,Yes
+24,Non-binary,1261,Working Professional,Rural Area,Occasionally,73,4,"Other, Drama, Horror, Comedy, Sci-Fi, Romance, Animation, Action, Documentary",Morning,Friends/Group,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,3,5,Yes
+46,Male,2283,Student,Tier-2 City,Rarely,70,3,"Romance, Drama, Other, Action, Documentary",Night,Alone,No,No,3,No,Yes,Yes,Yes,Yes,No,No,No,No,5,5,Yes
+30,Female,5024,Working Professional,Rural Area,Occasionally,51,3,"Animation, Sci-Fi, Horror, Romance, Drama, Comedy, Action",Night,Friends/Group,Yes,Yes,3,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,1,5,No
+22,Female,1570,Homemaker,Tier-2 City,Rarely,72,2,"Drama, Other, Action, Sci-Fi",Night,Alone,No,No,3,No,No,No,Yes,Yes,No,No,Yes,No,3,5,Yes
+52,Male,3024,Other,Tier-1 City,Occasionally,69,5,"Sci-Fi, Horror, Other, Comedy, Romance, Action, Animation, Documentary",Evening,Friends/Group,Yes,Yes,1,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,4,3,No
+26,Non-binary,4301,Homemaker,Tier-1 City,Occasionally,67,5,"Documentary, Drama, Sci-Fi, Animation, Horror, Other, Action, Comedy, Romance",Afternoon,Partner,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,2,4,Yes
+38,Non-binary,3392,Homemaker,Tier-2 City,Weekly,66,1,"Drama, Other, Comedy, Animation, Action, Horror, Sci-Fi",Night,Family,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,5,2,Yes
+42,Prefer not to say,1520,Other,Tier-2 City,Occasionally,104,2,"Animation, Horror, Romance, Other, Comedy, Sci-Fi",Evening,Friends/Group,Yes,Yes,2,Yes,Yes,No,Yes,No,No,Yes,No,Yes,2,3,Yes
+22,Male,2097,Other,Tier-2 City,Monthly,67,3,"Drama, Documentary, Animation, Sci-Fi",Evening,Alone,Yes,Yes,1,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4,3,Yes
+42,Male,4828,Retired,Rural Area,Occasionally,75,1,"Romance, Documentary, Comedy, Horror, Other, Action, Drama",Afternoon,Family,Yes,Yes,2,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,4,3,Yes
+50,Female,3019,Retired,Tier-2 City,Rarely,73,5,"Animation, Romance, Horror, Sci-Fi, Documentary, Action, Drama, Other, Comedy",Afternoon,Alone,No,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,No,No,3,5,Yes
+40,Male,1013,Homemaker,Tier-1 City,Occasionally,64,1,"Action, Horror, Sci-Fi, Animation, Documentary, Other, Drama",Morning,Partner,No,Yes,5,No,No,Yes,No,Yes,Yes,Yes,No,Yes,2,4,Yes
+22,Non-binary,4578,Homemaker,Tier-1 City,Never,76,3,"Other, Action, Comedy, Drama, Horror, Sci-Fi, Animation",Evening,Family,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,2,1,No
+42,Male,1089,Student,Town,Rarely,76,5,"Documentary, Drama, Horror, Other, Sci-Fi, Action",Night,Alone,Yes,Yes,4,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,2,4,Yes
+42,Female,4423,Student,Tier-2 City,Never,76,4,"Other, Drama, Horror, Romance, Animation, Action, Documentary, Sci-Fi, Comedy",Afternoon,Friends/Group,No,No,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,2,Yes
+51,Prefer not to say,1565,Retired,Rural Area,Rarely,57,4,"Other, Drama, Horror, Animation, Documentary, Romance, Action, Sci-Fi",Evening,Partner,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,2,Yes
+55,Female,8929,Retired,Rural Area,Monthly,70,2,"Horror, Documentary, Action, Drama, Romance, Comedy, Sci-Fi",Night,Partner,Yes,Yes,2,Yes,No,Yes,Yes,Yes,No,No,Yes,No,3,5,Yes
+50,Female,2146,Student,Rural Area,Monthly,90,1,"Comedy, Other, Action, Romance, Horror, Drama, Animation, Documentary, Sci-Fi",Evening,Partner,No,Yes,2,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,5,5,Yes
+41,Prefer not to say,1989,Student,Town,Monthly,71,5,"Other, Animation, Action, Comedy, Drama, Romance, Documentary",Afternoon,Friends/Group,No,Yes,1,Yes,Yes,No,Yes,No,No,No,No,Yes,1,1,Yes
+31,Female,1403,Working Professional,Tier-1 City,Never,78,2,"Drama, Action, Horror, Other, Romance",Morning,Friends/Group,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,2,2,No
+23,Female,1911,Working Professional,Rural Area,Weekly,78,1,"Documentary, Sci-Fi, Romance, Comedy, Action, Animation, Other, Drama, Horror",Evening,Family,Yes,No,2,No,Yes,Yes,No,Yes,No,No,No,Yes,4,5,Yes
+47,Male,6231,Student,Tier-1 City,Rarely,83,3,"Documentary, Other, Animation, Horror",Night,Friends/Group,Yes,No,4,No,No,No,Yes,Yes,No,No,No,Yes,4,4,Yes
+34,Male,15021,Working Professional,Town,Monthly,86,5,"Action, Documentary, Comedy, Animation, Sci-Fi, Horror, Romance, Drama",Afternoon,Family,No,Yes,4,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,2,1,Yes
+27,Prefer not to say,2148,Other,Tier-2 City,Rarely,71,1,"Comedy, Action, Other, Sci-Fi, Drama, Animation, Documentary",Morning,Partner,Yes,Yes,5,No,Yes,No,Yes,Yes,No,No,Yes,Yes,1,1,No
+42,Male,2488,Retired,Tier-2 City,Never,56,5,"Drama, Action, Romance, Other, Documentary",Night,Family,Yes,No,3,No,Yes,Yes,Yes,No,No,No,No,Yes,1,2,Yes
+43,Male,4200,Retired,Tier-2 City,Weekly,50,1,"Action, Sci-Fi, Drama, Other, Romance",Night,Alone,Yes,Yes,5,Yes,Yes,No,Yes,No,Yes,No,No,Yes,3,3,Yes
+27,Female,6433,Student,Rural Area,Never,95,3,"Animation, Drama, Comedy, Romance",Night,Partner,Yes,Yes,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes,4,5,No
+49,Non-binary,3247,Homemaker,Tier-2 City,Rarely,90,5,"Other, Drama, Horror, Romance, Sci-Fi, Documentary",Evening,Partner,No,Yes,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,2,1,No
+20,Male,2242,Student,Rural Area,Weekly,87,4,"Comedy, Sci-Fi, Drama, Animation",Afternoon,Family,No,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,1,4,Yes
+32,Non-binary,2330,Working Professional,Town,Weekly,91,3,"Comedy, Animation, Documentary, Sci-Fi, Action, Drama, Other",Night,Partner,No,No,3,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,1,No
+19,Male,3973,Homemaker,Town,Never,71,1,"Comedy, Sci-Fi, Drama, Documentary, Horror",Evening,Friends/Group,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,5,4,Yes
+39,Male,1008,Working Professional,Rural Area,Monthly,62,5,"Horror, Other, Sci-Fi, Action, Romance, Animation, Comedy, Drama",Afternoon,Alone,Yes,Yes,3,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,3,3,Yes
+16,Prefer not to say,3416,Other,Tier-1 City,Rarely,55,3,"Romance, Sci-Fi, Documentary, Animation, Other, Drama, Action",Afternoon,Family,Yes,Yes,2,Yes,Yes,No,Yes,Yes,Yes,No,No,No,5,2,Yes
+24,Prefer not to say,2098,Working Professional,Tier-2 City,Occasionally,53,1,"Documentary, Other, Horror, Comedy, Sci-Fi, Romance, Drama, Animation",Evening,Family,Yes,No,1,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,4,3,No
+44,Prefer not to say,4952,Other,Tier-2 City,Occasionally,99,4,"Action, Comedy, Other, Horror, Animation",Evening,Partner,No,No,4,No,No,Yes,No,Yes,No,No,Yes,Yes,2,2,Yes
+59,Non-binary,1244,Other,Tier-2 City,Never,65,4,"Horror, Animation, Other, Action, Drama, Sci-Fi, Documentary, Romance, Comedy",Night,Friends/Group,Yes,Yes,1,No,No,Yes,Yes,No,No,No,Yes,No,4,1,Yes
+19,Female,3218,Working Professional,Rural Area,Rarely,96,1,"Horror, Sci-Fi, Drama, Action, Animation, Documentary, Other, Comedy, Romance",Afternoon,Partner,Yes,Yes,4,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,2,3,No
+47,Male,2639,Working Professional,Town,Rarely,71,4,"Romance, Other, Horror, Documentary",Morning,Partner,Yes,Yes,2,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1,5,Yes
+15,Male,3570,Other,Tier-2 City,Never,61,3,"Action, Drama, Comedy, Documentary, Romance, Horror, Animation, Other",Evening,Family,No,No,1,Yes,No,Yes,Yes,Yes,No,Yes,No,No,1,3,Yes
+32,Male,1167,Homemaker,Town,Rarely,53,4,"Drama, Documentary, Comedy, Romance, Horror, Other, Animation, Sci-Fi, Action",Afternoon,Partner,Yes,No,2,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,2,3,Yes
+46,Non-binary,3168,Other,Tier-2 City,Monthly,63,2,"Sci-Fi, Romance, Other, Animation, Action, Comedy, Drama, Horror",Afternoon,Alone,Yes,Yes,2,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,4,1,Yes
+25,Prefer not to say,3060,Retired,Tier-2 City,Never,103,4,"Comedy, Drama, Documentary, Action, Animation, Horror",Night,Partner,Yes,No,4,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,1,Yes
+35,Female,3056,Other,Rural Area,Monthly,53,2,"Other, Drama, Sci-Fi, Animation, Horror, Comedy, Documentary, Action, Romance",Morning,Partner,No,Yes,5,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,2,No
+40,Non-binary,3312,Homemaker,Tier-1 City,Rarely,117,5,"Romance, Action, Drama, Horror, Documentary, Other, Sci-Fi, Comedy, Animation",Night,Family,Yes,Yes,2,No,Yes,Yes,No,Yes,No,No,No,No,5,4,Yes
+39,Prefer not to say,3821,Retired,Rural Area,Never,58,3,"Horror, Sci-Fi, Comedy, Action, Drama, Romance",Morning,Partner,No,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,3,Yes
+36,Non-binary,5086,Student,Tier-2 City,Rarely,89,5,"Comedy, Documentary, Sci-Fi, Action, Horror",Morning,Friends/Group,No,Yes,4,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,4,4,Yes
+41,Female,1786,Student,Tier-2 City,Never,72,5,"Drama, Horror, Other, Documentary, Sci-Fi, Animation, Comedy, Action",Evening,Family,Yes,Yes,3,No,Yes,Yes,No,No,Yes,No,Yes,No,1,3,Yes
+27,Prefer not to say,5358,Homemaker,Tier-1 City,Rarely,68,4,"Other, Drama, Comedy, Romance",Afternoon,Partner,No,Yes,4,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4,4,Yes
+47,Non-binary,2724,Other,Town,Monthly,49,4,"Documentary, Animation, Romance, Sci-Fi",Afternoon,Alone,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,2,Yes
+48,Female,1200,Working Professional,Town,Monthly,73,4,"Action, Sci-Fi, Other, Romance",Afternoon,Alone,No,Yes,4,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,3,1,Yes
+55,Male,1150,Homemaker,Tier-2 City,Rarely,51,5,"Comedy, Romance, Horror, Action, Documentary, Drama, Sci-Fi, Other",Morning,Family,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,4,5,No
+49,Female,2017,Retired,Town,Never,41,3,"Horror, Romance, Comedy, Animation, Drama, Sci-Fi, Other, Documentary, Action",Afternoon,Family,Yes,Yes,1,No,No,Yes,Yes,Yes,No,Yes,Yes,No,3,4,Yes
+15,Male,4841,Retired,Tier-2 City,Occasionally,77,3,"Comedy, Sci-Fi, Other, Animation, Drama, Action, Horror, Documentary, Romance",Evening,Partner,Yes,Yes,3,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1,1,Yes
+35,Non-binary,4074,Student,Tier-1 City,Monthly,62,2,"Romance, Other, Drama, Comedy, Animation, Documentary, Action, Sci-Fi",Morning,Friends/Group,Yes,Yes,1,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1,3,No
+20,Prefer not to say,4885,Retired,Tier-1 City,Monthly,108,1,"Romance, Documentary, Action, Comedy, Animation, Horror",Morning,Partner,No,Yes,1,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1,3,No
+42,Prefer not to say,2820,Homemaker,Tier-2 City,Occasionally,95,3,"Action, Comedy, Horror, Other, Romance, Animation, Documentary, Sci-Fi, Drama",Morning,Alone,Yes,No,3,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,Yes
+31,Non-binary,2450,Retired,Tier-1 City,Rarely,108,4,"Romance, Sci-Fi, Drama, Comedy, Documentary, Action, Other, Horror",Morning,Friends/Group,No,No,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1,4,No
+19,Prefer not to say,1398,Homemaker,Rural Area,Never,61,2,"Documentary, Comedy, Horror, Drama",Evening,Friends/Group,Yes,No,5,Yes,Yes,Yes,Yes,No,No,No,Yes,No,4,5,Yes
+45,Prefer not to say,1994,Working Professional,Rural Area,Rarely,77,4,"Documentary, Other, Comedy, Animation, Romance, Drama, Sci-Fi, Horror, Action",Afternoon,Friends/Group,No,Yes,1,No,Yes,No,No,Yes,Yes,No,Yes,Yes,5,2,Yes
+19,Male,2422,Student,Tier-1 City,Weekly,22,5,"Romance, Other, Horror, Animation, Action, Sci-Fi, Comedy, Documentary, Drama",Evening,Partner,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,2,4,Yes
+52,Non-binary,1231,Retired,Tier-2 City,Monthly,69,5,"Documentary, Drama, Other, Animation, Sci-Fi, Comedy, Romance",Afternoon,Alone,Yes,Yes,3,No,Yes,Yes,No,Yes,Yes,No,No,Yes,1,3,Yes
+17,Female,1623,Homemaker,Tier-2 City,Weekly,76,4,"Animation, Comedy, Drama, Sci-Fi",Evening,Family,Yes,Yes,4,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,5,5,Yes
+37,Male,3279,Other,Tier-1 City,Monthly,78,3,"Comedy, Sci-Fi, Documentary, Horror, Romance, Animation, Action, Drama, Other",Night,Partner,No,Yes,2,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,5,5,Yes
+51,Non-binary,4326,Student,Town,Monthly,74,1,"Animation, Comedy, Drama, Documentary, Sci-Fi, Horror, Romance",Night,Family,Yes,Yes,5,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,5,3,Yes
+51,Male,17013,Working Professional,Rural Area,Weekly,76,4,"Romance, Horror, Comedy, Other, Action, Documentary, Sci-Fi, Animation",Night,Friends/Group,Yes,No,3,No,Yes,Yes,Yes,Yes,No,No,Yes,No,4,3,Yes
+24,Female,7761,Homemaker,Town,Weekly,20,3,"Other, Comedy, Animation, Horror, Documentary, Drama",Night,Friends/Group,Yes,Yes,1,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,3,1,Yes
+24,Female,3572,Working Professional,Tier-2 City,Rarely,80,2,"Comedy, Other, Romance, Sci-Fi, Horror, Drama, Documentary",Morning,Partner,No,No,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,Yes
+33,Non-binary,2367,Working Professional,Tier-2 City,Weekly,84,4,"Action, Comedy, Documentary, Animation, Sci-Fi, Other, Horror, Drama, Romance",Morning,Alone,Yes,No,2,Yes,Yes,No,No,Yes,Yes,No,No,No,5,5,Yes
+31,Female,3527,Retired,Town,Rarely,101,2,"Sci-Fi, Animation, Other, Documentary, Horror, Comedy, Action, Romance",Evening,Friends/Group,Yes,Yes,2,No,No,Yes,Yes,No,Yes,Yes,No,Yes,2,4,Yes
+35,Male,4850,Retired,Tier-1 City,Rarely,82,3,"Sci-Fi, Animation, Romance, Drama, Action, Other",Evening,Family,Yes,No,3,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,4,3,Yes
+28,Female,1314,Homemaker,Town,Rarely,72,3,"Other, Animation, Documentary, Comedy, Drama, Action, Romance, Horror",Night,Family,No,Yes,2,No,Yes,Yes,No,Yes,Yes,No,No,Yes,4,1,Yes
+23,Male,2318,Other,Town,Monthly,97,3,"Other, Romance, Action, Drama",Afternoon,Partner,No,No,2,Yes,Yes,No,No,Yes,Yes,No,No,Yes,4,5,Yes
+15,Male,5578,Homemaker,Rural Area,Monthly,27,3,"Horror, Animation, Romance, Sci-Fi",Night,Family,Yes,Yes,3,No,Yes,No,No,No,Yes,No,No,No,3,1,Yes
+59,Female,2210,Other,Rural Area,Weekly,64,5,"Romance, Animation, Horror, Documentary, Other, Comedy, Drama",Evening,Alone,Yes,No,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,5,2,Yes
+27,Non-binary,3120,Working Professional,Town,Monthly,59,3,"Documentary, Drama, Comedy, Sci-Fi, Horror",Night,Friends/Group,Yes,Yes,3,Yes,No,Yes,Yes,Yes,No,No,No,No,2,5,No
+18,Prefer not to say,3215,Student,Town,Weekly,74,5,"Animation, Drama, Documentary, Romance, Comedy, Sci-Fi",Evening,Family,Yes,No,5,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,1,1,Yes
+15,Female,1509,Homemaker,Tier-2 City,Monthly,31,1,"Comedy, Action, Other, Romance",Night,Family,Yes,Yes,2,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,3,2,Yes
+54,Male,2124,Homemaker,Rural Area,Never,101,5,"Animation, Drama, Action, Comedy, Horror, Sci-Fi, Documentary",Afternoon,Friends/Group,No,Yes,2,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,1,Yes
+46,Male,2018,Other,Rural Area,Never,70,2,"Animation, Drama, Horror, Sci-Fi, Other, Romance, Comedy, Documentary",Night,Partner,Yes,No,2,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,5,3,Yes
+48,Female,1066,Working Professional,Tier-2 City,Weekly,81,1,"Drama, Animation, Sci-Fi, Action, Documentary",Afternoon,Family,No,No,1,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,2,4,Yes
+42,Non-binary,1061,Working Professional,Tier-1 City,Monthly,79,2,"Horror, Sci-Fi, Other, Documentary, Romance, Drama, Action",Afternoon,Partner,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,4,2,Yes
+45,Non-binary,5454,Other,Rural Area,Monthly,100,4,"Documentary, Romance, Action, Sci-Fi",Evening,Partner,No,Yes,3,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,1,5,No
+22,Male,1797,Working Professional,Rural Area,Rarely,37,4,"Comedy, Drama, Romance, Animation, Sci-Fi, Documentary, Other",Afternoon,Family,Yes,Yes,1,No,Yes,No,Yes,Yes,No,Yes,No,Yes,4,4,Yes
+53,Male,2824,Retired,Tier-1 City,Occasionally,77,5,"Comedy, Other, Documentary, Horror, Action, Drama, Romance, Sci-Fi",Morning,Alone,Yes,No,1,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,5,1,Yes
+40,Non-binary,1887,Student,Rural Area,Weekly,97,2,"Other, Action, Horror, Animation, Sci-Fi, Romance",Morning,Partner,Yes,No,2,No,Yes,No,No,Yes,Yes,No,Yes,Yes,5,2,No
+48,Prefer not to say,8061,Homemaker,Rural Area,Occasionally,73,4,"Romance, Animation, Drama, Documentary, Other, Comedy, Action, Horror",Morning,Family,Yes,No,4,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,5,4,Yes
+17,Female,1750,Student,Tier-1 City,Occasionally,55,4,"Sci-Fi, Action, Romance, Horror, Other, Comedy, Drama, Documentary, Animation",Evening,Partner,Yes,Yes,1,No,No,Yes,Yes,Yes,No,No,Yes,Yes,4,4,Yes
+26,Male,2403,Homemaker,Tier-1 City,Weekly,62,4,"Action, Sci-Fi, Horror, Other, Comedy, Romance, Documentary, Drama, Animation",Morning,Friends/Group,No,Yes,3,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,1,No
+15,Male,6153,Retired,Town,Monthly,67,1,"Sci-Fi, Other, Animation, Drama, Action, Documentary, Romance, Horror",Evening,Alone,No,Yes,2,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,5,3,Yes
+58,Non-binary,5611,Working Professional,Tier-2 City,Weekly,60,1,"Drama, Documentary, Other, Comedy, Animation, Romance, Horror, Action",Evening,Alone,Yes,No,3,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,5,4,Yes
+19,Female,1514,Other,Tier-2 City,Occasionally,71,3,"Action, Romance, Other, Comedy, Sci-Fi, Documentary, Horror, Drama",Morning,Friends/Group,Yes,Yes,4,Yes,Yes,Yes,No,Yes,No,Yes,No,No,5,4,No
+44,Non-binary,5056,Retired,Tier-1 City,Monthly,105,2,"Horror, Documentary, Romance, Animation, Comedy, Sci-Fi, Drama",Afternoon,Friends/Group,Yes,No,2,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,1,5,Yes
+44,Female,2532,Student,Tier-1 City,Never,63,4,"Romance, Action, Other, Drama, Documentary, Sci-Fi, Horror, Comedy, Animation",Night,Partner,Yes,Yes,3,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,2,4,No
+31,Female,2649,Other,Rural Area,Weekly,65,2,"Sci-Fi, Documentary, Romance, Other, Comedy, Horror, Drama",Evening,Friends/Group,Yes,Yes,3,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,1,Yes
+37,Female,1358,Working Professional,Town,Weekly,84,3,"Animation, Documentary, Drama, Comedy, Sci-Fi, Horror, Action, Romance, Other",Morning,Alone,No,Yes,2,No,Yes,Yes,Yes,Yes,No,No,No,Yes,2,1,Yes
+29,Male,1210,Retired,Town,Monthly,71,5,"Romance, Action, Documentary, Sci-Fi, Drama, Horror, Other",Evening,Friends/Group,No,Yes,5,No,No,Yes,No,Yes,No,No,Yes,Yes,5,2,Yes
+51,Prefer not to say,4254,Other,Tier-1 City,Never,48,3,"Sci-Fi, Romance, Drama, Animation, Action, Documentary, Horror, Comedy, Other",Afternoon,Family,No,Yes,5,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,2,1,Yes
+35,Non-binary,2715,Retired,Rural Area,Never,73,4,"Horror, Other, Sci-Fi, Drama, Comedy, Romance, Documentary, Action, Animation",Afternoon,Family,Yes,Yes,4,No,Yes,No,Yes,No,No,Yes,Yes,No,1,4,Yes
+28,Prefer not to say,2435,Retired,Rural Area,Monthly,73,5,"Action, Animation, Other, Sci-Fi",Morning,Partner,No,Yes,1,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,5,4,Yes
+16,Non-binary,4268,Working Professional,Tier-2 City,Rarely,94,5,"Documentary, Romance, Comedy, Other",Evening,Alone,No,No,1,Yes,No,No,Yes,Yes,No,No,Yes,Yes,4,2,Yes
+25,Female,4625,Homemaker,Tier-2 City,Weekly,55,3,"Sci-Fi, Horror, Action, Animation, Other, Romance",Night,Family,Yes,Yes,2,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,3,4,Yes
+53,Male,1432,Other,Rural Area,Weekly,94,4,"Horror, Comedy, Romance, Action",Night,Friends/Group,Yes,Yes,2,Yes,No,No,Yes,Yes,No,Yes,No,No,1,3,Yes
+52,Prefer not to say,3355,Working Professional,Tier-2 City,Occasionally,73,5,"Drama, Animation, Romance, Documentary",Evening,Family,No,Yes,2,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,1,1,Yes
+48,Male,1363,Retired,Tier-1 City,Monthly,52,3,"Drama, Comedy, Romance, Documentary, Other, Sci-Fi, Animation, Action",Evening,Family,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,2,3,Yes
+52,Non-binary,4479,Working Professional,Rural Area,Occasionally,48,3,"Documentary, Sci-Fi, Animation, Horror, Drama, Other, Action, Romance, Comedy",Evening,Partner,Yes,No,5,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,5,3,Yes
+48,Male,3674,Homemaker,Tier-2 City,Occasionally,113,4,"Animation, Other, Drama, Action",Morning,Friends/Group,Yes,Yes,4,Yes,No,Yes,No,Yes,No,No,No,No,2,5,No
+32,Male,8844,Other,Town,Never,71,3,"Sci-Fi, Drama, Horror, Action, Animation, Comedy",Afternoon,Friends/Group,Yes,No,3,No,Yes,No,Yes,Yes,No,Yes,Yes,No,2,4,Yes
+44,Prefer not to say,1178,Homemaker,Rural Area,Weekly,93,3,"Animation, Drama, Romance, Horror, Action, Comedy, Documentary, Other",Night,Friends/Group,Yes,Yes,3,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,2,Yes
+29,Female,1146,Student,Rural Area,Occasionally,160,3,"Comedy, Documentary, Romance, Drama, Action",Morning,Partner,No,Yes,5,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,5,4,No
+41,Male,1828,Other,Town,Never,127,2,"Comedy, Other, Sci-Fi, Romance",Evening,Friends/Group,No,Yes,4,No,Yes,No,Yes,No,No,Yes,Yes,Yes,3,1,Yes
+48,Female,1758,Homemaker,Tier-1 City,Monthly,92,1,"Documentary, Action, Horror, Comedy, Other, Sci-Fi",Evening,Friends/Group,No,Yes,2,Yes,No,Yes,Yes,Yes,No,No,No,Yes,1,3,Yes
+52,Non-binary,1709,Retired,Town,Occasionally,69,2,"Animation, Sci-Fi, Comedy, Romance, Drama, Horror, Documentary, Action, Other",Afternoon,Family,Yes,Yes,1,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,1,4,Yes
+47,Male,6917,Other,Rural Area,Weekly,68,3,"Animation, Other, Documentary, Romance, Action, Comedy, Sci-Fi",Evening,Family,No,No,5,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,1,No
+38,Prefer not to say,1717,Other,Tier-1 City,Occasionally,89,1,"Documentary, Comedy, Sci-Fi, Animation, Drama, Romance, Horror",Morning,Friends/Group,Yes,Yes,5,Yes,No,No,No,Yes,No,Yes,Yes,Yes,5,5,Yes
+29,Non-binary,1793,Working Professional,Tier-2 City,Monthly,88,5,"Animation, Action, Romance, Other, Documentary, Drama",Morning,Alone,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,3,2,No
+44,Non-binary,4561,Retired,Tier-2 City,Occasionally,78,2,"Romance, Comedy, Animation, Horror, Drama, Documentary, Action, Sci-Fi",Afternoon,Alone,Yes,Yes,5,No,Yes,No,Yes,No,No,No,Yes,Yes,3,4,No
+56,Prefer not to say,2493,Student,Tier-2 City,Weekly,75,2,"Horror, Sci-Fi, Romance, Other, Action, Drama, Comedy",Morning,Friends/Group,Yes,Yes,3,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,5,2,Yes
+31,Male,4748,Homemaker,Rural Area,Never,86,2,"Documentary, Horror, Comedy, Action",Night,Alone,Yes,Yes,2,No,No,Yes,Yes,Yes,Yes,No,Yes,No,2,2,Yes
+19,Male,1169,Working Professional,Town,Weekly,160,4,"Action, Horror, Documentary, Animation, Other",Morning,Partner,Yes,Yes,3,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,4,3,Yes
+43,Non-binary,2671,Homemaker,Tier-1 City,Never,67,3,"Sci-Fi, Documentary, Other, Horror, Action, Animation, Comedy, Romance",Morning,Family,Yes,Yes,2,Yes,No,Yes,Yes,Yes,No,No,Yes,No,1,5,Yes
+18,Male,1085,Student,Tier-2 City,Rarely,42,5,"Action, Animation, Other, Comedy, Sci-Fi, Horror",Morning,Partner,Yes,Yes,1,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,2,1,Yes
+24,Female,1161,Student,Tier-1 City,Weekly,87,5,"Other, Drama, Romance, Sci-Fi, Comedy, Action, Horror, Documentary, Animation",Night,Family,No,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,5,No
+31,Prefer not to say,6922,Other,Rural Area,Weekly,61,5,"Action, Documentary, Sci-Fi, Other, Comedy, Animation, Romance, Drama, Horror",Evening,Alone,Yes,No,2,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,1,4,Yes
+24,Female,1374,Student,Tier-2 City,Monthly,43,3,"Comedy, Documentary, Sci-Fi, Other, Animation, Action",Morning,Alone,No,Yes,5,Yes,No,Yes,Yes,Yes,No,No,No,Yes,5,1,Yes
+31,Male,2900,Homemaker,Rural Area,Occasionally,59,1,"Comedy, Documentary, Sci-Fi, Animation",Afternoon,Friends/Group,Yes,Yes,5,No,Yes,Yes,Yes,Yes,No,No,Yes,No,3,3,Yes
+34,Non-binary,2323,Retired,Town,Never,77,2,"Comedy, Horror, Documentary, Drama, Animation",Night,Alone,Yes,No,4,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,4,Yes
+38,Prefer not to say,2066,Retired,Rural Area,Never,70,3,"Comedy, Drama, Documentary, Other, Action, Romance",Afternoon,Alone,No,Yes,2,Yes,No,No,Yes,Yes,No,Yes,No,Yes,4,4,Yes
+19,Male,6752,Other,Rural Area,Monthly,51,2,"Comedy, Other, Drama, Documentary, Horror, Romance",Morning,Friends/Group,Yes,Yes,1,Yes,No,No,No,Yes,Yes,Yes,Yes,No,2,2,Yes
+48,Male,1055,Homemaker,Town,Monthly,40,3,"Romance, Drama, Horror, Comedy, Sci-Fi, Action, Animation, Documentary, Other",Afternoon,Friends/Group,Yes,Yes,4,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,5,1,Yes
+20,Non-binary,3725,Homemaker,Tier-1 City,Occasionally,76,2,"Action, Documentary, Other, Animation, Romance",Morning,Family,No,Yes,5,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4,2,Yes
+16,Non-binary,9268,Student,Town,Occasionally,63,3,"Comedy, Sci-Fi, Horror, Romance, Animation",Night,Alone,Yes,Yes,1,No,Yes,Yes,No,Yes,No,No,Yes,No,3,1,No
+27,Female,3053,Homemaker,Town,Weekly,69,1,"Drama, Horror, Comedy, Romance, Other, Documentary, Animation, Action, Sci-Fi",Afternoon,Family,No,No,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,5,4,Yes
+57,Prefer not to say,7904,Working Professional,Rural Area,Rarely,71,5,"Action, Drama, Romance, Horror, Sci-Fi, Other, Documentary, Comedy",Afternoon,Family,Yes,No,5,No,Yes,Yes,No,No,No,No,Yes,No,3,3,Yes
+57,Prefer not to say,1134,Student,Tier-1 City,Occasionally,83,2,"Animation, Action, Sci-Fi, Comedy, Romance, Documentary",Morning,Partner,Yes,No,4,Yes,Yes,No,No,Yes,No,No,Yes,Yes,5,3,Yes
+25,Non-binary,14136,Working Professional,Tier-2 City,Monthly,91,3,"Comedy, Romance, Animation, Sci-Fi, Documentary, Other, Horror, Action",Morning,Alone,Yes,No,5,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,5,2,Yes
+37,Female,1753,Other,Town,Occasionally,77,1,"Action, Horror, Other, Comedy, Documentary, Sci-Fi",Evening,Alone,Yes,Yes,3,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,5,1,Yes
+30,Prefer not to say,4280,Retired,Tier-1 City,Never,68,1,"Drama, Action, Documentary, Romance, Other",Morning,Partner,No,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,2,2,Yes
+45,Non-binary,10947,Other,Town,Rarely,75,5,"Horror, Animation, Drama, Documentary, Sci-Fi, Other",Morning,Family,No,No,5,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1,1,No
+25,Male,1741,Retired,Town,Weekly,68,3,"Comedy, Action, Sci-Fi, Other",Evening,Alone,Yes,No,4,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,1,3,Yes
+30,Prefer not to say,3654,Other,Town,Never,42,2,"Action, Documentary, Sci-Fi, Other, Romance",Morning,Family,Yes,Yes,2,No,Yes,Yes,Yes,No,Yes,No,Yes,No,2,4,No
+22,Female,1551,Homemaker,Town,Never,96,4,"Documentary, Romance, Horror, Comedy, Drama",Morning,Partner,No,No,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,1,1,Yes
+18,Female,3082,Working Professional,Rural Area,Rarely,93,1,"Comedy, Romance, Other, Action, Animation",Evening,Friends/Group,Yes,Yes,3,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,2,3,No
+54,Female,2558,Retired,Tier-1 City,Weekly,114,1,"Animation, Horror, Documentary, Comedy, Action, Other, Drama, Romance, Sci-Fi",Night,Family,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,2,4,Yes
+18,Male,9939,Student,Tier-1 City,Monthly,120,5,"Drama, Horror, Sci-Fi, Documentary, Comedy, Romance, Animation",Night,Alone,Yes,Yes,4,Yes,No,No,No,Yes,No,No,No,No,3,4,Yes
+39,Prefer not to say,3344,Working Professional,Tier-1 City,Weekly,51,3,"Documentary, Horror, Romance, Drama, Animation",Morning,Friends/Group,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,2,5,Yes
+17,Prefer not to say,2075,Student,Town,Occasionally,68,4,"Romance, Drama, Action, Other, Sci-Fi",Morning,Family,No,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,2,No
+46,Male,1302,Working Professional,Rural Area,Never,125,4,"Sci-Fi, Drama, Action, Horror",Evening,Family,No,Yes,3,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,5,3,No
+17,Prefer not to say,1409,Working Professional,Town,Occasionally,74,4,"Animation, Drama, Other, Documentary, Comedy, Romance, Horror",Evening,Friends/Group,Yes,Yes,5,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,5,2,Yes
+41,Male,1638,Other,Town,Monthly,79,3,"Drama, Horror, Action, Documentary, Sci-Fi",Night,Friends/Group,Yes,Yes,4,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,2,1,Yes
+43,Male,1722,Retired,Tier-1 City,Occasionally,44,2,"Horror, Documentary, Animation, Other, Drama, Action, Sci-Fi",Afternoon,Friends/Group,Yes,Yes,5,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,5,1,Yes
+46,Male,5753,Retired,Town,Weekly,78,1,"Horror, Other, Drama, Documentary, Sci-Fi, Comedy, Animation",Morning,Alone,Yes,No,1,No,No,Yes,No,Yes,No,No,No,Yes,3,4,No
+33,Female,3059,Working Professional,Tier-2 City,Occasionally,113,3,"Action, Animation, Other, Documentary, Horror",Afternoon,Alone,Yes,Yes,2,No,Yes,Yes,Yes,Yes,No,No,No,Yes,3,3,No
+35,Prefer not to say,2852,Homemaker,Town,Monthly,100,4,"Other, Action, Horror, Sci-Fi, Animation, Romance, Drama, Documentary, Comedy",Afternoon,Family,No,Yes,2,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,2,3,No
+19,Male,1304,Homemaker,Tier-2 City,Monthly,62,1,"Horror, Comedy, Sci-Fi, Action, Other, Documentary, Romance",Evening,Family,Yes,Yes,2,Yes,No,Yes,Yes,No,No,No,Yes,Yes,5,2,No
+32,Prefer not to say,5917,Student,Town,Monthly,67,1,"Sci-Fi, Horror, Romance, Action, Animation, Documentary",Morning,Partner,Yes,Yes,4,Yes,No,Yes,Yes,Yes,No,No,Yes,No,4,2,No
+42,Female,4207,Student,Rural Area,Weekly,52,4,"Sci-Fi, Drama, Romance, Horror, Other, Action, Comedy, Documentary, Animation",Morning,Alone,Yes,No,2,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,1,3,Yes
+56,Male,1175,Other,Rural Area,Monthly,57,4,"Animation, Drama, Other, Documentary, Horror, Action, Romance, Sci-Fi, Comedy",Evening,Family,Yes,Yes,4,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,5,4,No
+36,Non-binary,4076,Working Professional,Tier-1 City,Never,36,1,"Romance, Action, Drama, Horror, Animation, Comedy, Sci-Fi, Documentary, Other",Afternoon,Friends/Group,Yes,No,2,Yes,Yes,No,Yes,No,No,Yes,No,Yes,3,4,Yes
+35,Female,2960,Student,Town,Monthly,73,5,"Action, Romance, Other, Animation, Horror, Drama, Comedy, Documentary, Sci-Fi",Evening,Friends/Group,No,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,4,No
+20,Non-binary,1213,Student,Tier-2 City,Occasionally,105,1,"Drama, Comedy, Sci-Fi, Romance, Documentary, Animation",Night,Alone,Yes,Yes,4,No,Yes,Yes,No,No,No,Yes,No,No,4,5,Yes
+15,Prefer not to say,2532,Working Professional,Tier-2 City,Occasionally,82,2,"Horror, Comedy, Romance, Other, Sci-Fi, Documentary",Morning,Friends/Group,No,Yes,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,2,2,Yes
+19,Prefer not to say,2657,Other,Town,Occasionally,102,2,"Horror, Romance, Drama, Animation, Sci-Fi, Other, Comedy, Action, Documentary",Night,Partner,Yes,Yes,5,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,4,4,Yes
+55,Female,1453,Student,Tier-2 City,Weekly,96,5,"Romance, Documentary, Horror, Sci-Fi, Other, Action",Evening,Family,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,4,3,Yes
+26,Prefer not to say,8282,Other,Rural Area,Occasionally,64,3,"Other, Sci-Fi, Horror, Documentary, Drama, Action, Animation",Morning,Family,Yes,Yes,3,No,No,No,Yes,No,Yes,No,Yes,Yes,1,5,Yes
+40,Non-binary,5742,Retired,Tier-2 City,Weekly,59,1,"Comedy, Other, Horror, Documentary, Drama, Action, Animation",Night,Family,Yes,Yes,3,No,No,Yes,No,Yes,No,No,No,Yes,3,4,Yes
+48,Male,3764,Other,Tier-1 City,Weekly,60,2,"Sci-Fi, Comedy, Romance, Documentary, Horror",Night,Alone,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,1,Yes
+28,Male,2551,Homemaker,Rural Area,Monthly,40,1,"Horror, Action, Drama, Other, Sci-Fi",Afternoon,Friends/Group,Yes,No,1,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,5,Yes
+40,Male,2326,Homemaker,Rural Area,Never,75,5,"Documentary, Romance, Horror, Animation, Action",Morning,Partner,No,Yes,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,5,5,Yes
+59,Female,3631,Other,Rural Area,Monthly,16,4,"Horror, Comedy, Action, Documentary, Sci-Fi, Drama",Night,Alone,No,Yes,1,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,2,Yes
+41,Prefer not to say,2971,Homemaker,Town,Monthly,86,5,"Romance, Other, Horror, Sci-Fi, Documentary, Animation, Comedy",Night,Family,Yes,Yes,3,No,Yes,Yes,No,Yes,No,No,Yes,No,1,1,No
+23,Non-binary,1160,Retired,Town,Weekly,76,5,"Drama, Sci-Fi, Comedy, Other, Animation, Horror",Afternoon,Partner,Yes,Yes,4,Yes,Yes,Yes,Yes,No,No,No,No,No,3,5,Yes
+40,Prefer not to say,2796,Working Professional,Rural Area,Weekly,84,5,"Sci-Fi, Action, Comedy, Drama, Romance, Horror",Night,Family,Yes,Yes,5,No,Yes,No,No,Yes,Yes,No,No,Yes,2,5,Yes
+36,Prefer not to say,5104,Homemaker,Town,Occasionally,96,2,"Drama, Sci-Fi, Comedy, Animation, Romance",Night,Family,Yes,No,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,3,2,Yes
+44,Prefer not to say,2536,Homemaker,Tier-2 City,Occasionally,78,5,"Horror, Comedy, Action, Drama, Sci-Fi",Night,Alone,Yes,No,2,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,5,3,Yes
+57,Male,1133,Other,Town,Monthly,107,4,"Documentary, Sci-Fi, Drama, Comedy, Romance",Afternoon,Family,No,Yes,5,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,5,3,Yes
+31,Non-binary,4857,Retired,Town,Rarely,87,4,"Action, Romance, Drama, Comedy, Animation, Horror, Sci-Fi, Other",Night,Partner,Yes,Yes,1,No,Yes,Yes,Yes,Yes,No,No,No,Yes,5,1,Yes
+40,Non-binary,1562,Working Professional,Rural Area,Rarely,59,4,"Sci-Fi, Comedy, Action, Horror, Romance, Documentary, Other, Drama",Night,Family,Yes,Yes,4,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,2,2,Yes
+50,Prefer not to say,1748,Other,Tier-1 City,Occasionally,70,3,"Action, Romance, Documentary, Animation, Drama",Morning,Friends/Group,Yes,Yes,5,Yes,Yes,No,Yes,No,No,No,No,Yes,4,4,Yes
+15,Male,1449,Other,Tier-1 City,Rarely,29,5,"Sci-Fi, Drama, Animation, Other, Horror, Documentary, Romance",Morning,Family,Yes,Yes,5,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,2,2,Yes
+22,Male,2001,Retired,Tier-1 City,Occasionally,56,4,"Documentary, Action, Comedy, Romance",Afternoon,Alone,No,Yes,3,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,3,4,Yes
+49,Non-binary,4534,Working Professional,Tier-2 City,Weekly,67,3,"Comedy, Sci-Fi, Action, Horror, Documentary, Other, Romance, Drama",Evening,Partner,Yes,Yes,4,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,4,3,Yes
+29,Male,2831,Retired,Town,Monthly,85,5,"Romance, Action, Sci-Fi, Other",Morning,Alone,Yes,Yes,4,Yes,No,Yes,No,No,Yes,No,Yes,No,4,1,No
+36,Male,1573,Working Professional,Tier-1 City,Never,59,5,"Other, Horror, Animation, Drama, Comedy",Afternoon,Friends/Group,No,Yes,4,Yes,No,Yes,Yes,Yes,No,No,No,Yes,1,4,Yes
+28,Male,6255,Retired,Rural Area,Monthly,50,1,"Comedy, Documentary, Romance, Animation",Night,Family,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,3,Yes
+40,Female,6291,Other,Tier-1 City,Occasionally,37,5,"Other, Animation, Comedy, Horror",Night,Alone,No,Yes,4,Yes,Yes,No,Yes,No,No,Yes,No,Yes,2,5,Yes
+42,Prefer not to say,6111,Other,Tier-1 City,Occasionally,63,1,"Other, Action, Romance, Drama, Horror, Comedy",Afternoon,Alone,Yes,Yes,3,No,Yes,No,Yes,Yes,No,Yes,No,Yes,1,1,Yes
+37,Non-binary,1682,Student,Town,Monthly,114,2,"Animation, Romance, Horror, Drama, Action, Documentary, Comedy, Other, Sci-Fi",Night,Alone,Yes,No,4,No,Yes,Yes,No,Yes,No,Yes,No,Yes,3,4,Yes
+28,Non-binary,2500,Homemaker,Town,Occasionally,80,2,"Other, Comedy, Documentary, Romance, Horror, Sci-Fi, Animation",Night,Alone,No,Yes,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,1,2,Yes
+38,Female,11497,Retired,Town,Rarely,93,3,"Drama, Animation, Romance, Horror, Comedy, Action",Evening,Friends/Group,Yes,No,3,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,5,4,Yes
+16,Prefer not to say,4696,Student,Tier-2 City,Rarely,56,1,"Horror, Sci-Fi, Other, Documentary, Drama",Night,Friends/Group,Yes,Yes,4,Yes,Yes,Yes,No,Yes,No,No,No,No,1,5,Yes
+59,Non-binary,1068,Homemaker,Tier-2 City,Occasionally,43,2,"Animation, Comedy, Action, Horror",Morning,Family,Yes,Yes,1,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,1,Yes
+40,Male,1168,Retired,Tier-1 City,Occasionally,50,2,"Sci-Fi, Animation, Comedy, Other, Horror, Documentary, Action, Drama, Romance",Night,Family,Yes,Yes,2,Yes,No,Yes,Yes,No,No,No,Yes,Yes,4,1,Yes
+28,Non-binary,2558,Working Professional,Town,Rarely,73,2,"Other, Documentary, Action, Drama, Sci-Fi, Romance",Afternoon,Partner,No,Yes,4,Yes,No,Yes,No,Yes,No,No,No,Yes,1,2,Yes
+21,Male,6998,Homemaker,Tier-1 City,Occasionally,35,5,"Other, Documentary, Comedy, Action, Romance, Animation, Horror",Evening,Friends/Group,No,No,2,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,3,2,No
+17,Female,2934,Other,Rural Area,Occasionally,54,1,"Documentary, Comedy, Romance, Animation, Drama, Horror",Night,Alone,No,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1,4,Yes
+37,Male,2721,Student,Rural Area,Monthly,63,2,"Documentary, Horror, Action, Animation, Drama",Afternoon,Alone,No,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,3,5,Yes
+57,Non-binary,1278,Homemaker,Town,Never,48,1,"Comedy, Romance, Sci-Fi, Horror, Animation, Documentary, Other",Morning,Partner,Yes,Yes,3,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,3,2,Yes
+59,Non-binary,3673,Homemaker,Town,Rarely,32,4,"Documentary, Comedy, Drama, Sci-Fi, Romance, Action, Other, Horror, Animation",Night,Alone,Yes,No,1,No,Yes,No,Yes,No,No,No,Yes,Yes,3,5,Yes
+32,Non-binary,5316,Other,Rural Area,Monthly,80,4,"Romance, Documentary, Other, Comedy, Drama",Evening,Partner,Yes,Yes,3,Yes,Yes,No,Yes,Yes,No,No,No,Yes,2,4,Yes
+52,Female,2196,Retired,Town,Never,75,5,"Action, Sci-Fi, Drama, Horror, Animation",Night,Family,Yes,No,5,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,2,2,Yes
+49,Female,4735,Working Professional,Tier-2 City,Occasionally,90,4,"Sci-Fi, Other, Documentary, Romance",Afternoon,Friends/Group,Yes,No,5,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,3,3,No
+29,Prefer not to say,9343,Other,Tier-2 City,Occasionally,52,3,"Other, Horror, Animation, Romance",Evening,Partner,No,Yes,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,1,2,Yes
+39,Non-binary,1569,Working Professional,Town,Monthly,90,1,"Comedy, Drama, Sci-Fi, Documentary, Romance",Night,Alone,Yes,No,1,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,1,2,Yes
+51,Male,2852,Retired,Rural Area,Occasionally,105,2,"Sci-Fi, Other, Romance, Animation, Drama, Action, Documentary, Comedy, Horror",Morning,Partner,Yes,No,3,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,5,Yes
+42,Female,1846,Homemaker,Tier-1 City,Weekly,80,3,"Drama, Sci-Fi, Other, Horror",Evening,Family,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,1,No
+24,Non-binary,4935,Working Professional,Town,Monthly,62,3,"Romance, Drama, Action, Comedy, Other, Sci-Fi, Animation",Morning,Alone,No,Yes,1,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,4,3,Yes
+53,Non-binary,3154,Student,Town,Never,77,4,"Other, Comedy, Horror, Animation, Action, Sci-Fi, Romance, Drama",Afternoon,Family,No,Yes,1,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1,3,Yes
+31,Female,3516,Student,Tier-1 City,Monthly,61,1,"Romance, Sci-Fi, Other, Drama, Comedy, Horror, Animation",Night,Family,No,Yes,1,Yes,No,Yes,Yes,Yes,No,No,No,No,1,1,Yes
+53,Prefer not to say,4997,Other,Town,Rarely,58,2,"Romance, Drama, Other, Documentary, Action, Sci-Fi, Horror, Animation",Morning,Partner,Yes,Yes,3,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,2,3,Yes
+36,Female,2260,Retired,Tier-1 City,Monthly,88,3,"Drama, Horror, Other, Comedy, Romance, Sci-Fi, Action, Documentary, Animation",Afternoon,Family,No,Yes,1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,5,3,Yes
+40,Female,7165,Other,Rural Area,Occasionally,72,5,"Action, Documentary, Animation, Horror",Night,Alone,Yes,Yes,5,No,No,Yes,Yes,Yes,No,No,Yes,Yes,3,5,No
+58,Male,2903,Other,Tier-2 City,Occasionally,99,2,"Horror, Comedy, Action, Romance",Afternoon,Family,No,Yes,2,No,No,No,Yes,Yes,Yes,No,Yes,Yes,5,1,Yes
+39,Male,1429,Other,Rural Area,Weekly,66,4,"Action, Documentary, Other, Drama, Animation, Sci-Fi, Comedy, Horror",Morning,Family,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,4,4,Yes
+31,Prefer not to say,3975,Student,Tier-2 City,Weekly,68,1,"Comedy, Horror, Sci-Fi, Other",Afternoon,Partner,Yes,No,2,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,1,4,No
+27,Non-binary,4940,Student,Tier-1 City,Weekly,63,5,"Romance, Action, Documentary, Comedy, Drama",Evening,Family,Yes,No,3,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,4,Yes
+34,Female,1952,Other,Tier-2 City,Never,52,2,"Romance, Other, Comedy, Sci-Fi, Documentary, Animation, Drama, Action",Night,Friends/Group,No,Yes,3,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,3,4,Yes
+39,Prefer not to say,5865,Student,Rural Area,Weekly,91,2,"Action, Horror, Romance, Comedy",Afternoon,Partner,Yes,Yes,3,No,Yes,No,Yes,Yes,No,No,Yes,No,5,3,Yes
+18,Male,6914,Retired,Tier-2 City,Never,118,3,"Drama, Action, Romance, Documentary, Comedy, Horror",Morning,Partner,No,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,3,3,Yes
+24,Female,1810,Other,Tier-1 City,Weekly,67,2,"Drama, Documentary, Romance, Action, Comedy, Other",Night,Alone,Yes,No,2,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,5,5,Yes
+17,Non-binary,11264,Student,Tier-2 City,Never,61,1,"Animation, Horror, Sci-Fi, Comedy, Documentary, Action, Romance",Evening,Alone,Yes,Yes,5,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,3,4,Yes
+55,Male,1379,Working Professional,Town,Monthly,60,1,"Documentary, Comedy, Sci-Fi, Other",Night,Alone,Yes,Yes,2,Yes,Yes,Yes,No,Yes,No,Yes,No,No,5,5,No
+59,Male,1564,Other,Rural Area,Monthly,61,2,"Romance, Sci-Fi, Documentary, Other, Action, Animation, Comedy",Evening,Alone,Yes,No,5,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,1,3,No
+32,Male,1509,Other,Town,Occasionally,107,3,"Comedy, Animation, Drama, Horror, Sci-Fi, Documentary, Romance",Night,Friends/Group,Yes,No,3,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1,1,Yes
+50,Prefer not to say,6610,Retired,Tier-1 City,Never,60,5,"Horror, Animation, Drama, Other, Comedy, Action, Sci-Fi",Afternoon,Partner,Yes,No,1,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,2,2,Yes
+36,Non-binary,3655,Homemaker,Tier-2 City,Rarely,63,5,"Romance, Drama, Action, Other, Horror, Animation, Comedy, Documentary, Sci-Fi",Afternoon,Family,No,No,3,Yes,No,Yes,Yes,No,No,No,No,Yes,3,4,Yes
+48,Female,1412,Homemaker,Town,Occasionally,50,3,"Drama, Animation, Horror, Romance",Morning,Alone,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,4,4,Yes
+22,Prefer not to say,2450,Retired,Town,Monthly,80,4,"Comedy, Drama, Action, Documentary, Other, Romance, Animation, Sci-Fi",Evening,Alone,No,Yes,3,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,2,3,Yes
+54,Prefer not to say,3388,Retired,Tier-2 City,Never,73,1,"Horror, Animation, Romance, Other",Morning,Alone,Yes,Yes,4,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,3,2,Yes
+58,Prefer not to say,1217,Retired,Tier-2 City,Weekly,52,4,"Sci-Fi, Animation, Drama, Horror, Other, Romance",Afternoon,Family,No,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,5,5,Yes
+33,Male,6351,Homemaker,Rural Area,Rarely,57,3,"Other, Sci-Fi, Comedy, Horror, Action, Documentary, Animation",Evening,Alone,Yes,No,5,Yes,Yes,No,No,No,No,Yes,Yes,No,5,5,No
+56,Non-binary,5069,Retired,Town,Monthly,105,4,"Documentary, Horror, Romance, Comedy, Action, Sci-Fi, Drama",Morning,Family,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,2,Yes
+55,Prefer not to say,2759,Student,Town,Occasionally,75,3,"Comedy, Documentary, Romance, Action",Morning,Partner,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,4,5,Yes
+51,Female,9537,Other,Tier-1 City,Never,77,5,"Animation, Romance, Comedy, Drama, Sci-Fi",Morning,Partner,Yes,No,5,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,4,4,Yes
+20,Non-binary,2352,Other,Rural Area,Rarely,77,5,"Comedy, Other, Romance, Sci-Fi, Horror, Animation, Action, Documentary",Morning,Partner,No,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,4,Yes
+40,Female,11355,Working Professional,Tier-1 City,Never,102,4,"Documentary, Other, Sci-Fi, Drama, Animation, Romance, Horror, Action, Comedy",Morning,Friends/Group,Yes,No,4,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,2,3,No
+48,Non-binary,3755,Working Professional,Town,Weekly,54,4,"Comedy, Animation, Horror, Drama, Documentary, Sci-Fi, Other",Evening,Family,Yes,No,2,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,3,4,No
+59,Female,3517,Other,Tier-1 City,Occasionally,67,1,"Action, Drama, Sci-Fi, Romance",Morning,Alone,No,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,Yes
+20,Male,1453,Student,Town,Never,71,5,"Drama, Documentary, Horror, Comedy, Other, Animation",Evening,Alone,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,5,Yes
+51,Prefer not to say,6341,Homemaker,Town,Monthly,40,1,"Comedy, Documentary, Romance, Sci-Fi, Animation, Horror, Other",Morning,Alone,No,Yes,4,Yes,Yes,No,No,Yes,No,No,No,No,2,1,Yes
+47,Female,2394,Homemaker,Tier-1 City,Occasionally,56,4,"Drama, Action, Horror, Other, Animation, Sci-Fi, Romance, Comedy",Afternoon,Alone,Yes,Yes,2,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,2,1,Yes
+36,Non-binary,1442,Student,Tier-1 City,Monthly,95,3,"Romance, Action, Documentary, Sci-Fi, Animation, Comedy",Afternoon,Friends/Group,No,Yes,5,No,Yes,No,Yes,Yes,No,No,No,Yes,2,1,Yes
+35,Prefer not to say,1031,Homemaker,Tier-2 City,Never,90,5,"Romance, Action, Animation, Other, Drama, Horror",Morning,Alone,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,4,1,Yes
+20,Prefer not to say,3051,Retired,Tier-2 City,Occasionally,93,3,"Animation, Romance, Drama, Horror",Night,Friends/Group,Yes,No,5,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,5,1,Yes
+20,Non-binary,2873,Other,Tier-2 City,Monthly,63,1,"Action, Horror, Comedy, Animation, Drama, Other",Afternoon,Family,Yes,Yes,4,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,3,5,Yes
+18,Female,4176,Other,Town,Weekly,65,1,"Comedy, Sci-Fi, Action, Drama, Other, Animation, Romance, Documentary, Horror",Evening,Partner,No,No,4,Yes,Yes,No,No,No,No,No,Yes,Yes,1,4,Yes
+44,Male,6524,Student,Tier-1 City,Weekly,39,2,"Animation, Other, Drama, Action, Horror, Romance, Comedy",Morning,Alone,Yes,Yes,3,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,3,1,Yes
+25,Male,1206,Homemaker,Rural Area,Never,93,5,"Animation, Romance, Sci-Fi, Action, Horror, Documentary, Drama",Evening,Partner,Yes,Yes,1,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,2,4,Yes
+44,Female,4287,Working Professional,Town,Occasionally,96,5,"Horror, Romance, Other, Sci-Fi, Drama, Comedy, Documentary, Animation, Action",Night,Family,No,No,3,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,5,Yes
+45,Prefer not to say,1518,Working Professional,Rural Area,Rarely,96,1,"Horror, Documentary, Romance, Action, Sci-Fi, Comedy, Other",Morning,Family,No,Yes,2,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,4,5,Yes
+38,Prefer not to say,5882,Homemaker,Tier-1 City,Occasionally,107,3,"Action, Sci-Fi, Documentary, Horror, Comedy, Other",Afternoon,Alone,No,Yes,4,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,4,1,Yes
+23,Prefer not to say,5274,Working Professional,Town,Weekly,83,5,"Comedy, Romance, Drama, Action, Sci-Fi, Horror, Other, Documentary, Animation",Evening,Family,No,Yes,4,Yes,Yes,Yes,No,No,No,No,Yes,Yes,2,4,Yes
+17,Prefer not to say,2945,Student,Rural Area,Monthly,106,1,"Sci-Fi, Other, Horror, Romance",Afternoon,Partner,Yes,No,2,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,4,5,No
+45,Female,4096,Student,Rural Area,Rarely,70,2,"Romance, Horror, Documentary, Animation, Drama, Other, Sci-Fi, Action",Afternoon,Alone,Yes,Yes,4,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,3,5,No
+54,Prefer not to say,1943,Homemaker,Tier-2 City,Never,39,4,"Other, Drama, Sci-Fi, Horror",Morning,Friends/Group,No,Yes,4,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,4,1,No
+51,Non-binary,2592,Working Professional,Tier-2 City,Rarely,92,5,"Documentary, Sci-Fi, Romance, Other, Animation",Evening,Alone,No,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,5,3,Yes
+50,Prefer not to say,5309,Student,Tier-2 City,Never,38,4,"Action, Horror, Drama, Documentary, Comedy, Sci-Fi, Other",Night,Partner,Yes,No,1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,3,4,Yes
+38,Male,2537,Student,Town,Rarely,78,3,"Sci-Fi, Animation, Horror, Drama, Action, Comedy, Documentary, Romance, Other",Afternoon,Alone,Yes,No,3,No,Yes,Yes,No,No,No,Yes,No,Yes,3,2,Yes
+45,Prefer not to say,12642,Retired,Tier-1 City,Never,94,2,"Drama, Sci-Fi, Romance, Documentary, Comedy, Horror, Action, Other, Animation",Morning,Alone,No,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,4,2,Yes
+20,Female,2704,Retired,Tier-1 City,Never,81,5,"Action, Horror, Animation, Drama, Documentary",Morning,Partner,Yes,No,5,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,5,4,Yes
+16,Male,5404,Student,Tier-2 City,Rarely,120,4,"Other, Animation, Horror, Romance, Action, Comedy, Sci-Fi",Night,Alone,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,5,Yes
+34,Female,2020,Homemaker,Tier-2 City,Rarely,35,4,"Drama, Action, Other, Animation, Sci-Fi, Comedy",Morning,Alone,Yes,Yes,3,Yes,Yes,Yes,No,Yes,No,No,No,Yes,3,4,Yes
+42,Female,1477,Other,Tier-2 City,Never,73,1,"Action, Documentary, Animation, Other, Romance, Sci-Fi, Comedy, Drama, Horror",Afternoon,Partner,Yes,Yes,1,No,No,Yes,Yes,Yes,No,Yes,No,Yes,1,1,Yes
+25,Male,4112,Other,Rural Area,Weekly,75,4,"Romance, Comedy, Horror, Other, Documentary, Sci-Fi, Action",Morning,Family,No,Yes,4,No,Yes,Yes,Yes,No,Yes,No,Yes,No,3,2,No
+18,Female,5371,Student,Tier-2 City,Rarely,48,3,"Other, Comedy, Sci-Fi, Romance, Animation, Drama, Documentary, Action",Evening,Partner,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,4,Yes
+29,Female,1265,Student,Rural Area,Occasionally,51,4,"Comedy, Romance, Drama, Sci-Fi, Horror",Evening,Alone,No,Yes,3,Yes,No,No,Yes,No,Yes,Yes,No,Yes,3,1,No
+20,Prefer not to say,1685,Student,Tier-1 City,Monthly,58,3,"Horror, Animation, Comedy, Documentary, Action, Romance, Sci-Fi, Other, Drama",Afternoon,Friends/Group,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,1,3,Yes
+44,Non-binary,1382,Homemaker,Town,Never,53,3,"Sci-Fi, Action, Horror, Other, Drama, Documentary, Comedy",Evening,Friends/Group,Yes,No,4,Yes,Yes,No,Yes,Yes,Yes,No,No,No,1,4,Yes
+52,Female,2069,Retired,Town,Never,72,1,"Animation, Documentary, Romance, Comedy, Drama, Other, Horror, Sci-Fi",Night,Partner,No,Yes,4,No,No,Yes,Yes,Yes,No,No,Yes,No,1,4,Yes
+16,Female,2496,Student,Town,Monthly,62,2,"Romance, Sci-Fi, Action, Other, Documentary, Animation, Drama, Horror, Comedy",Morning,Friends/Group,Yes,Yes,4,No,Yes,Yes,Yes,Yes,No,No,No,Yes,2,4,Yes
+29,Female,4454,Student,Town,Weekly,81,3,"Other, Animation, Drama, Romance, Documentary, Action",Afternoon,Alone,Yes,No,5,Yes,Yes,No,Yes,No,No,Yes,No,Yes,1,1,Yes
+25,Prefer not to say,3632,Working Professional,Rural Area,Monthly,87,4,"Horror, Documentary, Other, Action, Animation, Drama, Comedy, Romance",Night,Alone,Yes,Yes,3,No,No,Yes,Yes,Yes,No,No,No,Yes,2,3,Yes
+22,Non-binary,3425,Homemaker,Rural Area,Rarely,86,4,"Sci-Fi, Horror, Animation, Comedy, Documentary",Morning,Partner,Yes,Yes,3,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,5,2,Yes
+40,Male,2086,Student,Tier-2 City,Monthly,66,3,"Romance, Animation, Documentary, Action, Drama, Other, Comedy, Sci-Fi, Horror",Night,Alone,Yes,No,5,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,1,5,Yes
+59,Prefer not to say,5604,Working Professional,Rural Area,Never,80,4,"Animation, Comedy, Other, Documentary, Drama, Action",Afternoon,Family,No,Yes,1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,1,3,Yes
+58,Prefer not to say,2593,Other,Tier-2 City,Monthly,95,5,"Animation, Romance, Horror, Documentary, Action, Sci-Fi",Afternoon,Alone,No,Yes,5,Yes,Yes,No,Yes,Yes,Yes,No,No,No,3,3,Yes
+19,Non-binary,10670,Student,Tier-2 City,Occasionally,83,1,"Drama, Documentary, Animation, Romance, Comedy, Action, Sci-Fi, Horror, Other",Night,Partner,No,Yes,1,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,5,3,Yes
+20,Non-binary,3513,Student,Town,Rarely,112,4,"Comedy, Other, Documentary, Animation, Sci-Fi, Romance",Morning,Family,Yes,No,2,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,4,3,No
+40,Prefer not to say,1337,Working Professional,Rural Area,Monthly,94,1,"Animation, Romance, Horror, Other, Comedy, Drama, Action, Sci-Fi",Evening,Family,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,No,No,No,1,4,Yes
+18,Male,3818,Homemaker,Rural Area,Never,109,3,"Horror, Comedy, Other, Drama, Documentary, Animation",Evening,Friends/Group,Yes,No,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,4,2,Yes
+33,Prefer not to say,1982,Student,Tier-2 City,Rarely,25,3,"Horror, Action, Documentary, Sci-Fi, Romance, Comedy, Animation",Night,Alone,Yes,Yes,5,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,5,1,Yes
+34,Non-binary,3898,Other,Tier-2 City,Never,76,3,"Horror, Sci-Fi, Romance, Comedy, Action, Other, Drama",Afternoon,Partner,Yes,Yes,5,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,2,4,No
+47,Male,1180,Student,Tier-1 City,Weekly,68,1,"Sci-Fi, Drama, Action, Documentary, Comedy, Animation, Horror",Morning,Friends/Group,Yes,No,5,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,4,1,Yes
+34,Non-binary,1480,Other,Tier-1 City,Occasionally,72,4,"Other, Animation, Documentary, Horror, Romance, Action, Sci-Fi, Drama, Comedy",Morning,Friends/Group,No,Yes,5,Yes,No,Yes,Yes,No,Yes,No,Yes,No,4,1,Yes
+26,Male,5840,Retired,Tier-2 City,Weekly,58,5,"Sci-Fi, Documentary, Horror, Comedy, Animation, Romance",Afternoon,Alone,Yes,Yes,4,Yes,No,Yes,Yes,Yes,No,No,No,Yes,5,1,Yes
+15,Female,1644,Retired,Tier-1 City,Occasionally,82,1,"Horror, Sci-Fi, Romance, Animation, Comedy, Other, Action, Documentary",Evening,Alone,Yes,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,5,2,Yes
+40,Non-binary,5535,Other,Tier-1 City,Monthly,38,5,"Action, Sci-Fi, Drama, Comedy, Documentary",Morning,Partner,No,No,2,Yes,No,Yes,Yes,Yes,No,No,No,No,1,3,Yes
+28,Non-binary,1818,Homemaker,Tier-2 City,Rarely,83,4,"Horror, Romance, Sci-Fi, Documentary, Other, Action, Animation",Night,Friends/Group,Yes,Yes,4,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,4,5,Yes
+52,Prefer not to say,3574,Student,Tier-2 City,Monthly,59,4,"Drama, Romance, Documentary, Horror, Comedy, Animation, Other",Evening,Partner,No,Yes,1,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,1,5,No
+51,Non-binary,3961,Student,Rural Area,Occasionally,64,1,"Sci-Fi, Comedy, Action, Other, Animation, Romance, Documentary",Night,Friends/Group,No,Yes,5,No,Yes,No,No,Yes,No,No,Yes,Yes,5,3,Yes
+25,Non-binary,2796,Retired,Tier-2 City,Occasionally,83,2,"Documentary, Romance, Sci-Fi, Other, Animation",Evening,Friends/Group,No,No,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,3,No
+50,Female,1910,Other,Tier-2 City,Occasionally,76,5,"Action, Other, Drama, Sci-Fi, Romance, Horror, Comedy, Animation, Documentary",Afternoon,Friends/Group,Yes,Yes,2,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,2,No
+27,Non-binary,1597,Student,Town,Never,96,3,"Other, Action, Sci-Fi, Comedy, Drama",Night,Alone,No,Yes,4,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,4,5,Yes
+57,Female,1084,Student,Rural Area,Rarely,55,5,"Other, Documentary, Drama, Horror, Comedy",Night,Friends/Group,Yes,Yes,1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,5,4,Yes
+17,Female,1905,Homemaker,Rural Area,Monthly,73,4,"Romance, Animation, Comedy, Drama",Afternoon,Friends/Group,No,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,3,2,Yes
+47,Female,3647,Working Professional,Rural Area,Monthly,92,4,"Romance, Action, Comedy, Horror",Night,Friends/Group,Yes,Yes,5,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,2,5,No
+20,Female,7963,Retired,Town,Weekly,82,1,"Romance, Animation, Drama, Documentary, Sci-Fi, Other",Evening,Family,Yes,Yes,4,Yes,Yes,No,Yes,Yes,No,No,No,Yes,5,4,Yes
+24,Male,6123,Retired,Tier-2 City,Occasionally,83,2,"Romance, Animation, Comedy, Drama, Horror, Documentary, Other, Sci-Fi",Morning,Alone,Yes,Yes,3,Yes,No,No,Yes,Yes,No,No,Yes,Yes,5,2,Yes
+19,Prefer not to say,4631,Working Professional,Rural Area,Occasionally,97,3,"Horror, Drama, Action, Comedy",Morning,Family,Yes,No,1,No,Yes,Yes,No,Yes,No,No,No,Yes,1,5,Yes
+37,Male,4883,Student,Rural Area,Occasionally,66,5,"Action, Documentary, Drama, Comedy, Horror",Afternoon,Alone,No,No,2,Yes,No,No,Yes,Yes,Yes,No,No,No,5,4,No
+24,Non-binary,3733,Homemaker,Tier-1 City,Monthly,62,2,"Comedy, Documentary, Action, Horror, Drama, Romance, Other",Evening,Partner,No,Yes,1,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4,1,No
+58,Male,1753,Homemaker,Rural Area,Weekly,86,3,"Comedy, Drama, Action, Documentary, Animation, Other, Horror",Night,Family,No,No,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,2,5,Yes
+16,Male,6943,Retired,Tier-2 City,Never,72,4,"Drama, Sci-Fi, Documentary, Romance, Animation",Night,Partner,Yes,Yes,2,No,Yes,No,Yes,Yes,No,No,No,Yes,5,4,Yes
+27,Non-binary,3777,Homemaker,Tier-2 City,Rarely,97,4,"Action, Drama, Horror, Other, Comedy",Morning,Friends/Group,No,No,1,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,2,2,Yes
+54,Non-binary,3054,Working Professional,Tier-1 City,Never,82,1,"Comedy, Romance, Action, Drama, Animation, Horror, Other",Night,Partner,Yes,Yes,5,Yes,Yes,No,Yes,Yes,No,Yes,No,No,2,4,Yes
+16,Non-binary,1294,Student,Rural Area,Monthly,62,1,"Comedy, Romance, Other, Action, Documentary, Horror, Drama, Animation",Morning,Partner,No,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1,2,No
+34,Male,2481,Working Professional,Rural Area,Occasionally,81,5,"Sci-Fi, Action, Drama, Documentary, Other, Horror, Comedy",Afternoon,Partner,No,No,1,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,3,4,Yes
+15,Male,2542,Other,Rural Area,Rarely,56,2,"Drama, Horror, Animation, Action, Other, Sci-Fi, Romance, Documentary, Comedy",Night,Partner,Yes,No,2,No,Yes,Yes,Yes,Yes,No,Yes,No,No,2,3,Yes
+51,Non-binary,5998,Retired,Town,Monthly,93,2,"Animation, Sci-Fi, Comedy, Other",Evening,Alone,No,Yes,2,Yes,No,Yes,Yes,No,No,Yes,No,No,5,5,Yes
+23,Prefer not to say,2977,Homemaker,Rural Area,Monthly,47,3,"Comedy, Action, Animation, Other, Romance, Horror, Sci-Fi",Night,Family,Yes,Yes,1,No,Yes,No,Yes,No,No,Yes,Yes,No,3,2,Yes
+31,Prefer not to say,2196,Other,Tier-2 City,Monthly,99,5,"Drama, Comedy, Other, Horror, Romance, Animation",Morning,Alone,Yes,Yes,4,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,1,4,Yes
+23,Female,10409,Homemaker,Tier-2 City,Rarely,81,1,"Drama, Romance, Documentary, Action, Other, Comedy, Horror, Sci-Fi, Animation",Afternoon,Alone,Yes,Yes,3,Yes,No,Yes,No,Yes,No,No,Yes,No,4,2,Yes
+25,Non-binary,1293,Student,Town,Rarely,71,5,"Sci-Fi, Animation, Action, Horror, Drama, Comedy, Romance",Morning,Alone,Yes,Yes,2,Yes,Yes,Yes,Yes,No,No,No,No,Yes,4,1,Yes
+29,Female,2372,Student,Town,Weekly,90,4,"Animation, Comedy, Action, Sci-Fi, Drama, Horror, Romance, Other, Documentary",Night,Partner,No,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,4,2,Yes
+38,Prefer not to say,1107,Student,Rural Area,Weekly,85,1,"Other, Comedy, Drama, Horror, Romance, Action, Documentary",Morning,Alone,Yes,No,3,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,2,5,Yes
+52,Female,4366,Homemaker,Tier-1 City,Never,101,2,"Drama, Other, Romance, Documentary, Comedy, Horror",Morning,Family,Yes,Yes,5,Yes,No,Yes,Yes,Yes,Yes,No,No,No,3,1,Yes
+49,Non-binary,7254,Other,Town,Rarely,101,1,"Action, Comedy, Other, Sci-Fi, Animation, Horror",Afternoon,Alone,Yes,Yes,1,No,No,Yes,Yes,Yes,No,Yes,No,Yes,1,5,Yes
+44,Non-binary,1821,Student,Town,Rarely,82,4,"Comedy, Documentary, Romance, Animation, Sci-Fi, Drama, Other",Evening,Friends/Group,No,Yes,4,No,No,No,Yes,Yes,No,No,No,Yes,3,4,Yes
+45,Non-binary,5885,Other,Rural Area,Rarely,57,1,"Comedy, Action, Documentary, Romance, Horror, Other",Night,Partner,No,Yes,1,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,2,3,Yes
+19,Male,1864,Homemaker,Rural Area,Weekly,64,2,"Animation, Action, Documentary, Horror, Drama",Afternoon,Friends/Group,No,Yes,3,Yes,No,No,Yes,Yes,Yes,No,Yes,No,5,5,Yes
+58,Female,7041,Other,Town,Monthly,73,4,"Documentary, Other, Sci-Fi, Drama, Romance, Comedy",Evening,Family,No,Yes,5,Yes,Yes,Yes,No,Yes,No,No,No,Yes,1,2,Yes
+28,Prefer not to say,4505,Homemaker,Tier-1 City,Occasionally,96,3,"Drama, Comedy, Romance, Sci-Fi, Other",Morning,Family,Yes,No,1,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,3,Yes
+25,Prefer not to say,5085,Homemaker,Town,Weekly,65,5,"Comedy, Animation, Sci-Fi, Action, Romance, Horror, Documentary, Drama, Other",Evening,Family,Yes,No,2,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,3,2,Yes
+23,Prefer not to say,1045,Retired,Rural Area,Rarely,67,3,"Documentary, Other, Romance, Horror, Sci-Fi, Animation, Comedy, Drama, Action",Morning,Family,Yes,Yes,3,Yes,Yes,Yes,No,Yes,No,No,No,No,4,1,No
+48,Male,9229,Homemaker,Rural Area,Weekly,111,4,"Comedy, Drama, Other, Action, Animation, Romance",Morning,Alone,Yes,Yes,4,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,3,1,Yes
+26,Male,4242,Homemaker,Town,Never,72,4,"Horror, Action, Comedy, Other",Afternoon,Partner,No,Yes,4,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,3,1,Yes
+49,Non-binary,1908,Working Professional,Tier-1 City,Rarely,62,4,"Drama, Horror, Documentary, Romance, Sci-Fi, Comedy, Action, Animation, Other",Morning,Family,Yes,No,2,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,2,4,Yes
+49,Prefer not to say,5421,Student,Town,Never,90,2,"Documentary, Animation, Action, Other, Comedy",Afternoon,Friends/Group,No,No,1,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,1,Yes
+15,Male,1826,Retired,Town,Rarely,73,4,"Documentary, Other, Horror, Action, Animation",Evening,Family,Yes,Yes,2,Yes,No,No,No,Yes,No,Yes,Yes,Yes,5,5,Yes
+54,Non-binary,6154,Retired,Rural Area,Weekly,47,5,"Horror, Other, Drama, Sci-Fi, Documentary, Action, Comedy, Romance",Evening,Partner,Yes,Yes,5,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,2,Yes
+36,Prefer not to say,1298,Retired,Tier-1 City,Monthly,95,2,"Animation, Other, Documentary, Horror",Morning,Friends/Group,Yes,No,4,Yes,No,Yes,No,Yes,No,No,Yes,Yes,2,1,Yes
+43,Female,4040,Working Professional,Tier-2 City,Occasionally,60,4,"Other, Sci-Fi, Action, Horror, Romance, Documentary, Drama, Comedy, Animation",Afternoon,Friends/Group,No,Yes,4,Yes,Yes,No,Yes,Yes,No,No,No,No,3,5,Yes
+22,Non-binary,17670,Homemaker,Tier-1 City,Never,75,2,"Action, Other, Horror, Sci-Fi, Drama, Documentary, Comedy, Romance, Animation",Morning,Friends/Group,No,Yes,1,No,Yes,Yes,Yes,No,No,No,No,Yes,5,5,Yes
+25,Male,1253,Student,Town,Weekly,73,5,"Documentary, Romance, Horror, Other",Afternoon,Alone,No,No,4,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,1,1,No
+55,Male,1692,Other,Town,Monthly,79,5,"Action, Drama, Documentary, Romance, Comedy, Horror, Sci-Fi",Afternoon,Family,Yes,No,2,Yes,No,No,Yes,Yes,No,Yes,No,No,4,5,Yes
+51,Non-binary,1031,Homemaker,Town,Weekly,31,2,"Horror, Other, Sci-Fi, Romance, Drama, Documentary, Action",Afternoon,Alone,No,Yes,2,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,5,4,No
+28,Non-binary,2581,Working Professional,Tier-1 City,Never,68,1,"Animation, Other, Documentary, Romance, Drama, Horror",Evening,Friends/Group,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,4,1,Yes
+44,Male,1896,Homemaker,Rural Area,Occasionally,97,3,"Horror, Sci-Fi, Romance, Animation, Action",Afternoon,Alone,Yes,Yes,3,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,1,2,Yes
+49,Female,3280,Homemaker,Town,Weekly,100,4,"Documentary, Drama, Comedy, Animation, Romance, Horror, Action, Sci-Fi, Other",Evening,Alone,No,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,3,4,Yes
+35,Prefer not to say,1881,Working Professional,Town,Rarely,55,3,"Horror, Other, Sci-Fi, Action, Romance, Drama",Afternoon,Alone,Yes,Yes,4,Yes,Yes,Yes,Yes,No,No,Yes,No,No,1,3,Yes
+51,Female,1891,Retired,Tier-1 City,Monthly,93,5,"Romance, Drama, Comedy, Sci-Fi, Action, Other",Evening,Family,No,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,2,Yes
+19,Non-binary,4398,Retired,Tier-2 City,Weekly,59,3,"Animation, Comedy, Sci-Fi, Documentary, Action, Romance",Night,Friends/Group,Yes,No,5,No,Yes,No,Yes,Yes,Yes,No,No,Yes,4,2,Yes
+33,Female,1123,Student,Tier-2 City,Monthly,67,1,"Sci-Fi, Romance, Animation, Drama, Action, Documentary, Other",Evening,Friends/Group,Yes,No,5,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,3,2,Yes
